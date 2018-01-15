@@ -1,0 +1,6 @@
+<title>cybernet Social Cloud </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Result case Big Data Social Cloud cost <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

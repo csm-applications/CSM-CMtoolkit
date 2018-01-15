@@ -1,0 +1,34 @@
+<title>Test Governance Framework for contracted IS development: Ethnographically informed action research</title>
+
+<context>
+Over the past two decades, interest has increased in software development and testing outsourcing. Although the decision to outsource development or test processes is founded on various background motives, e.g., costs, capacity, time-to-market, etc., additional factors that influence the outsourcing relationships are frequently overlooked by client organizations.</context>
+Objective
+The main objectives of this paper are to investigate the role of testing in contracted software development projects and examine the interactions between both parties during the process. A Test Governance Framework (TeGoF) was developed to propose an organization-wide but project-centred mechanism for control of the test process in contracted software development projects.
+Method
+The principles of design science were applied to develop the TeGoF. The principles of ethnographically informed action research were used to evaluate this management artefact in an industrial context and examine the impact of a particular organizational setting on the framework.
+
+<results>
+	<result>
+		Of a total of three projects, the TeGoF was applied smoothly in only one case.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		However, this observation should not be interpreted as a TeGoF deficiency because its primary goal is to define a powerful detection mechanism to cope with quality-related issues in contractual relationships.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		In this sense, the TeGoF proved itself as a feasible tool.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Additionally, an analysis is presented that describes the factors that contributed to the implementation difficulties of the TeGoF principles in the two remaining projects.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Finally, the relationships among trust, control and power are indicated as well as the potential influence of national, organizational and occupational culture.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+The main contribution of this paper consists in the development of the TeGoF as a tool that pinpoints significant limitations in the current research related to control issues in the domain of contracted software systems testing. Additionally, the authors analysed key factors that influence the success of the TeGoF in client organizations.

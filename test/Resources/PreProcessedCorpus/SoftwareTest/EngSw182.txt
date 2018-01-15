@@ -1,0 +1,6 @@
+<title>Systemat analys comparison develop perform product qualiti Increment Process Agile Process </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result comparison Agile Process better Increment Process term product number#999 defect densiti number#999 defect resolut effort ratio number#999 Test Execut V&V Effectiv number#999 effort predict capabl <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

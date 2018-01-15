@@ -1,0 +1,30 @@
+<title>Tester interactivity makes a difference in search-based software testing: A controlled experiment</title>
+
+Context: Search-based software testing promises to provide users with the ability to generate high quality test cases, and hence increase product quality, with a minimal increase in the time and effort required.
+
+The development of the Interactive Search-Based Software Testing (ISBST) system was motivated by a previous study to investigate the application of search-based software testing (SBST) in an industrial setting. ISBST allows users to interact with the underlying SBST system, guiding the search and assessing the results. An industrial evaluation indicated that the ISBST system could find test cases that are not created by testers employing manual techniques. The validity of the evaluation was threatened, however, by the low number of participants.
+
+Objective: This paper presents a follow-up study, to provide a more rigorous evaluation of the ISBST system.
+
+Method: To assess the ISBST system a two-way crossover controlled experiment was conducted with 58 students taking a Verification and Validation course. The NASA Task Load Index (NASA-TLX) is used to assess the workload experienced by the participants in the experiment.
+
+<results>
+	<result>
+		The experimental results validated the hypothesis that the ISBST system generates test cases that are not found by the same participants employing manual testing techniques. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		A follow-up laboratory experiment also investigates the importance of interaction in obtaining the results.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		In addition to this main result, the subjective workload was assessed for each participant by means of the NASA-TLX tool.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The evaluation showed that, while the ISBST system required more effort from the participants, they achieved the same performance.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions: The paper provides evidence that the ISBST system develops test cases that are not found by manual techniques, and that interaction plays an important role in achieving that result.

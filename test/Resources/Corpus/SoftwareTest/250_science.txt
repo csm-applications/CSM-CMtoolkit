@@ -1,0 +1,11 @@
+<title>Distributing test cases more evenly in adaptive random testing </title>
+
+Adaptive random testing (ART) has recently been proposed to enhance the failure-detection capability of random testing. In ART, test cases are not only randomly generated, but also evenly spread over the input domain. Various \{ART\} algorithms have been developed to evenly spread test cases in different ways. Previous studies have shown that some \{ART\} algorithms prefer to select test cases from the edge part of the input domain rather than from the centre part, that is, inputs do not have equal chance to be selected as test cases. Since we do not know where the failure-causing inputs are prior to testing, it is not desirable for inputs to have different chances of being selected as test cases. Therefore, in this paper, we investigate how to enhance some \{ART\} algorithms by offsetting the edge preference, and propose a new family of \{ART\} algorithms. 
+
+<results> 
+	<result>
+		A series of simulations have been conducted and it is shown that these new algorithms not only select test cases more evenly, but also have better failure detection capabilities.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

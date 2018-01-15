@@ -1,0 +1,6 @@
+<title>softwar reliabl estim adapt </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>varianc techniqu comparison MAT can tester reliabl engin better reliabl program <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

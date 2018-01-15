@@ -1,0 +1,6 @@
+<title>Investig knowledg manag method softwar test process </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>knowledg manag method knowledg manag system softwar test Simultan mani kei technolog such knowledg represent knowledg map etc <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

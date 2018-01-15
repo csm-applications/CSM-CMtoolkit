@@ -1,0 +1,21 @@
+<title>Test coverage of impacted code elements for detecting refactoring faults: An exploratory study</title> 
+
+Refactoring validation by testing is critical for quality in agile development. However, this activity may be misleading when a test suite is insufficiently robust for revealing faults. Particularly, refactoring faults can be tricky and difficult to detect. Coverage analysis is a standard practice to evaluate fault detection capability of test suites. However, there is usually a low correlation between coverage and fault detection. In this paper, we present an exploratory study on the use of coverage data of mostly impacted code elements to identify shortcomings in a test suite. We consider three real open source projects and their original test suites. 
+
+<results>
+	<result>
+		The results show that a test suite not directly calling the refactored method and/or its callers increases the chance of missing the fault. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Additional analysis of branch coverage on test cases shows that there are higher chances of detecting a refactoring fault when branch coverage is high. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		These results give evidence that a combination of impact analysis with branch coverage could be highly effective in detecting faults introduced by refactoring edits.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result> 
+</results>
+
+Furthermore, we propose a statistic model that evidences the correlation of coverage over certain code elements and the suite’s capability of revealing refactoring faults. 
+

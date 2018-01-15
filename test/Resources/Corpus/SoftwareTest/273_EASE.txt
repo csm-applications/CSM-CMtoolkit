@@ -1,0 +1,15 @@
+<title>Predicting Web Development Effort Using a Bayesian Network</title>
+
+
+Objective: The objective of this paper is to investigate the use of a Bayesian Network (BN) for Web effort estimation.
+
+Method: We built a BN automatically using the HUGIN tool and data on 120 Web projects from the Tukutuku database. In addition the BN model and node probability tables were also validated by a Web project manager from a well-established Web company in Rio de Janeiro (Brazil). The accuracy was measured using data on 30 projects (validation set), and point estimates (1-fold cross-validation using a 80%-20% split). The estimates obtained using the BN were also compared to estimates obtained using forward stepwise regression (SWR) as this is one of the most frequently used techniques for software and Web effort estimation.
+
+<results> 
+	<result>
+		Our results showed that BN-based predictions were better than previous predictions from Web-based cross-company models, and significantly better than predictions using SWR.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions: Our results suggest that, at least for the dataset used, the use of a model that allows the representation of uncertainty, inherent in effort estimation, can outperform other commonly used models, such as those built using multivariate regression techniques.

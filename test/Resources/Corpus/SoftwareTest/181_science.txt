@@ -1,0 +1,18 @@
+<title>Applying a smoothing filter to improve IR-based traceability recovery processes: An empirical investigation</title>
+
+<context>
+Traceability relations among software artifacts often tend to be missing, outdated, or lost. For this reason, various traceability recovery approaches—based on Information Retrieval (IR) techniques—have been proposed. The performances of such approaches are often influenced by “noise” contained in software artifacts (e.g., recurring words in document templates or other words that do not contribute to the retrieval itself).</context>
+Aim
+As a complement and alternative to stop word removal approaches, this paper proposes the use of a smoothing filter to remove “noise” from the textual corpus of artifacts to be traced.
+Method
+We evaluate the effect of a smoothing filter in traceability recovery tasks involving different kinds of artifacts from five software projects, and applying three different IR methods, namely Vector Space Models, Latent Semantic Indexing, and Jensen–Shannon similarity model.
+
+<results>
+	<result>
+		Our study indicates that, with the exception of some specific kinds of artifacts (i.e., tracing test cases to source code) the proposed approach is able to significantly improve the performances of traceability recovery, and to remove “noise” that simple stop word filters cannot remove.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions
+The obtained results not only help to develop traceability recovery approaches able to work in presence of noisy artifacts, but also suggest that smoothing filters can be used to improve performances of other software engineering approaches based on textual analysis.

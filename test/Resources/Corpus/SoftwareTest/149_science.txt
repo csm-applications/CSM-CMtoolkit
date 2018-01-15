@@ -1,0 +1,22 @@
+<title>Test overlay in an emerging software product line – An industrial case study</title>
+
+<context>
+In large software organizations with a product line development approach, system test planning and scope selection is a complex task. Due to repeated testing: across different testing levels, over time (test for regression) as well as of different variants, the risk of redundant testing is large as well as the risk of overlooking important tests, hidden by the huge amount of possible tests.</context>
+Aims
+This study assesses the amount and type of overlaid manual testing across feature, integration and system test in such context, it explores the causes of potential redundancy and elaborates on how to provide decision support in terms of visualization for the purpose of avoiding redundancy.
+Method
+An in-depth case study was launched including both qualitative and quantitative observations.
+
+<results>
+	<result>
+		A high degree of test overlay is identified originating from distributed test responsibilities, poor documentation and structure of test cases, parallel work and insufficient delta analysis.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The amount of test overlay depends on which level of abstraction is studied.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions
+Avoiding redundancy requires tool support, e.g. visualization of test design coverage, test execution progress, priorities of coverage items as well as visualized priorities of variants to support test case selection.

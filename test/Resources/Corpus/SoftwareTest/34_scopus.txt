@@ -1,0 +1,10 @@
+<title>Prototype mobile Knowledge Management System (KMS) for Islamic banking with 'Tiwana' framework on university: Case study STEI SEBI</title>
+
+Knowledge Management System (KMS) aims to improve the quality of human resources within an organization by improving communication between all parts of the organization and enhance the acquisition of knowledge with knowledge transfer. The application of KMS with a web-based system is expected to be the solution of knowledge transfer requirements that are not hindered by the limitations of time and place, while the mobile application is expected to further facilitate accessing KMS by students and lecturers that mobility is high. This research uses model framework Amrit Tiwana, knowledge mapping and organizations use the Zack cycle, while for the creation of knowledge use SECI model. The quality of the resulting software is tested by four characteristics of software quality model of ISO 9126. 
+
+<results>
+<result>
+Result of this research is the prototype of a web-based KMS and Android mobile that can be implemented well with a very good quality test then can be a solution to improve the mastery of knowledge in learning activities and make Prodi Islamic Banking can work smarter in utilizing existing resources from time to time that the estuary is improving the quality and development of knowledge.
+<TypeOfResult>Qualitative</TypeOfResult>
+</result>
+</results>

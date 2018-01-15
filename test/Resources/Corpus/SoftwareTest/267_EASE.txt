@@ -1,0 +1,17 @@
+<title>Feature Selection and Clustering in Software Quality Prediction</title>
+
+
+Software quality prediction models use the software metrics and fault data collected from previous software releases or similar projects to predict the quality of software components in development.
+
+Previous research has shown that this kind of models can yield predictions with impressive accuracy. However, building accurate software quality prediction model is still challenging for following two reasons. Firstly, the outliers in software data often have a disproportionate effect on the overalls predictive ability of the model. Secondly, not all collected software metrics should be used to construct model because of the curse of dimension.
+
+To resolve these two problems, we present a new software quality prediction model based on genetic algorithm (GA) in which outlier detection and feature selection are executed simultaneously. 
+
+<results>
+	<result>
+		The experimental results illustrate this model performs better than some latest raised software quality prediction models based on S-PLUS and TreeDisc.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Furthermore, the clustered software components and selected features are easier for software engineers and data analysts to study and interpret.

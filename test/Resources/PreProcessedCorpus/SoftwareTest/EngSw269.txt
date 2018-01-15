@@ -1,0 +1,6 @@
+<title>map studi designtim qualiti attribut metric </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>maintain most frequent highlevel qualiti attribut regardless applic domain develop phase <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

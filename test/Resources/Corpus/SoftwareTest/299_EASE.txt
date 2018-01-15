@@ -1,0 +1,13 @@
+<title>An Evaluation of Quality Checklist Proposals - A participant-observer case study</title>
+
+
+Background: A recent set of guidelines for software engineering systematic literature reviews (SLRs) includes a list of quality criteria obtained from the literature. The guidelines suggest that the list can be used to construct a tailored set of questions to evaluate the quality of primary studies. Aim: This paper aims to evaluate whether the list of quality criteria help researchers construct tailored quality checklists. Method: We undertook a participant-observer case study to investigate the list of quality criteria. The "case" in this study was the planning stage of a systematic literature review on unit testing. 
+
+<results> 
+	<result>
+		The checklists in our SLR guidelines do not provide sufficient help with the construction of a quality checklist for a specific SLR either for novices or for experienced researchers.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+However, the checklists are reasonably complete and lead to the use of a common terminology for quality questions selected for a specific systematic literature review. Conclusions: The guidelines document should be amended to include a much shorter generic checklist. Researchers might find it useful to adopt a team-based process for quality checklist construction and provide suggestions for answering quality checklist questions.

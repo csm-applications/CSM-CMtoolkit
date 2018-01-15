@@ -1,0 +1,6 @@
+<title>Countermeasur graph softwar secur risk assess action research </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result CG practition high risk secur threat well agil softwar develop context costeffect <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

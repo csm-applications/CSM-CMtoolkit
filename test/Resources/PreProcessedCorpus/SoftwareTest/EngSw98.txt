@@ -1,0 +1,6 @@
+<title>Heuristicsbas infeas path detect dynam test data gener </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>experi approach effici most infeas path averag precis number#999 recal number#999 all case <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

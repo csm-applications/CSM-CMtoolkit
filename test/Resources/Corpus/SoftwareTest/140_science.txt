@@ -1,0 +1,14 @@
+<title>Analysis of test suite reduction with enhanced tie-breaking techniques</title>
+
+Test suite minimization techniques try to remove redundant test cases of a test suite. However, reducing the size of a test suite might reduce its ability to reveal faults. In this paper, we present a novel approach for test suite reduction that uses an additional testing criterion to break the ties in the minimization process. We integrated the proposed approach with two existing algorithms and conducted experiments for evaluation. 
+
+<results>
+	<result>
+		The experiment results show that our approach can improve the fault detection effectiveness of reduced suites with a negligible increase in the size of the suites.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Besides, under specific conditions, the proposed approach can also accelerate the process of minimization.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

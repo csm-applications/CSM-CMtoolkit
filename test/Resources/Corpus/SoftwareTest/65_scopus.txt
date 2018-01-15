@@ -1,0 +1,22 @@
+<title>Understanding the influence of social media in the workplace: An integration of media synchronicity and social capital theories</title>
+
+Social media has deeply penetrated workplace, which has affected multiple aspects of employees' lives. This paper aims to investigate the influence of social media on employees' work performance and the underlying mechanism for how they create value at work. Based on media synchronicity and social capital theories, we propose that social media can promote work performance by stimulating trust among employees and offering a communication channel where explicit and implicit knowledge can be effectively transferred. The research model is tested using data collected from 105 Chinese software professionals. 
+
+<results>
+	<result>
+		The results reveal that social media can enhance trust among employees. The direct effect on knowledge transfer was not significant but the impact was mediated by trust. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Trust enhances knowledge exchange in the workplace with a stronger influence on the transfer of implicit knowledge rather than explicit knowledge. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Implicit knowledge transfer was significantly related to work performance, while explicit knowledge transfer did not significantly influence work performance.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The theoretical and practical contributions of this study are discussed. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 

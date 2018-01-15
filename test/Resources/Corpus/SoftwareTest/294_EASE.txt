@@ -1,0 +1,21 @@
+<title>Investigating the Use of Chronological Splitting to Compare Software Cross-company and Single-company Effort Predictions: A Replicated Study</title>
+
+
+Context: Three previous studies have investigated the use of chronological split to compare cross- to single-company effort predictions, where all used the ISBSG dataset release 10. Therefore there is a need for these studies to be replicated using different datasets such that the patterns previously observed can be compared and contrasted, and a better understanding with regard to the use of chronological splitting can be reached.
+
+Objective: The aim of this study is to replicate [17] using the same chronological splitting; however a different database - the Finnish dataset.
+
+Method: Chronological splitting was compared with two forms of cross-validation. The chronological splitting used was the project-by-project chronological split, in which a validation set contains a single project, and a regression model is built from scratch using as training set the set of projects completed before the validation project's start date. We used 201 single-company projects and 593 cross-company projects from the Finnish dataset.
+
+<results>
+	<result>
+		Single-company models presented significantly better prediction than cross-company models. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Chronological splitting provided significantly worse accuracy than leave-one and leave-two out cross-validations when based on single-company data; and provided similar accuracy when based on cross-company data.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions: Results did not seem promising when using project-by-project splitting; however in a real scenario companies that use their own data can only apply some sort of chronological splitting when obtaining effort estimates for their new projects. Therefore we urge the use of chronological splitting in effort estimation studies such that more realistic results can be provided to inform industry.

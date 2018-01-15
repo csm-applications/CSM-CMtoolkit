@@ -1,0 +1,6 @@
+<title>Neg sampl reduct crosscompani softwar defect predict </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Statist analysi DTB significantli better WCDP model train limit sampl compar result WCDP suffici train data <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

@@ -1,0 +1,10 @@
+<title>Knowledge management: An applied unified modelling language approach</title>
+
+The elicitation, organisation and processing of organisational knowledge is of crucial importance is the successful management of an enterprise wide activity. The Unified Modelling Language (UML) toolbox has been widely adopted by both academia (Business and Computing Schools in particular) and Information Systems practitioners. Of the UML tools, the selection of the USE-CASE technique as a means of gaining insight relating to the user - activity interface, is of particular relevance to the field of Knowledge Management. USE-CASE is normally used to describe the narrative between user activity and process to design an application. The case study outlined within this paper was conducted at a medium sized manufacturing company, where it has been used to collect a plurality of views across all organisational functions to gain an overall picture of the organisation's main business activity. It will be shown how it has been applied to create the selection and testing criteria for a new Enterprise Resource Planning (ERP) software application. The paper then goes on to discuss how the USE-CASE technique when embedded in systems thinking may be used to allow organisations to better understand and represent the knowledge requirements of a major enterprise-wide activity. 
+
+<results>
+	<result>
+		It finally describes how this approach may be designed and implemented as an organisational learning tool for knowledge management practitioners.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

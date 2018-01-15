@@ -1,0 +1,17 @@
+<title>A data flow-based structural testing technique for FBD programs</title>
+
+With increased use of programmable logic controllers (PLCs) in implementing critical systems, quality assurance became an important issue. Regulation requires structural testing be performed for safety-critical systems by identifying coverage criteria to be satisfied and accomplishment measured. Classical coverage criteria, based on control flow graphs, are inadequate when applied to a data flow language function block diagram (FBD) which is a PLC programming language widely used in industry. We propose three structural coverage criteria for FBD programs, analyze relationship among them, and demonstrate their effectiveness using a real-world reactor protection system.
+
+<results> 
+
+	<result>
+		Using test cases that had been manually prepared by FBD testing professionals, our technique found many aspects of the FBD logic that were not tested sufficiently.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+
+	<result>
+		Domain experts, having found the approach highly intuitive, found the technique effective.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+
+</results>

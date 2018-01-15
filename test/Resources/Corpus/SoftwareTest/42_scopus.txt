@@ -1,0 +1,18 @@
+<title>To learn or not to learn from project monitoring feedback: In search of explanations for the contractor's dichromatic responses</title>
+
+Organizational learning (OL) seems to be a legitimate contractors' response to project monitoring feedback. However, findings from previous studies reveal that contractors' responses to feedback are mercurial and difficult to model by using conventional approaches. This study applies catastrophe theory to model the contractors' learning behavior in response to feedback. An industry survey was conducted in Hong Kong for data collection. To test the conceptual model, Cusp fit program was employed. 
+
+<results>
+	<result>
+		The results indicate that not until they perform worse than the client's anticipation, the contractors may not practice double-loop learning as a response to the project monitoring feedback. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Contractors' learning from feedback may be conditional.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		This study demonstrates a new approach to model a dynamic characteristic of the contractors' learning behavior.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

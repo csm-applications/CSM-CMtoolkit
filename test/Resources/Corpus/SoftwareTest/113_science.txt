@@ -1,0 +1,18 @@
+<title>Requirements based test prioritization using risk factors: An industrial study</title>
+
+<context>
+Software testing is an expensive and time-consuming process. Software engineering teams are often forced to terminate their testing efforts due to budgetary and time constraints, which inevitably lead to long term issues with quality and customer satisfaction. Test case prioritization (TCP) has shown to improve test effectiveness.</context>
+Objective
+The results of our prior work on requirements-based test prioritization showed improved rate of fault detection on industrial projects; the customer priority (CP) and the fault proneness (FP) were the biggest contributing factors to test effectiveness. The objective of this paper is to further investigate these two factors and apply prioritization based on these factors in a different domain: an enterprise level cloud application. We aim to provide an effective prioritization scheme that practitioners can implement with minimum effort. The other objective is to compare the results and the benefits of these two factors with two risk-based prioritization approaches that extract risks from the system requirements categories.
+Method
+Our approach involved analyzing and assigning values to each requirement based on two important factors, CP and FP, so that the test cases for high-value requirements are prioritized earlier for execution. We also proposed two requirements-based TCP approaches that use risk information of the system.
+
+<results>
+	<result>
+		Our results indicate that the use of CP and FP can improve the effectiveness of TCP. The results also show that the risk-based prioritization can be effective in improving the TCP.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+We performed an experiment on an enterprise cloud application to measure the fault detection rate of different test suites that are prioritized based on CP, FP, and risks. The results depict that all approaches outperform the random prioritization approach, which is prevalent in the industry. Furthermore, the proposed approaches can easily be used in the industry to address the schedule and budget constraints at the testing phase.

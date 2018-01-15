@@ -1,0 +1,6 @@
+<title>Autom test gener techniqu aspectu featur AspectJ </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>paper result thorough empir studi AspectJ benchmark program nontrivi larger softwar mean mutat analysi RAMBUTANS four autom AOP approach test aspect term fault detect effect test effort effici <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

@@ -1,0 +1,11 @@
+<title>A symbolic analysis framework for static analysis of imperative programming languages </title>
+
+We present a generic symbolic analysis framework for imperative programming languages. Our framework is capable of computing all valid variable bindings of a program at given program points. This information is invaluable for domain-specific static program analyses such as memory leak detection, program parallelization, and the detection of superfluous bound checks, variable aliases and task deadlocks. We employ path expression algebra to model the control flow information of programs. A homomorphism maps path expressions into the symbolic domain. At the center of the symbolic domain is a compact algebraic structure called supercontext. A supercontext contains the complete control and data flow analysis information valid at a given program point. Our approach to compute supercontexts is based purely on algebra and is fully automated. This novel representation of program semantics closes the gap between program analysis and computer algebra systems, which makes supercontexts an ideal symbolic intermediate representation for all domain-specific static program analyses. Our approach is more general than existing methods because it can derive solutions for arbitrary (even intra-loop and nested loop) nodes of reducible and irreducible control flow graphs. We prove the correctness of our symbolic analysis method. 
+
+<results>
+	<result>
+		Our experimental results show that the problem sizes arising from real-world applications such as the SPEC95 benchmark suite are tractable for our symbolic analysis framework.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

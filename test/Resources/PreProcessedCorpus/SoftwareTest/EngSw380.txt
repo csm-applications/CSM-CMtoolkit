@@ -1,0 +1,6 @@
+<title>Impact Experienc Team Size Qualiti Scenario Architectur Evaluat </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>scenario elicit method more import individu experi and <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

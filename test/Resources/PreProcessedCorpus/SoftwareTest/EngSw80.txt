@@ -1,0 +1,6 @@
+<title>Enhanc adapt random test dynam partit </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>simul new DMART approach compar failuredetect effect origin MART ART algorithm much lower overhead <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

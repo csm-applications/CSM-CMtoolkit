@@ -1,0 +1,6 @@
+<title>map studi componentbas softwar system metric </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Only few metric soundli <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

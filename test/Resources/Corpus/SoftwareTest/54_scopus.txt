@@ -1,0 +1,12 @@
+<title>An architectural model for software testing lesson learned systems</title>
+
+Context: Software testing is a key aspect of software reliability and quality assurance in a context where software development constantly has to overcome mammoth challenges in a continuously changing environment. One of the characteristics of software testing is that it has a large intellectual capital component and can thus benefit from the use of the experience gained from past projects. Software testing can, then, potentially benefit from solutions provided by the knowledge management discipline. There are in fact a number of proposals concerning effective knowledge management related to several software engineering processes. Objective: We defend the use of a lesson learned system for software testing. The reason is that such a system is an effective knowledge management resource enabling testers and managers to take advantage of the experience locked away in the brains of the testers. To do this, the experience has to be gathered, disseminated and reused. Method: After analyzing the proposals for managing software testing experience, significant weaknesses have been detected in the current systems of this type. The architectural model proposed here for lesson learned systems is designed to try to avoid these weaknesses. This model (i) defines the structure of the software testing lessons learned; (ii) sets up procedures for lesson learned management; and (iii) supports the design of software tools to manage the lessons learned. 
+
+<results> 
+	<result>
+		A different approach, based on the management of the lessons learned that software testing engineers gather from everyday experience, with two basic goals: usefulness and applicability.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+<conclusions>The architectural model proposed here lays the groundwork to overcome the obstacles to sharing and reusing experience gained in the software testing and test management. As such, it provides guidance for developing software testing lesson learned systems.</conclusions>

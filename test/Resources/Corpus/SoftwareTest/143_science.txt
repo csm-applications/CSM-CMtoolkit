@@ -1,0 +1,10 @@
+<title>Heuristics-based infeasible path detection for dynamic test data generation</title>
+
+Automated test data generation plays an important part in reducing the cost and increasing the reliability of software testing. However, a challenging problem in path-oriented test data generation is the existence of infeasible program paths, where considerable effort may be wasted in trying to generate input data to traverse the paths. In this paper, we propose a heuristics-based approach to infeasible path detection for dynamic test data generation. Our approach is based on the observation that many infeasible program paths exhibit some common properties. Through realizing these properties in execution traces collected during the test data generation process, infeasible paths can be detected early with high accuracy. 
+
+<results>
+	<result>
+		Our experiments show that the proposed approach efficiently detects most of the infeasible paths with an average precision of 96.02% and a recall of 100% of all the cases.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>

@@ -1,0 +1,24 @@
+<title>Antecedents of coordination effectiveness of software developer dyads from interacting teams: An empirical investigation</title>
+
+Among the numerous reasons for software project failure, coordination problems are especially salient. Prior studies on coordination in software development are confined to team internal coordination and do not explicitly differentiate team internal and external coordination processes. This study presents a research model to explain the antecedents of coordination effectiveness of software developer dyads from interacting teams. Dyads in this study refer to software developer pairs where each member comes from a different team. We explore the antecedents by integrating interpersonal and technology-based coordination. We test this model using data collected from 59 software developer dyads from interacting teams as well as from software developer leaders. 
+
+<results> 
+	<result>
+		The results reveal that the implicit knowledge sharing has a significant positive impact on coordination effectiveness. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The use of explicit knowledge sharing and coordination technology have no statistically significant impact on coordination effectiveness although the teams studied were working predominantly in a collocated mode. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Mutual trust and project commitment have a significant impact on knowledge sharing with mutual trust directly affecting both implicit and explicit knowledge sharing. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Project commitment also has a direct impact on explicit knowledge sharing and mutual trust, but it does not directly affect implicit knowledge sharing.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+Theoretical and practical contributions are discussed. Limitations of this study are identified. Future research directions are also presented.

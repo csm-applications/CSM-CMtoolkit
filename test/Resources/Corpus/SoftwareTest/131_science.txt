@@ -1,0 +1,20 @@
+<title>Subtle higher order mutants</title>
+
+Context: Research has shown the majority of real faults are complex and cannot be simulated with traditional First Order Mutants (FOMs). Higher Order Mutants (HOMs), which are created by making multiple syntactic changes to the source code (i.e, combining multiple FOMs), can potentially be used to simulate realistic faults.
+
+Objective: Our goal is to find subtle HOMs, which we define to be HOMs that are not killed by a reference test suite that kills all the FOMs. Subtle HOMs represent cases where single faults interact by masking each other to produce complex faulty behavior. The fault-detection effectiveness of a test suite can be improved by adding test cases that detect subtle HOMs.
+
+Method: We developed six search-based techniques to find subtle HOMs: Genetic Algorithm, Local Search, Data-Interaction Guided Local Search, Test-Case Guided Local Search, Restricted Random Search and Restricted Enumeration. We then performed empirical studies to evaluate the ability of the search techniques to find subtle HOMs and investigated factors that impact the characteristics of the subtle HOMs.
+
+<results> 
+	<result>
+		Local Search and both the Guided Local Search techniques were more effective than the other techniques at finding subtle HOMs. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The majority of subtle HOMs that were found resulted from combining mutated Java primitive operators.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions: The proposed techniques are able to find subtle HOMs. Composing subtle HOMs of lower degrees is an effective way for finding new subtle HOMs of higher degrees.

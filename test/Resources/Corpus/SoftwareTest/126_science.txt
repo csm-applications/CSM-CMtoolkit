@@ -1,0 +1,20 @@
+<title>The continuous integration and delivery architecture framework</title>
+
+<context> The popular agile practices of continuous integration and delivery have become an essential part of the software development process in many companies, yet effective methods and tools to support design, description and communication of continuous integration and delivery systems are lacking.</context>
+
+Objective: The work reported on in this paper addresses that lack by presenting Cinders — an architecture framework designed specifically to meet the needs of such systems, influenced both by prominent enterprise and software architecture frameworks as well as experiences from continuous integration and delivery modeling in industry.
+
+Method: The state of the art for systematic design and description of continuous integration and delivery systems is established through review of literature, whereupon a proposal for an architecture framework addressing requirements derived from continuous integration and delivery modeling experiences is proposed. This framework is subsequently evaluated through interviews and workshops with engineers in varying roles in three independent companies.
+
+<results> 
+	<result>
+		Cinders, an architecture framework designed specifically for the purpose of describing continuous integration and delivery systems is proposed and confirmed to constitute an improvement over previous methods. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		This work presents software professionals with a demonstrably effective method for describing their continuous integration and delivery systems from multiple points of view and supporting multiple use-cases, including system design, communication and documentation.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion: It is concluded that an architecture framework for the continuous integration and delivery domain has value; at the same time potential for further improvement is identified, particularly in the area of tool support for data collection as well as for manual modeling.

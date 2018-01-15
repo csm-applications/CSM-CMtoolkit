@@ -1,0 +1,18 @@
+<title>Concurrent software testing in practice: A catalog of tools</title>
+
+The testing of concurrent programs is very complex due to the non-determinism present in those programs. They must be subjected to a systematic testing process that assists in the identification of defects and guarantees quality. Although testing tools have been proposed to support the concurrent program testing, to the best of our knowledge, no study that concentrates all testing tools to be used as a catalog for testers is available in the literature. This paper proposes a new classification for a set of testing tools for concurrent programs, regarding attributes, such as testing technique supported, programming language, and paradigm of development. The purpose is to provide a useful categorization guide that helps testing practitioners and researchers in the selection of testing tools for concurrent programs. A systematic mapping was conducted so that studies on testing tools for concurrent programs could be identified.
+
+<results> 
+	<result>
+		As a main result, we provide a catalog with 116 testing tools appropriately selected and classified, among which the following techniques were identifies with higher support were Java and C/C++. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Although a large number of tools have been categorized, most of them are academic and only few are available on a commercial scale. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The classification proposed here can contribute to the state-of-the-art of testing tools for concurrent programs and also provides information for the exchange of knowledge between academy and industry.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

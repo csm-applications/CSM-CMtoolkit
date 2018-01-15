@@ -1,0 +1,14 @@
+<title>Random testing revisited</title>
+
+This paper examines random testing advocated by Duran and Ntafos1. They suggest that random testing has its value. However, the assumptions on which their simulations are based may be too weak for a fair comparison between random testing and partition testing. This paper shows that random testing works well on several kinds of programs, but not all. It also determines and under what conditions one can use random testing to get reasonable test results. Several simulations with new assumptions and experimental studies have been done to evaluate random testing. 
+
+<results>
+	<result>
+		The results suggest that random testing works well on error-prone programs and programs that their expected outputs can be easily known. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		For it to be most effective, one should use random testing in an early stage of program testing.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

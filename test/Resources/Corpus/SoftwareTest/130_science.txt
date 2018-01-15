@@ -1,0 +1,32 @@
+<title>AUSTIN: An open source tool for search based software testing of C programs</title>
+
+Despite the large number of publications on Search-Based Software Testing (SBST), there remain few publicly available tools. This paper introduces AUSTIN, a publicly available open source SBST tool for the C language.1http://code.google.com/p/austin-sbst/.
+1 The paper is an extension of previous work [1]. It includes a new hill climb algorithm implemented in AUSTIN and an investigation into the effectiveness and efficiency of different pointer handling techniques implemented by AUSTIN’s test data generation algorithms.
+
+Objective
+To evaluate the different search algorithms implemented within AUSTIN on open source systems with respect to effectiveness and efficiency in achieving branch coverage. Further, to compare AUSTIN against a non-publicly available, state-of-the-art Evolutionary Testing Framework (ETF).
+Method
+First, we use example functions from open source benchmarks as well as common data structure implementations to check if the decision procedure for pointer inputs, introduced in this paper, differs in terms of effectiveness and efficiency compared to a simpler alternative that generates random memory graphs. A second empirical study formulates two alternate hypotheses regarding the effectiveness and efficiency of AUSTIN compared to the ETF. These hypotheses are tested using a paired Wilcoxon test.
+
+<results>
+	<result>
+		The first study highlights some practical problems with the decision procedure for pointer inputs described in this paper.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result> 
+	<result>
+		In particular, if the code under test contains insufficient guard statements to enforce constraints over pointers, then using a constraint solver for pointer inputs may be suboptimal compared to a method that generates random memory graphs. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The programs used in the second study do not require any constraint solving for pointer inputs and consist of eight non-trivial, real-world C functions drawn from three embedded automotive software modules.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		For these functions, AUSTIN is competitive compared to the ETF, achieving an equal or higher branch coverage for six of the functions. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		In addition, for functions where AUSTIN’s branch coverage is equal or higher, AUSTIN is more efficient than the ETF.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>

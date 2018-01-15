@@ -1,0 +1,18 @@
+<title>Investigating the relationship between schedules and knowledge transfer in software testing</title>
+
+This empirical study investigates the relationship between schedules and knowledge transfer in software testing. In our exploratory survey, statistical analysis indicated that increased knowledge transfer between testing and earlier phases of software development was associated with testing schedule over-runs. 
+
+<results>
+	<result>
+		A qualitative case study was conducted to interpret this result. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		We found that this relationship can be explained with the size and complexity of software, knowledge management issues, and customer involvement. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		We also found that the primary strategies for avoiding testing schedule over-runs were reducing the scope of testing, leaving out features from the software, and allocating more resources to testing.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

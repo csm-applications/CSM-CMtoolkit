@@ -1,0 +1,6 @@
+<title>robot control constraint program continu integr </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>paper empir result when automat test sequenc CIR ABB Robot <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

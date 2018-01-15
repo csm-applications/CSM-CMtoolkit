@@ -1,0 +1,22 @@
+<title>Generating minimal fault detecting test suites for general Boolean specifications</title>
+
+<context>
+Boolean expressions are a central aspect of specifications and programs, but they also offer dangerously many ways to introduce faults. To counter this effect, various criteria to generate and evaluate tests have been proposed. These are traditionally based on the structure of the expressions, but are not directly related to the possible faults. Often, they also require expressions to be in particular formats such as disjunctive normal form (DNF), where a strict hierarchy of faults is available to prove fault detection capability.</context>
+Objective
+This paper describes a method that generates test cases directly from an expression’s possible faults, guaranteeing that faults of any chosen class will be detected. In contrast to many previous criteria, this approach does not require the Boolean expressions to be in DNF, but allows expressions in any format, using any deliberate fault classes.
+Method
+The presented approach is based on creating test objectives for individual faults, such that efficient, modern satisfiability solvers can be used to derive test cases that directly address the faults. Although the number of such test objectives can be high depending on the considered fault classes, a number of optimizations can be applied to reduce the test generation effort.
+
+<results>
+	<result>
+		Evaluation on a set of commonly used benchmarks shows that despite guaranteeing fault coverage, the number of test cases can be reduced even further than that produced by other state of the art strategies. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		At the same time, the fault detection capability is not affected negatively, and clearly improves over state of the art criteria for general form Boolean expressions.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+The approach presented in this paper is shown to improve over the state of the art with respect to the types of expressions that can be handled, the fault classes that are guaranteed to be covered, and the sizes of test suites generated automatically. This has implications for several fields of software testing: A main application is specification based testing, but Boolean expressions also exist in normal source code and need to be tested there as well.

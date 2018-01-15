@@ -1,0 +1,6 @@
+<title>PAT pattern classif approach automat refer oracl test mesh simplif program </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Empiric result us refer model pseudooracl effect implement mesh simplif algorithm <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

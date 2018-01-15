@@ -1,0 +1,6 @@
+<title>fuzzi logic approach phasewis softwar defect predict softwar metric </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>predict accuraci model twenti real softwar project data <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

@@ -1,0 +1,24 @@
+<title>Evaluating prediction systems in software project estimation</title>
+
+<context>
+Software engineering has a problem in that when we empirically evaluate competing prediction systems we obtain conflicting results.</context>
+Objective
+To reduce the inconsistency amongst validation study results and provide a more formal foundation to interpret results with a particular focus on continuous prediction systems.
+Method
+A new framework is proposed for evaluating competing prediction systems based upon (1) an unbiased statistic, Standardised Accuracy, (2) testing the result likelihood relative to the baseline technique of random ‘predictions’, that is guessing, and (3) calculation of effect sizes.
+
+<results>
+	<result>
+		Previously published empirical evaluations of prediction systems are re-examined and the original conclusions shown to be unsafe.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Additionally, even the strongest results are shown to have no more than a medium effect size relative to random guessing.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+
+Conclusions
+Biased accuracy statistics such as MMRE are deprecated. By contrast this new empirical validation framework leads to meaningful results. Such steps will assist in performing future meta-analyses and in providing more robust and usable recommendations to practitioners.
+Keywords: Software engineering; Prediction system; Empirical validation; Randomisation techniques

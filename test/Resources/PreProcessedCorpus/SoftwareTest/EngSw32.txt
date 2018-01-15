@@ -1,0 +1,6 @@
+<title>Requir test priorit risk factor industri studi </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result us can effect TCP result also riskbas priorit can effect TCP <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

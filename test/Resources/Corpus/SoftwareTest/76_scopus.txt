@@ -1,0 +1,24 @@
+<title>Formal model for assigning human resources to teams in software projects</title>
+
+Context: Human resources play a critical role in software project success. However, people are still the least formalized factor in today's process models. Generally, people are assigned to roles and project teams are formed on the basis of project leaders' experience of people, constraints (e.g. availability) and skill requirements. Yet this process has to take multiple factors into account. Few works in the literature model this process. Most of these are informal proposals focusing on the individual assignment of people to project tasks and do not consider other aspects like team formation as a whole. Objective: In this paper we formulate a formal model for assigning human resources to software project teams. Additionally, we describe the key results of the knowledge management process enacted to output the elements of the model. Method: The model elements were identified using the Delphi expert consultation method and applying psychological tests. The proposed model was implemented in a software tool and validated on two software development organization assignment scenarios. 
+
+<results> 
+	<result>
+		We built a formal model for the process of assigning human resources to software project teams. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		This model takes into account as many factors as possible and aids the assignment of individuals to project roles, as well as the formation of the team as a whole. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		We found that the rules that were identified to form software development project teams are useful.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		From the tests we found that model implementation was feasible (all the executions of the implemented problem-solving algorithms output feasible solutions in response times that can be considered as acceptable).
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+Conclusion: Using the Delphi method we were able to propose software project roles and competences. Psychological tests and data mining tools identified useful rules for forming software project teams. These were used to build a formal model. This model was built into a tool that returns role assignments in acceptable response times. This decision support tool helps managers assign people to roles and to form teams. Using the tool, project leaders can flexibly evaluate different team make-ups, taking into account several factors, as well as different constraints and objectives.

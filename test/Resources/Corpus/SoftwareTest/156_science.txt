@@ -1,0 +1,23 @@
+<title>A mutation carol: Past, present and future</title>
+
+<context>
+The field of mutation analysis has been growing, both in the number of published papers and the number of active researchers. This special issue provides a sampling of recent advances and ideas. But do all the new researchers know where we started?</context>
+Objective
+To imagine where we are going, we must first know where we are. To understand where we are, we must know where we have been. This paper reviews past mutation analysis research, considers the present, then imagines possible future directions.
+Method
+A retrospective study of past trends lets us the ability to see the current state of mutation research in a clear context, allowing us to imagine and then create future vectors.
+
+<results>
+	<result>
+		The value of mutation has greatly expanded since the early view of mutation as an expensive way to unit test subroutines.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Our understanding of what mutation is and how it can help has become much deeper and broader.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+
+Conclusion
+Mutation analysis has been around for 35 years, but we are just now beginning to see its full potential. The papers in this issue and future mutation workshops will eventually allow us to realize this potential.

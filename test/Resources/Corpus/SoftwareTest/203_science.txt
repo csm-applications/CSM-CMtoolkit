@@ -1,0 +1,21 @@
+<title>Testing Real-Time Embedded Systems using Timed Automata based approaches</title> 
+
+Real-Time Embedded Systems (RTESs) have an increasing role in controlling the \{IT\} that we use on a day-to-day basis. The behaviour of an \{RTES\} is not based solely on the interactions it might have with its surrounding environment, but also on the timing requirements it induces. As a result, ensuring that an \{RTES\} behaves correctly is non-trivial, especially after adding time as a new dimension to the complexity of the testing process. We previously introduced the ‘priority-based’ approach which tests the logical and timing behaviour of an \{RTES\} modelled formally as \{UPPAAL\} automata. The ‘priority-based’ approach was based on producing sets of timed test traces by achieving clock region coverage. In this paper, we empirically validate the ‘priority-based’ approach with comparison to well-known timed testing approaches based on a Timed Automata (TA) formalism using a complete test bed based on an industrial-strength case study (production cell). 
+
+<results>
+	<result>
+		The validation assessment is based on both fault coverage and structural coverage by a minimal number of generated test traces; the former is achieved using the Mutation Analysis Technique (MAT) by introducing a set of timed and functional mutation operators.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The latter is based on clock region coverage as a main timed structural coverage criterion.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		This study shows that ‘priority-based’ approach can combine a high fault coverage and clock region coverage with a relatively small number of test traces in comparison with other test approaches.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+	A set of experiences and lessons learned are highlighted as result of the real-time test bed. 
+

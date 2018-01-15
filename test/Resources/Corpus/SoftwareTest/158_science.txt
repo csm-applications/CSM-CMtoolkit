@@ -1,0 +1,22 @@
+<title>Generating profile-based signatures for online intrusion and failure detection</title>
+
+<context>
+Program execution profiles have been extensively and successfully used in several dynamic analysis fields such as software testing and fault localization.</context>
+Objective
+This paper presents a pattern-matching approach implemented as an application-based intrusion (and failure) detection system that operates on signatures generated from execution profiles. Such signatures are not descriptions of exploits, i.e. they do not depend on the syntax or semantics of the exploits, but instead are descriptions of program events that correlate with the exploitation of program vulnerabilities.
+Method
+A vulnerability exploit is generally correlated with the execution of a combination of program elements, such as statements, branches, and definition–use pairs. In this work we first analyze the execution profiles of a vulnerable application in order to identify such suspicious combinations, define signatures that describe them, and consequently deploy these signatures within an intrusion detection system that performs online signature matching.
+
+<results>
+	<result>
+		To evaluate our approach, which is also applicable to online failure detection, we implemented it for the Java platform and applied it onto seven open-source applications containing 30 vulnerabilities/defects for the purpose of the online detection of attacks/ failures.
+		<TypeOfResult>Quantitative</TypeOfResult> 
+	</result>
+	<result>
+		Our results showed that our approach worked very well for 26 vulnerabilities/defects (86.67%) and the overhead imposed by the system is somewhat acceptable as it varied from 46% to 102%. The exhibited average rates of false negatives and false positives were 0.43% and 1.03%, respectively.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+Using profile-based signatures for online intrusion and failure detection was shown to be effective.

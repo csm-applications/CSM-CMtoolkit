@@ -1,0 +1,30 @@
+<title>Testing robot controllers using constraint programming and continuous integration</title>
+
+<context>
+Testing complex industrial robots (CIRs) requires testing several interacting control systems. This is challenging, especially for robots performing process-intensive tasks such as painting or gluing, since their dedicated process control systems can be loosely coupled with the robot’s motion control.</context>
+Objective
+Current practices for validating CIRs involve manual test case design and execution. To reduce testing costs and improve quality assurance, a trend is to automate the generation of test cases. Our work aims to define a cost-effective automated testing technique to validate CIR control systems in an industrial context.
+Method
+This paper reports on a methodology, developed at ABB Robotics in collaboration with SIMULA, for the fully automated testing of CIRs control systems. Our approach draws on continuous integration principles and well-established constraint-based testing techniques. It is based on a novel constraint-based model for automatically generating test sequences where test sequences are both generated and executed as part of a continuous integration process.
+
+<results>
+	<result>
+		By performing a detailed analysis of experimental results over a simplified version of our constraint model, we determine the most appropriate parameterization of the operational version of the constraint model. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		This version is now being deployed at ABB Robotics’s CIR testing facilities and used on a permanent basis.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		This paper presents the empirical results obtained when automatically generating test sequences for CIRs at ABB Robotics.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		In a real industrial setting, the results show that our methodology is not only able to detect reintroduced known faults, but also to spot completely new faults.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+Our empirical evaluation shows that constraint-based testing is appropriate for automatically generating test sequences for CIRs and can be faithfully deployed in an industrial context.

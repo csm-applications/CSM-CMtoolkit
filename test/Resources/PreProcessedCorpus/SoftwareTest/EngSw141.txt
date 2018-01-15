@@ -1,0 +1,6 @@
+<title>gener test modeldriven approach </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>complet execut test case function test level test procedur parametr input test data result autom <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

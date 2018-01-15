@@ -1,0 +1,29 @@
+<title>A mapping study on design-time quality attributes and metrics</title> 
+
+Abstract Developing a plan for monitoring software quality is a non-trivial task, in the sense that it requires: (a) the selection of relevant quality attributes, based on application domain and development phase, and (b) the selection of appropriate metrics to quantify quality attributes. The metrics selection process is further complicated due to the availability of various metrics for each quality attribute, and the constraints that impact metric selection (e.g., development phase, metric validity, and available tools). In this paper, we shed light on the state-of-research of design-time quality attributes by conducting a mapping study. 
+
+<results>
+	<result>
+		We have identified 154 papers that have been included as primary studies.
+		<TypeOfResult>Quantitative</TypeOfResult> 
+	</result>
+	<result>
+		The study led to the following outcomes: (a) low-level quality attributes (e.g., cohesion, coupling, etc.) are more frequently studied than high-level ones (e.g., maintainability, reusability, etc.), 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(b) maintainability is the most frequently examined high-level quality attribute, regardless of the application domain or the development phase,
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		(c) assessment of quality attributes is usually performed by a single metric, rather than a combination of multiple metrics, and 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(d) metrics are mostly validated in an empirical setting.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+These outcomes are interpreted and discussed based on related work, offering useful implications to both researchers and practitioners. 
+

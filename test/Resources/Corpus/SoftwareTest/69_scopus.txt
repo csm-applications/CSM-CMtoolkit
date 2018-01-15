@@ -1,0 +1,11 @@
+<title>Relationship quality, knowledge sharing and outsourcing performance in information technology outsourcing</title>
+
+
+On the basis of previous literature, we propose five dimensions of relationship quality in information technology outsourcing (ITO): trust, effective communication, commitment, interdependence and harmonious conflict resolution; then we build a theoretical model of relationship quality, knowledge sharing and outsourcing performance, and propose some hypotheses about them. To test these hypotheses, we conduct a survey of 391 employees in 20 companies in Xi'an Software Park, Beijing Zhongguancun Software Park and Shanghai Pudong Software Park. We use SPSS 17.0 and AMOS 17.0 to analyze the collected data. 
+
+<results> 
+	<result>
+		The empirical results show that relationship quality has significant impacts on knowledge sharing and outsourcing performance; knowledge sharing also has significant impacts on outsourcing performance.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

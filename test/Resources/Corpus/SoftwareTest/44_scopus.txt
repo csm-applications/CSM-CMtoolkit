@@ -1,0 +1,14 @@
+<title>Effective post-silicon failure localization using dynamic program slicing</title>
+
+In post-silicon functional validation, one of the most complex and time-consuming processes is the localization of an instruction that exposes a bug detected at system level. The task is particularly difficult due to the silicon's limited observability and the long time between a failure's occurrence and its detection. We propose a novel method that automates the architectural localization of post-silicon test-case failures. Our proposed tool analyzes a failing test-case, while leveraging the information derived from executing the test on an Instruction Set software Simulator (ISS), to identify a set of instructions that could lead to the faulty final state. The proposed failure localization process comprises the creation of a resource dependency graph based on the execution of the test-case on the ISS, determining a program slice of instructions that influence the faulty resources, and the reduction of the set of suspicious instructions by leveraging the knowledge of the correct resources. We evaluate our proposed solution through extensive experiments. 
+
+<results> 
+	<result>
+		Experimental results show that, in over 97% of all cases, our method was able to narrow down the list of suspicious instructions to under 2 instructions, on average, out of over 200. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		In over 59% of all cases, our method correctly reduced a test-case to a single faulty instruction.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>

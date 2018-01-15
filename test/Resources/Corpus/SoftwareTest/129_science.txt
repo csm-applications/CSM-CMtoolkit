@@ -1,0 +1,25 @@
+<title>A fuzzy logic based approach for phase-wise software defects prediction using software metrics</title>
+
+<context>The software defect prediction during software development has recently attracted the attention of many researchers. The software defect density indicator prediction in each phase of software development life cycle (SDLC) is desirable for developing a reliable software product. Software defect prediction at the end of testing phase may not be more beneficial because the changes need to be performed in the previous phases of SDLC may require huge amount of money and effort to be spent in order to achieve target software quality. Therefore, phase-wise software defect density indicator prediction model is of great importance.</context>
+Objective
+In this paper, a fuzzy logic based phase-wise software defect prediction model is proposed using the top most reliability relevant metrics of the each phase of the SDLC.
+Method
+In the proposed model, defect density indicator in requirement analysis, design, coding and testing phase is predicted using nine software metrics of these four phases. The defect density indicator metric predicted at the end of the each phase is also taken as an input to the next phase. Software metrics are assessed in linguistic terms and fuzzy inference system has been employed to develop the model.
+
+<results>
+	<result>
+		The predictive accuracy of the proposed model is validated using twenty real software project data. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Validation results are satisfactory.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Measures based on the mean magnitude of relative error and balanced mean magnitude of relative error decrease significantly as the software project size increases.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+In this paper, a fuzzy logic based model is proposed for predicting software defect density indicator at each phase of the SDLC. The predicted defects of twenty different software projects are found very near to the actual defects detected during testing. The predicted defect density indicators are very helpful to analyze the defect severity in different artifacts of SDLC of a software project.

@@ -1,0 +1,6 @@
+<title>More tester effect crowd size time restrict softwar test </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Furthermor Fscore measur inform retriev domain optim number tester term effect valid test result <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

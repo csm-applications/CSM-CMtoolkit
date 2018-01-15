@@ -1,0 +1,22 @@
+<title>Estimating software testing complexity</title>
+
+<context>
+Complexity measures provide us some information about software artifacts. A measure of the difficulty of testing a piece of code could be very useful to take control about the test phase.</context>
+Objective
+The aim in this paper is the definition of a new measure of the difficulty for a computer to generate test cases, we call it Branch Coverage Expectation (BCE). We also analyze the most common complexity measures and the most important features of a program. With this analysis we are trying to discover whether there exists a relationship between them and the code coverage of an automatically generated test suite.
+Method
+The definition of this measure is based on a Markov model of the program. This model is used not only to compute the BCE, but also to provide an estimation of the number of test cases needed to reach a given coverage level in the program. In order to check our proposal, we perform a theoretical validation and we carry out an empirical validation study using 2600 test programs.
+
+<results>
+	<result>
+		The results show that the previously existing measures are not so useful to estimate the difficulty of testing a program, because they are not highly correlated with the code coverage. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Our proposed measure is much more correlated with the code coverage than the existing complexity measures.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+The high correlation of our measure with the code coverage suggests that the BCE measure is a very promising way of measuring the difficulty to automatically test a program. Our proposed measure is useful for predicting the behavior of an automatic test case generator.

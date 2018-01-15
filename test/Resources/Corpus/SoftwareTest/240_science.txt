@@ -1,0 +1,19 @@
+<title>An automated approach to reducing test suites for testing retargeted C compilers for embedded systems</title>
+
+With widespread use of embedded processors, there is an increasing need to develop compilers for them in a timely manner. Retargeting has been an effective approach to constructing new compilers by modifying the back-end of existing compilers. An efficient testing method for retargeted compilers using intermediate codes is proposed in this paper. The concepts of the intermediate-code-based approach are described, and it is demonstrated that the proposed approach is efficient and effective enough. We have developed an automated tool, PLOOSE, which generates test suites based on source-code coverage criteria and then reduces them based on intermediate-code coverage. 
+
+<results>
+	<result>
+		In addition, case studies are presented which reveal that a test suite based on source codes can be considerably reduced using intermediate codes.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Moreover, by mutation analysis, it was found that the size of the test suite has been reduced by over 90% on average, but the fault detection capability of the reduced test suites is still approximately 80% of that of the original test suites. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		In particular, the proposed reduction method can be useful for testing compilers in the early stage of the development of retargeted compilers.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

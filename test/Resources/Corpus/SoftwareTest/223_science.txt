@@ -1,0 +1,11 @@
+<title>Countermeasure graphs for software security risk assessment: An action research</title> 
+
+Abstract Software security risk analysis is an important part of improving software quality. In previous research we proposed countermeasure graphs (CGs), an approach to conduct risk analysis, combining the ideas of different risk analysis approaches. The approach was designed for reuse and easy evolvability to support agile software development. \{CGs\} have not been evaluated in industry practice in agile software development. In this research we evaluate the ability of \{CGs\} to support practitioners in identifying the most critical threats and countermeasures. The research method used is participatory action research where \{CGs\} were evaluated in a series of risk analyses on four different telecom products. With Peltier (used prior to the use of \{CGs\} at the company) the practitioners identified attacks with low to medium risk level. \{CGs\} allowed practitioners to identify more serious risks (in the first iteration 1 serious threat, 5 high risk threats, and 11 medium threats). The need for tool support was identified very early, tool support allowed the practitioners to play through scenarios of which countermeasures to implement, and supported reuse. 
+
+<results>
+	<result>
+		The results indicate that \{CGs\} support practitioners in identifying high risk security threats, work well in an agile software development context, and are cost-effective.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

@@ -1,0 +1,10 @@
+<title>Knowledge management approach in mobile software system testing</title>
+
+Software testing is the last phase in the Software Development Life Cycle (SDLC) which aims to test and capture any defects before the software is being deployed. System test is more concentrated on black box testing whereby the functionality and integration between software, hardware and computer system is tested. Motorola Global Software Group Malaysia, Penang (GSG Penang) is the core test team for iDEN™ phone software system testing. The main activity of iDEN™ phone software system test is to conduct phone software functionality test, mobile data (such as GPS and circuit data call) test as well as software stress test through the iDEN™ network simulation in Penang. 
+
+<results>
+	<result>
+		This paper discusses the proposal of implementing test knowledge management framework in iDEN phone software system testing and how the knowledge management approach can benefit the testing team in terms of cost and productivity.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

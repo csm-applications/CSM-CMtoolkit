@@ -1,0 +1,11 @@
+<title>Automatic goal-oriented classification of failure behaviors for testing XML-based multimedia software applications: An experimental case study</title> 
+
+When testing multimedia software applications, we need to overcome important issues such as the forbidding size of the input domains, great difficulties in repeating non-deterministic test outcomes, and the test oracle problem. A statistical testing methodology is proposed. It applies pattern classification techniques enhanced with the notion of test dimensions. Test dimensions are orthogonal properties of associated test cases. Temporal properties are being studied in the experimentation in this paper. For each test dimension, a pattern classifier is trained on the normal and abnormal behaviors. A type of failure is said to be classified if it is recognized by the classifier. Test cases can then be analyzed by the failure pattern recognizers. 
+
+<results>
+	<result>
+		Experiments show that some test dimensions are more effective than others in failure identification and classification.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+</results>
+

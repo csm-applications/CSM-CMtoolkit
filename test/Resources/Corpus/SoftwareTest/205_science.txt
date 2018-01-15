@@ -1,0 +1,15 @@
+<title>A variable strength interaction test suites generation strategy using Particle Swarm Optimization</title> 
+
+This paper highlights a novel strategy for generating variable-strength (VS) interaction test suites, called VS Particle Swarm Test Generator (VS-PSTG). As the name suggests, VS-PSTG adopts Particle Swarm Optimization to ensure optimal test size reduction. To determine its efficiency in terms of the size of the generated test suite, VS-PSTG was subjected to well-known benchmark configurations. 
+
+<results>
+	<result>
+		Comparative results indicate that VS-PSTG gives competitive results as compared to existing strategies. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		An empirical case study was conducted on a non-trivial software system to show the applicability of the strategy and to determine the effectiveness of the generated test suites to detect faults. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

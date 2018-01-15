@@ -1,0 +1,6 @@
+<title>Servic Orient Architectur dynam map studi </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Final relev group studi not approach yet <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

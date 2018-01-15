@@ -1,0 +1,11 @@
+<title>Self-adaptive architecture evolution with model checking: A software cybernetics approach</title>
+
+Abstract The cloud computing era requires software architecture to be self-adaptive to the dynamic environment. This autonomous feature brings uncertainty and makes software behavior difficult to control. The uncontrollable behavior is caused by ill-defined architecture and might lead to system disruption. To address this problem, we propose a novel framework which applies software cybernetics to guide self-adaptive architecture evolution. In our framework, we formulate the architecture evolution process as a feedback control process. In the process, we take the self-adaptive architecture model and the model checking technique as the controlled object and controller, respectively. First, the self-adaptive architecture is specified by Breeze/ADL. Second, the framework leverages model checking to validate adaptive Breeze/ADL specifications. Third, a learning algorithm is designed to regulate validation results to generate feedback rules – Productions to guide the architecture evolution. A smart phone application example is chosen to demonstrate the feasibility of our framework. 
+
+<results>
+	<result>
+		The results show that our framework facilitates architects to detect undesired states which are caused by error-prone adaptation rules. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

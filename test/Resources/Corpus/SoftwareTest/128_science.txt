@@ -1,0 +1,24 @@
+<title>A case study of TTCN-3 test scripts clone analysis in an industrial telecommunication setting</title>
+
+<context> This paper presents a novel experiment focused on detecting and analyzing clones in test suites written in TTCN-3, a standard telecommunication test script language, for different industrial projects.</context>
+
+Objective: This paper investigates frequencies, types, and similarity distributions of TTCN-3 clones in test scripts from three industrial projects in telecommunication. We also compare the distribution of clones in TTCN-3 test scripts with the distribution of clones in C/C++ and Java projects from the telecommunication domain. We then perform a statistical analysis to validate the significance of differences between these distributions.
+
+Method: Similarity is computed using CLAN, which compares metrics syntactically derived from script fragments. Metrics are computed from the Abstract Syntax Trees produced by a TTCN-3 parser called Titan developed by Ericsson as an Eclipse plugin. Finally, clone classification of similar script pairs is computed using the Longest Common Subsequence algorithm on token types and token images.
+
+<results> 
+	<result>
+		This paper presents figures and diagrams reporting TTCN-3 clone frequencies, types, and similarity distributions. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		We show that the differences between the distribution of clones in test scripts and the distribution of clones in applications are statistically significant.
+		<TypeOfResult>Quantitative</TypeOfResult> 
+	</result>
+	<result>
+		We also present and discuss some lessons that can be learned about the transferability of technology from this study. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion: About 24% of fragments in the test suites are cloned, which is a very high proportion of clones compared to what is generally found in source code. The difference in proportion of Type-1 and Type-2 clones is statistically significant and remarkably higher in TTCN-3 than in source code. Type-1 and Type-2 clones represent 82.9% and 15.3% of clone fragments for a total of 98.2%. Within the projects this study investigated, this represents more and easier potential re-factoring opportunities for test scripts than for code.

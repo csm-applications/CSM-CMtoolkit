@@ -1,0 +1,6 @@
+<title>robot control constraint program continu integr </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>real industri set result methodolog not onli abl reintroduc fault also complet new fault <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

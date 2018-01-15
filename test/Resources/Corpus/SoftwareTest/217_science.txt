@@ -1,0 +1,17 @@
+<title>Research state of the art on GoF design patterns: A mapping study </title>
+
+Abstract Design patterns are used in software development to provide reusable and documented solutions to common design problems. Although many studies have explored various aspects of design patterns, no research summarizing the state of research related to design patterns existed up to now. This paper presents the results of a mapping study of about 120 primary studies, to provide an overview of the research efforts on Gang of Four (GoF) design patterns. The research questions of this study deal with (a) if design pattern research can be further categorized in research subtopics, (b) which of the above subtopics are the most active ones and (c) what is the reported effect of GoF patterns on software quality attributes. 
+
+<results>
+	<result>
+		The results suggest that design pattern research can be further categorized to research on GoF patterns formalization, detection and application and on the effect of GoF patterns on software quality attributes. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Concerning the intensity of research activity of the abo,vementioned subtopics, research on pattern detection and on the effect of GoF patterns on software quality attributes appear to be the most active ones.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+Finally, the reported research to date on the effect of GoF patterns on software quality attributes are controversial; because some studies identify one pattern's effect as beneficial whereas others report the same pattern's effect as harmful. 
+

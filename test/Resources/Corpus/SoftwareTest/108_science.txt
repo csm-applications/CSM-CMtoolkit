@@ -1,0 +1,30 @@
+<title>More testers – The effect of crowd size and time restriction in software testing</title>
+
+<context>
+The questions of how many individuals and how much time to use for a single testing task are critical in software verification and validation. In software review and usability evaluation contexts, positive effects of using multiple individuals for a task have been found, but software testing has not been studied from this viewpoint.</context>
+Objective
+We study how adding individuals and imposing time pressure affects the effectiveness and efficiency of manual testing tasks. We applied the group productivity theory from social psychology to characterize the type of software testing tasks.
+Method
+We conducted an experiment where 130 students performed manual testing under two conditions, one with a time restriction and pressure, i.e., a 2-h fixed slot, and another where the individuals could use as much time as they needed.
+
+<results>
+	<result>
+		We found evidence that manual software testing is an additive task with a ceiling effect, like software reviews and usability inspections. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Our results show that a crowd of five time-restricted testers using 10 h in total detected 71% more defects than a single non-time-restricted tester using 9.9 h. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Furthermore, we use F-score measure from the information retrieval domain to analyze the optimal number of testers in terms of both effectiveness and validity of testing results. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		We suggest that future studies on verification and validation practices use F-score to provide a more transparent view of the results.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions
+The results seem promising for the time-pressured crowds by indicating that multiple time-pressured individuals deliver superior defect detection effectiveness in comparison to non-time-pressured individuals. However, caution is needed, as the limitations of this study need to be addressed in future works. Finally, we suggest that the size of the crowd used in software testing tasks should be determined based on the share of duplicate and invalid reports produced by the crowd and by the effectiveness of the duplicate handling mechanisms.

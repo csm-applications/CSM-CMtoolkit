@@ -1,0 +1,27 @@
+<title>Motivators of Software Process Improvement: An Analysis of Vietnamese Practitioners' Views</title>
+
+
+Objective: In this paper we present findings from an empirical study that was aimed at determining the software process improvement (SPI) motivators. The main objective of this study is to provide SPI practitioners with some insight into designing appropriate SPI implementation strategies and to maximize practitioner support for SPI.
+
+Method: We used face-to-face questionnaire based survey sessions as our main approach to collect data from twenty-three software development practitioners of eight Vietnamese software development companies. We asked practitioners to choose and rank various SPI motivators against the five types of assessments (high, medium, low, zero, or do not know). From this, we propose the notion of 'perceived value' associated with each SPI motivator.
+
+<results> 
+	<result>
+		We have identified 6 'high' perceived value SPI motivators that are generally considered critical for successfully implementing SPI initiatives. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		These motivators are: cost beneficial, job satisfaction, knowledgeable team leaders, maintainable/easy processes, shared best practices, and top-down commitment. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Our results show that developers are highly motivated by: career prospects, communication, cost beneficial, empowerment, knowledgeable team leaders, maintainable/easy processes, resources, shared best practices, top-down commitment, and visible success; Managers are motivated by: job satisfaction, knowledgeable team leaders, maintainable/easy processes, meeting targets, shared best practices, and top-down commitment.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Our results also show that practitioners of small and medium sized companies are highly motivated by: cost beneficial, job satisfaction, knowledgeable team leaders, and maintainable/easy processes; practitioners of large companies are highly motivated by: cost beneficial, reward schemes, shared best practices and top-down commitment. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions: We believe practitioners use SPI motivators on the basis of the perceived value of that motivator. This focus on perceived value associated with each SPI motivator, offers SPI practitioners opportunities for implementing motivators to improve organisation's SPI implementation capabilities. By analysing the degree to which practitioners use each of the SPI motivators, we can identify a number of critical SPI motivators for SPI practitioners.

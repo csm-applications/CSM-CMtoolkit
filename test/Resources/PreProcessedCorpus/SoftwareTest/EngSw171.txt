@@ -1,0 +1,6 @@
+<title>Combinatori test random test adapt random test interact failur </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>latter case mai studi signific differ CT <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

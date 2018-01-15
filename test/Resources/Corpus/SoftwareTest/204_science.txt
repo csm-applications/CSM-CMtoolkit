@@ -1,0 +1,29 @@
+<title>Software test process improvement approaches: A systematic literature review and an industrial case study</title> 
+
+Abstract Software test process improvement (STPI) approaches are frameworks that guide software development organizations to improve their software testing process. We have identified existing STPI approaches and their characteristics (such as completeness of development, availability of information and assessment instruments, and domain limitations of the approaches) using a systematic literature review (SLR). Furthermore, two selected approaches (TPI NEXT and TMMi) are evaluated with respect to their content and assessment results in industry.
+
+<results> 
+	<result>
+		As a result of this study, we have identified 18 STPI approaches and their characteristics. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		A detailed comparison of the content of TPI NEXT and TMMi is done. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		We found that many of the STPI approaches do not provide sufficient information or the approaches do not include assessment instruments. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		This makes it difficult to apply many approaches in industry.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Greater similarities were found between TPI NEXT and TMMi and fewer differences.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+We conclude that numerous STPI approaches are available but not all are generally applicable for industry. One major difference between available approaches is their model representation. Even though the applied approaches generally show strong similarities, differences in the assessment results arise due to their different model representations. 
+

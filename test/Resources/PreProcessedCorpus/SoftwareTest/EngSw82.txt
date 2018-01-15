@@ -1,0 +1,6 @@
+<title>Mutat oper Android app </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>tool novel Android mutat oper sourc code Android app then mutant can Android devic <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

@@ -1,0 +1,6 @@
+<title>New mix arrai twai test uniform strength </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>experiment result MiTSbas methodolog number#999 bound number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

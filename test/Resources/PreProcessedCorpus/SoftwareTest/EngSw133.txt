@@ -1,0 +1,6 @@
+<title>Continu Softwar Test Global Distribut Project </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Nontechn factor such sociotechn organiz factor signific influenc wai softwar test agil virtual team success organ remot tester closer rest team part virtual team <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

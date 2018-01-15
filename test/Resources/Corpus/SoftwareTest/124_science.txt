@@ -1,0 +1,27 @@
+<title>Generating semantically valid test inputs using constrained input grammars</title>
+
+<context>
+Generating test cases based on software input interface is a black-box testing technique that can be made more effective by using structured input models such as input grammars. Automatically generating grammar-based test inputs may lead to structurally valid but semantically invalid inputs that may be rejected in early semantic error checking phases of a system under test.</context>
+Objective
+This paper aims to introduce a method for specifying a grammar-based input model with the model’s semantic constraints to be used in the generation of positive test inputs. It is also important that the method can generate effective test suites based on appropriate grammar-based coverage criteria.
+Method
+Formal specification of both input structure and input semantics provides the opportunity to use model instantiation techniques to create model instances that satisfy all specified constraints. The input interface of a subject system can be specified using a high-level specification scheme such as attribute grammars, and a transformation function from this scheme to an instantiable formal modeling language can generate the desired model instances.
+
+<results>
+	<result>
+		We propose a declarative grammar-based input specification method that is based on a variation of attribute grammars and allows the user to specify input constraints in addition to input structure. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The model can be instantiated automatically to generate structurally and semantically valid test inputs. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The proposed method has the capability to specify test requirements and coverage criteria and use them to generate valid test suites that satisfy test coverage criteria requirements.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+The work presented in this paper provides a black-box test generation method for grammar-based software inputs that can automatically generate criteria-covering test suites.
+Keywords: Software testing; Test input generation; Grammar-based software; Test coverage criteria

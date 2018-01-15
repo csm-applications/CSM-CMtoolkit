@@ -1,0 +1,6 @@
+<title>External Qualiti number#999 Case Studi Softwar Develop Project </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Two metric pretest develop project total time team signific explan qualiti measur <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

@@ -1,0 +1,14 @@
+<title>Investigation of knowledge management methods in software testing process</title>
+
+Effective knowledge management of the testing process is the key to improve the quality of software testing. Knowledge management has different features in software testing. One of the most important research questions is how to effectively integrate the knowledge management with the software testing process so that the knowledge assets can be spread and reused in software testing organizations. In this paper, the current state of knowledge management in software testing was analyzed and the major existing problems were identified; 
+
+<results> 
+	<result>
+		knowledge management methods was proposed towards,a knowledge management system in software testing was designed and implemented. Simultaneously many key technologies are discussed, such as knowledge representation, knowledge map and etc. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		At last, an application instance based on this model is given in the project of QESuite2.0 to verify that knowledge management in software testing is reasonable and effective.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

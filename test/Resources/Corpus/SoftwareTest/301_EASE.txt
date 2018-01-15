@@ -1,0 +1,19 @@
+<title>Factors Explaining External Quality in 54 Case Studies of Software Development Projects</title>
+
+
+Background: Confounding factors can easily make research hard to interpret and generalise. But there is currently no standard list of factors that should always be measured when conducting empirical investigations.
+
+Objective: To measure the explanatory power of eight simple metrics (two different pretests, number of members, total working time reported, development method used, test method used, formal specification method used, and programming language used) to explain external software project quality as measured by the project client. Method: We collected data on 54 software development teams over a five year period. A univariate analysis was used to calculate the explanatory power of the metrics and check for interaction effects between the categorical data.
+
+<results>
+	<result>
+		Two of the proposed metrics (a pre-test based on a development project and the total time spent per team) led to significant explanation of the quality measurement. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		It was also noted that the differences between the Java and PHP programming languages did not explain the variation in quality, but some limited data available for JSP indicated this may not be the case for all languages
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion: We recommend that any empirical investigations into external quality at least records the total time spent in man hours and an assessment of the competence of the developers. In addition future work is needed to determine if other programming languages explain variance in external quality.

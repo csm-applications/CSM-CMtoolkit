@@ -1,0 +1,26 @@
+<title>A systematic mapping study of software product lines testing</title>
+
+<context>
+In software development, Testing is an important mechanism both to identify defects and assure that completed products work as specified. This is a common practice in single-system development, and continues to hold in Software Product Lines (SPL). Even though extensive research has been done in the SPL Testing field, it is necessary to assess the current state of research and practice, in order to provide practitioners with evidence that enable fostering its further development.</context>
+Objective
+This paper focuses on Testing in SPL and has the following goals: investigate state-of-the-art testing practices, synthesize available evidence, and identify gaps between required techniques and existing approaches, available in the literature.
+Method
+A systematic mapping study was conducted with a set of nine research questions, in which 120 studies, dated from 1993 to 2009, were evaluated.
+
+<results>
+	<result>
+		Although several aspects regarding testing have been covered by single-system development approaches, many cannot be directly applied in the SPL context due to specific issues.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		In addition, particular aspects regarding SPL are not covered by the existing SPL approaches, and when the aspects are covered, the literature just gives brief overviews.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		This scenario indicates that additional investigation, empirical and practical, should be performed.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+The results can help to understand the needs in SPL Testing, by identifying points that still require additional investigation, since important aspects regarding particular points of software product lines have not been addressed yet.

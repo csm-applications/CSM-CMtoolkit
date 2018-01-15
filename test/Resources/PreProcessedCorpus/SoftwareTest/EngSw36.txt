@@ -1,0 +1,6 @@
+<title>motiv commun gener gener babi boomer </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>obtain data ground theori method <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

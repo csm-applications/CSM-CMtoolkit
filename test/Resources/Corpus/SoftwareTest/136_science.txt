@@ -1,0 +1,21 @@
+<title>Enhancing mirror adaptive random testing through dynamic partitioning</title>
+
+<context>
+Adaptive random testing (ART), originally proposed as an enhancement of random testing, is often criticized for the high computation overhead of many ART algorithms. Mirror ART (MART) is a novel approach that can be generally applied to improve the efficiency of various ART algorithms based on the combination of “divide-and-conquer” and “heuristic” strategies.</context>
+Objective
+The computation overhead of the existing MART methods is actually on the same order of magnitude as that of the original ART algorithms. In this paper, we aim to further decrease the order of computation overhead for MART.
+Method
+We conjecture that the mirroring scheme in MART should be dynamic instead of static to deliver a higher efficiency. We thus propose a new approach, namely dynamic mirror ART (DMART), which incrementally partitions the input domain and adopts new mirror functions.
+
+<results>
+	<result>
+		Our simulations demonstrate that the new DMART approach delivers comparable failure-detection effectiveness as the original MART and ART algorithms while having much lower computation overhead. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The experimental studies further show that the new approach also delivers a better and more reliable performance on programs with failure-unrelated parameters.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+<conclusions>
+In general, DMART is much more cost-effective than MART. Since its mirroring scheme is independent of concrete ART algorithms, DMART can be generally applied to improve the cost-effectiveness of various ART algorithms.</conclusions>

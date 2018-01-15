@@ -1,0 +1,25 @@
+<title>Goal-oriented dynamic test generation</title>
+
+<context>
+Memory safety errors such as buffer overflow vulnerabilities are one of the most serious classes of security threats. Detecting and removing such security errors are important tasks of software testing for improving the quality and reliability of software in practice.</context>
+Objective
+This paper presents a goal-oriented testing approach for effectively and efficiently exploring security vulnerability errors. A goal is a potential safety violation and the testing approach is to automatically generate test inputs to uncover the violation.
+Method
+We use type inference analysis to diagnose potential safety violations and dynamic symbolic execution to perform test input generation. A major challenge facing dynamic symbolic execution in such application is the combinatorial explosion of the path space. To address this fundamental scalability issue, we employ data dependence analysis to identify a root cause leading to the execution of the goal and propose a path exploration algorithm to guide dynamic symbolic execution for effectively discovering the goal.
+<results>
+	<result>
+		To evaluate the effectiveness of our proposed approach, we conducted experiments against 23 buffer overflow vulnerabilities. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		We observed a significant improvement of our proposed algorithm over two widely adopted search algorithms.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Specifically, our algorithm discovered security vulnerability errors within a matter of a few seconds, whereas the two baseline algorithms failed even after 30 min of testing on a number of test subjects.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+The experimental results highlight the potential of utilizing data dependence analysis to address the combinatorial path space explosion issue faced by dynamic symbolic execution for effective security testing.

@@ -1,0 +1,13 @@
+<title>Empirical study of the effects of open source adoption on software development economics</title> 
+
+In this paper, we present the results of empirical study of the effects of open source software (OSS) components reuse on software development economics. Specifically, we examined three economic factors – cost, productivity, and quality. This study started with an extensive literature review followed by an exploratory study conducted through interviews with 18 senior project/quality managers, and senior software developers. Then, the result of the literature review and the exploratory study was used to formulate research model, hypotheses, and survey questionnaire. Software intensive companies from Canada and the \{US\} were targeted for this study. The period of study was between September 2004 and March 2006.
+
+<results> 
+	<result>
+		Our findings show that there are strong significant statistical correlations between the factors of OSS components reuse and software development economics.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+The conclusion from this study shows that software organizations can achieve some economic gains in terms of software development productivity and product quality if they implement \{OSS\} components reuse adoption in a systematic way. A big lesson learned in this study is that OSS components are of highest quality and that open source community is not setting a bad example (contrary to some opinion) so far as ‘good practices’ are concerned. 
+

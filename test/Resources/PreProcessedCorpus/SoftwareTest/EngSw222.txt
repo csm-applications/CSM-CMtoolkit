@@ -1,0 +1,6 @@
+<title>map studi componentbas softwar system metric </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>number#999 propos could CBSS number#999 propos could individu compon isol <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

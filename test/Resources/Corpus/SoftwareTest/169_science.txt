@@ -1,0 +1,27 @@
+<title>Challenges of project management in global software development: A client-vendor analysis</title>
+
+<context>
+Global Software Development (GSD) is the process whereby software is developed by different teams located in various parts of the globe. One of the major reasons for GSD project failure is that a number of organizations endorse global development prior to understanding project management challenges for the global activity.</context>
+Objective
+The objective of this paper is to identify the challenges, from the client and vendor perspectives, which can undermine the successful management of GSD projects.
+Method
+We followed a two-phase approach: we first identified the challenges via a Systematic Literature Review (SLR) and then the identified challenges were validated using a questionnaire-based survey.
+
+<results>
+	Through both approaches, we identified 19 challenges important to the success of GSD project management. 
+
+	<result>
+		A comparison of the challenges identified in client and vendor organizations indicates that there are more similarities than differences between the challenges.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result> 
+	<result>
+		Our results show a positive correlation between the ranks obtained from the SLR and the questionnaire ((rs(19) = 0.102), p = 0.679). 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		The results of t-test (i.e., t = 0.299, p = 0.768 &gt; 0.05) show that there is no significant difference between the findings of SLR and questionnaire.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+Conclusions
+GSD organizations should try to address the identified challenges when managing their global software development activities to increase the probability of project success.

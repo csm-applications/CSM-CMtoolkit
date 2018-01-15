@@ -1,0 +1,16 @@
+<title>Mutant reduction based on dominance relation for weak mutation testing</title>
+
+Context: As a fault-based testing technique, mutation testing is effective at evaluating the quality of existing test suites. However, a large number of mutants result in the high computational cost in mutation testing. As a result, mutant reduction is of great importance to improve the efficiency of mutation testing.
+
+Objective: We aim to reduce mutants for weak mutation testing based on the dominance relation between mutant branches.
+
+Method: In our method, a new program is formed by inserting mutant branches into the original program. By analyzing the dominance relation between mutant branches in the new program, the non-dominated one is obtained, and the mutant corresponding to the non-dominated mutant branch is the mutant after reduction. The proposed method is applied to test ten benchmark programs and six classes from open-source projects. 
+
+<results> 
+	result>
+		The experimental results show that our method reduces over 80% mutants on average, which greatly improves the efficiency of mutation testing.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion: We conclude that dominance relation between mutant branches is very important and useful in reducing mutants for mutation testing.

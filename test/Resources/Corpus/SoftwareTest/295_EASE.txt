@@ -1,0 +1,10 @@
+<title>Empirical Validation of a Requirements Engineering Process Guide</title>
+
+
+Current requirements engineering (RE) practice in industry lacks the availability of an integrated guide that defines and supports the requirements engineering part of embedded system development. Therefore, the RE part of a development project is not as structured and defined as desired. This paper presents results of an experiment validating a RE guide developed by a joint research project between industry and academia. In the experiment carried out for 14 weeks, embedded development projects using the guide were compared to projects following a state-of-the-practice process. 
+<results>
+	<result>
+		The results suggest the guide to be suitable for mastering the RE part of an embedded system development.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

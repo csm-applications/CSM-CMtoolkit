@@ -1,0 +1,12 @@
+<title>An application framework to systematically develop complex learning resources based on collaborative knowledge engineering</title>
+
+This contribution proposes software infrastructure to support new types of learning methodologies and resources based on collaborative knowledge engineering by means of an innovative application framework called the virtualized collaborative sessions framework (VCSF). The VCSF helps meet challenging collaborative knowledge engineering requirements in online learning, such as increasing group members' learning performance during the on-line collaborative learning process. In turn, systematic application of the VCSF platform enriched with semantic knowledge engineering technologies enables e-learning developers to leverage successful collaborative learning experiences in a software reuse fashion while saving development time and effort. 
+
+<results> 
+	<result>
+		The framework is prototyped and successfully tested in real environments, thus showing the software reuse capability and the collaborative knowledge engineering benefits of the VCSF approach. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+The research reported in this paper was undertaken within the ALICE project funded through the European 7th Framework Program (FP7).

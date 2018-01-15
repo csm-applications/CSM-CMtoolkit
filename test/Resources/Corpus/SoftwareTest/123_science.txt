@@ -1,0 +1,22 @@
+<title>Investigating software testing and maintenance reports: Case study</title>
+
+<context>
+Although many papers have been published on software development and defect prediction techniques, problem reports in real projects quite often differ from those described in the literature. Hence, there is still a need for deeper exploration of case studies from industry. </context>
+Objective
+The aim of this study is to present the impact of fine-grained problem reports on improving evaluation of testing and maintenance processes. It is targeted at projects involving several releases and complex schemes of problem handling. This is based on our experience gained while monitoring several commercial projects.
+Method
+Extracting certain features from detailed problem reports, we derive various measures and present analysis models which characterize and visualize the effectiveness of testing and problem resolution processes. The considered reports describe types of problems (e.g. defects), their locations in project versions and software modules, ways of their resolution, etc. The performed analysis is related to eleven projects developed in the same company. This study is an exploratory research with some explanatory features. Moreover, having identified some drawbacks, we present extensions of problem reports and their analysis which have been verified in another industrial case study project.
+
+<results>
+	<result>
+		Fine-grained (accurate) problem handling reports provide a wider scope of possible measures to assess the relevant development processes. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		This is helpful in controlling single projects (local perspective) as well as in managing these processes in the whole company (global perspective).
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+Detailed problem handling reports extend the space and quality of statistical analysis, they provide significant enhancement in evaluation and refinement of software development processes as well as in reliability prediction.

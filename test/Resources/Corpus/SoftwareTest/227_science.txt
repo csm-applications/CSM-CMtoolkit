@@ -1,0 +1,15 @@
+<title>An empirical study of the relationship between the concepts expressed in source code and dependence</title> 
+
+Programs express domain-level concepts in their source code. It might be expected that such concepts would have a degree of semantic cohesion. This cohesion ought to manifest itself in the dependence between statements all of which contribute to the computation of the same concept. This paper addresses a set of research questions that capture this informal observation. It presents the results of experiments on 10 programs that explore the relationship between domain-level concepts and dependence in source code. 
+
+<results>
+	<result>
+		The results show that code associated with concepts has a greater degree of coherence, with tighter dependence. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		This finding has positive implications for the analysis of concepts as it provides an approach to decompose a program into smaller executable units, each of which captures the behaviour of the program with respect to a domain-level concept.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

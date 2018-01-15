@@ -1,0 +1,6 @@
+<title>relationship schedul knowledg transfer softwar test </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>relationship can size complex softwar knowledg manag issu custom involv <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

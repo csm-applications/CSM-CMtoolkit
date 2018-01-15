@@ -1,0 +1,6 @@
+<title>schedul sequenc messagepass parallel program </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>experiment result approach number#999 schedul sequenc averag <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

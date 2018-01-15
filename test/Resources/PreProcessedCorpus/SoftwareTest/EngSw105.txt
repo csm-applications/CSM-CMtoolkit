@@ -1,0 +1,6 @@
+<title>crosscompani softwar defect predict </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>TNB more accur term AUC area receiv characterist curv less runtim state art method <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

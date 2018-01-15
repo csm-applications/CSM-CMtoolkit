@@ -1,0 +1,23 @@
+<title>Impact of Experience and Team Size on the Quality of Scenarios for Architecture Evaluation</title>
+
+
+Software and systems architecture is a success-critical issue in software projects. Changing nonfunctional quality requirements, e.g., performance, modifiability, and maintainability, can have strong impact on software architecture and can result in a high rework effort in case of changes. Architecture reviews help evaluating architectural design with scenarios in early stages of product development. Quality-sensitive scenarios represent a set of software requirements (including non-functional quality attributes). In this paper we empirically investigate the impact of potentially important factors on the number and quality of scenarios elicited in an architecture evaluation workshop: (a) scoring schemes for scenario quality, (b) workshop participant experience, and (c) team size for workshop group work. 
+
+<results> 
+	<result>
+		We report data analysis results from an empirical study where 24 reviewers at different experience levels identified over 100 scenarios. Main findings are:
+		<TypeOfResult>Quantitative</TypeOfResult> 
+	</result>
+	<result>
+		(a) results of different scoring approaches (frequency-based and expert scoring) agree very well regarding critical scenarios, 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		(b) the scenario elicitation method was more important than individual experience, and
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		(c) adding a new person to a team of size 3 or more increases scenario coverage by less than 10%.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>

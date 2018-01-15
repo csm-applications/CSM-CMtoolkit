@@ -1,0 +1,28 @@
+<title>A mapping study to investigate component-based software system metrics</title> 
+
+A component-based software system (CBSS) is a software system that is developed by integrating components that have been deployed independently. In the last few years, many researchers have proposed metrics to evaluate CBSS attributes. However, the practical use of these metrics can be difficult. For example, some of the metrics have concepts that either overlap or are not well defined, which could hinder their implementation. The aim of this study is to understand, classify and analyze existing research in component-based metrics, focusing on approaches and elements that are used to evaluate the quality of CBSS and its components from a component consumer's point of view. This paper presents a systematic mapping study of several metrics that were proposed to measure the quality of CBSS and its components. 
+
+<results> 
+	<result>
+		We found 17 proposals that could be applied to evaluate CBSSs, while 14 proposals could be applied to evaluate individual components in isolation.
+		<TypeOfResult>Quantitative</TypeOfResult> 
+	</result>
+	<result>
+		Various elements of the software components that were measured are reviewed and discussed.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Only a few of the proposed metrics are soundly defined.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The quality assessment of the primary studies detected many limitations and suggested guidelines for possibilities for improving and increasing the acceptance of metrics.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		However, it remains a challenge to characterize and evaluate a CBSS and its components quantitatively. For this reason, much effort must be made to achieve a better evaluation approach in the future.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+
+</results> 
+

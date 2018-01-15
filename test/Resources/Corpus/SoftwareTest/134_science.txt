@@ -1,0 +1,21 @@
+<title>Reducing scheduling sequences of message-passing parallel programs</title>
+
+
+<context> Message-passing parallel programs are commonly used parallel programs. Various scheduling sequences contained in these programs, however, increase the difficulty of testing them. Therefore, reducing scheduling sequences by using appropriate approaches can greatly improve the efficiency of testing these programs.</context>
+
+Objective: This paper focuses on the problem of reducing scheduling sequences of message-passing parallel programs, and presents a novel approach to reducing scheduling sequences.
+
+Method: In this approach, scheduling sequences that affect the target statement are first determined based on the relation between a scheduling sequence and the execution of the target statement. Then, these scheduling sequences are divided into a number of equivalent classes according to the execution of the target statement. Finally, for each scheduling sequence in the same equivalent class, the values of the two proposed indexes are calculated, and the scheduling sequence with the minimal comprehensive value is selected as the one after reduction. To evaluate the performance of the proposed approach, it is applied to test 12 typical message-passing parallel programs. 
+
+<results> 
+	<result>
+		The experimental results show that the proposed approach reduces 63% scheduling sequences on average. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		And compared with the method without reduction, and the method with randomly selecting scheduling sequences, the proposed approach shortens 67% and 52% execution time of a program for covering the target statement on average, respectively.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion: The proposed approach can greatly reduce scheduling sequences, and shorten execution time of a program for covering the target statement, hence improving the efficiency of testing the program.

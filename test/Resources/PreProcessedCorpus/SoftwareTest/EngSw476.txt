@@ -1,0 +1,6 @@
+<title>softwar practic viewpoint organ knowledg manag </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>analysi hypothes busi orient test organ knowledg manag strategi test <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

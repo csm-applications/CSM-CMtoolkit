@@ -1,0 +1,15 @@
+<title>PAT: A pattern classification approach to automatic reference oracles for the testing of mesh simplification programs </title>
+
+Graphics applications often need to manipulate numerous graphical objects stored as polygonal models. Mesh simplification is an approach to vary the levels of visual details as appropriate, thereby improving on the overall performance of the applications. Different mesh simplification algorithms may cater for different needs, producing diversified types of simplified polygonal model as a result. Testing mesh simplification implementations is essential to assure the quality of the graphics applications. However, it is very difficult to determine the oracles (or expected outcomes) of mesh simplification for the verification of test results. A reference model is an implementation closely related to the program under test. Is it possible to use such reference models as pseudo-oracles for testing mesh simplification programs? If so, how effective are they? This paper presents a fault-based pattern classification methodology called PAT, to address the questions. In PAT, we train the C4.5 classifier using black-box features of samples from a reference model and its fault-based versions, in order to test samples from the subject program. We evaluate \{PAT\} using four implementations of mesh simplification algorithms as reference models applied to 44 open-source three-dimensional polygonal models.
+
+<results> 
+	<result>
+		Empirical results reveal that the use of a reference model as a pseudo-oracle is effective for testing the implementations of resembling mesh simplification algorithms.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		However, the results also show a tradeoff: When compared with a simple reference model, the use of a resembling but sophisticated reference model is more effective and accurate but less robust.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

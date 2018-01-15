@@ -1,0 +1,11 @@
+<title>Software metrics as a programming training tool </title>
+
+Software metrics have been recommended for quite some time as a tool to help manage the development and maintenance of computer software; however, little attention has been focused on using software metrics as a programmer training tool. Training on software complexity metrics was integrated into an advanced Cobol programming class, and a simple experiment was performed to determine if the training had any effect on program complexity, development time, and several dimensions of quality. This article describes 
+
+<results>
+	<result>
+		the results of the study and presents a general outline of software complexity concepts that should be included in programming courses.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+</results>
+

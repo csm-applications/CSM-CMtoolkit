@@ -1,0 +1,6 @@
+<title>dynam memori manag constraintbas test </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>implement preliminari experiment result exampl highli deduct potenti approach <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

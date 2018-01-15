@@ -1,0 +1,26 @@
+<title>Software test maturity assessment and test process improvement: A multivocal literature review</title>
+
+<context>
+Software testing practices and processes in many companies are far from being mature and are usually conducted in ad-hoc fashions. Such immature practices lead to various negative outcomes, e.g., ineffectiveness of testing practices in detecting all the defects, and cost and schedule overruns of testing activities. To conduct test maturity assessment (TMA) and test process improvement (TPI) in a systematic manner, various TMA/TPI models and approaches have been proposed.</context>
+Objective
+It is important to identify the state-of-the-art and the –practice in this area to consolidate the list of all various test maturity models proposed by practitioners and researchers, the drivers of TMA/TPI, the associated challenges and the benefits and results of TMA/TPI. Our article aims to benefit the readers (both practitioners and researchers) by providing the most comprehensive survey of the area, to this date, in assessing and improving the maturity of test processes.
+Method
+To achieve the above objective, we have performed a Multivocal Literature Review (MLR) study to find out what we know about TMA/TPI. A MLR is a form of a Systematic Literature Review (SLR) which includes the grey literature (e.g., blog posts and white papers) in addition to the published (formal) literature (e.g., journal and conference papers). We searched the academic literature using the Google Scholar and the grey literature using the regular Google search engine.
+
+<results>
+	<result>
+		Our MLR and its results are based on 181 sources, 51 (29%) of which were grey literature and 130 (71%) were formally published sources.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		By summarizing what we know about TMA/TPI, our review identified 58 different test maturity models and a large number of sources with varying degrees of empirical evidence on this topic. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		We also conducted qualitative analysis (coding) to synthesize the drivers, challenges and benefits of TMA/TPI from the primary sources.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+We show that current maturity models and techniques in TMA/TPI provides reasonable advice for industry and the research community. We suggest directions for follow-up work, e.g., using the findings of this MLR in industry-academia collaborative projects and empirical evaluation of models and techniques in the area of TMA/TPI as reported in this article.

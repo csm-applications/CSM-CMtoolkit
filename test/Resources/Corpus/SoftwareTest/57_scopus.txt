@@ -1,0 +1,10 @@
+<title>Run-through practice as a collaboration facilitator in inter-organizational software construction</title>
+
+The inter-organizational software construction implies the distribution of the work related to coding and test software product components. The collaboration is needed to ensure the expected results. The organizations not only face all the challenges identified in distributed environments, such as communication, coordination, knowledge transfer, teamwork, etc. Also, concerns arise regarding the efficiency and exposure of organizational processes and uncertainty about the specific responsibilities of each organization to achieve the expected result of the collaboration, especially when they have not previously collaborated. This paper presents a set of activities executed by three software organizations to prepare a software construction phase, called Run-Through Practice (RTP). The organizations agreed to execute it because they have seen in the need of working together to construct components and to integrate them into a large-scale software product, since they had not worked together before. During the RTP, the organizations established their collaborative relationship through agreements and communication, coordination and cooperation activities. 
+
+<results> 
+	<result>
+		Among the results, the organizations discovered the activities and mechanisms to be performed in the software construction phase, allowing to systematize their activities and face technical challenges and issues. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

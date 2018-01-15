@@ -1,0 +1,28 @@
+<header>
+    <TypeOfResult>Qualitative</TypeOfResult>
+</header>
+
+<title>Mutation operators for testing Android apps</title>
+
+<context>Due to the widespread use of Android devices, Android applications (apps) have more releases, purchases, and downloads than apps for any other mobile devices. The sheer volume of code in these apps creates significant concerns about the quality of the software. However, testing Android apps is different from testing traditional Java programs due to the unique program structure and new features of apps. Simple testing coverage criteria such as statement coverage are insufficient to assure high quality of Android apps. While researchers show significant interest in finding better Android testing approaches, there is still a lack of effective and usable techniques to evaluate their proposed test selection strategies, and to ensure a reasonable number of effective tests.</context>
+
+<objectives> As mutation analysis has been found to be an effective way to design tests in other software domains, we hypothesize that it is also a viable solution for Android apps.</objectives>
+
+Method: This paper proposes an innovative mutation analysis approach that is specific for Android apps. We define mutation operators specific to the characteristics of Android apps, such as the extensive use of XML files to specify layout and behavior, the inherent event-driven nature, and the unique Activity lifecycle structure. We also report on an empirical study to evaluate these mutation operators.
+
+<results>
+	<result>
+		We have built a tool that uses the novel Android mutation operators to mutate the source code of Android apps, then generates mutants that can be installed and run on Android devices. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		We evaluated the effectiveness of Android mutation testing through an empirical study on real-world apps. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		This paper introduces several novel mutation operators based on a fault study of Android apps, presents a significant empirical study with real-world apps, and provides conclusions based on an analysis of the results.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion: The results show that the novel Android mutation operators provide comprehensive testing for Android apps. Additionally, as applying mutation testing to Android apps is still at a preliminary stage, we identify challenges, possibilities, and future research directions to make mutation analysis for mobile apps more effective and efficient.

@@ -1,0 +1,11 @@
+<title> Non-specification-based approaches to logic testing for software </title>
+
+Testing is a crucial part of the development of software systems. In this paper, we consider testing of an implementation that is intended to satisfy a Boolean formula. In the literature, specification-based testing has been suggested for this purpose. Typically, such methods first hypothesize a fault class and then generate tests. However, there is almost no research that justifies fault classes proposed previously. Moreover, specifications amenable to automatic test generation are not always available to testers in practice. Based on these observations, we examine the applicability of non-specification-based approaches, which need no specification in the form of a Boolean formula to create tests. We compare a specification-based approach to three non-specification-based approaches, namely, random testing, antirandom testing, and combinatorial testing. 
+
+<results>
+	<result>
+		The results of an experiment show that combinatorial testing is often comparative to specification-based testing and is superior to both random testing and antirandom testing.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+

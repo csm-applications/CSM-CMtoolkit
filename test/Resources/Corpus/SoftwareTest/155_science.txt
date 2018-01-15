@@ -1,0 +1,22 @@
+<title>Model-based testing of global properties on large-scale distributed systems</title>
+
+<context>
+Large-scale distributed systems are becoming commonplace with the large popularity of peer-to-peer and cloud computing. The increasing importance of these systems contrasts with the lack of integrated solutions to build trustworthy software. A key concern of any large-scale distributed system is the validation of global properties, which cannot be evaluated on a single node. Thus, it is necessary to gather data from distributed nodes and to aggregate these data into a global view. This turns out to be very challenging because of the system’s dynamism that imposes very frequent changes in local values that affect global properties. This implies that the global view has to be frequently updated to ensure an accurate validation of global properties.</context>
+Objective
+In this paper, we present a model-based approach to define a dynamic oracle for checking global properties. Our objective is to abstract relevant aspects of such systems into models. These models are updated at runtime, by monitoring the corresponding distributed system.
+Method
+We conduce real-scale experimental validation to evaluate the ability of our approach to check global properties. In this validation, we apply our approach to test two open-source implementations of distributed hash tables. The experiments are deployed on two clusters of 32 nodes.
+
+<results>
+	<result>
+		The experiments reveal an important defect on one implementation and show clear performance differences between the two implementations. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The defect would not be detected without a global view of the system.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+Testing global properties on distributed software consists of gathering data from different nodes and building a global view of the system, where properties are validated. This process requires a distributed test architecture and tools for representing and validating global properties. Model-based techniques are an expressive mean for building oracles that validate global properties on distributed systems.

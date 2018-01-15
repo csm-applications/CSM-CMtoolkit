@@ -1,0 +1,13 @@
+<title>A comprehensive study of the predictive accuracy of dynamic change-impact analysis</title>
+
+Abstract The correctness of software is affected by its constant changes. For that reason, developers use change-impact analysis to identify early the potential consequences of changing their software. Dynamic impact analysis is a practical technique that identifies potential impacts of changes for representative executions. However, it is unknown how reliable its results are because their accuracy has not been studied. This paper presents the first comprehensive study of the predictive accuracy of dynamic impact analysis in two complementary ways. First, we use massive numbers of random changes across numerous Java applications to cover all possible change locations. Then, we study more than 100 changes from software repositories, which are representative of developer practices. Our experimental approach uses sensitivity analysis and execution differencing to systematically measure the precision and recall of dynamic impact analysis with respect to the actual impacts observed for these changes.
+
+<results> 
+	<result>
+		Our results for both types of changes show that the most cost-effective dynamic impact analysis known is surprisingly inaccurate with an average precision of 38–50% and average recall of 50–56% in most cases.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results> 
+
+This comprehensive study offers insights on the effectiveness of existing dynamic impact analyses and motivates the future development of more accurate impact analyses. 
+

@@ -1,0 +1,6 @@
+<title>autom approach test suit test compil embed system </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Moreov mutat analysi size test suit number#999 averag fault detect capabl reduc test suit still approxim number#999 origin test suit <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

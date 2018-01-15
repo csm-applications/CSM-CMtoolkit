@@ -1,0 +1,11 @@
+<title>Formal specification of the variants and behavioural features of design patterns</title>
+
+The formal specification of design patterns is widely recognized as being vital to their effective and correct use in software development. It can clarify the concepts underlying patterns, eliminate ambiguity and thereby lay a solid foundation for tool support. This paper further advances a formal meta-modeling approach that uses first-order predicate logic to specify design patterns. In particular, it specifies both structural and behavioural features of design patterns and systematically captures the variants in a well-structured format. The paper reports a case study involving the formal specification of all 23 patterns in the Gang of Four catalog. 
+
+<results>
+	<result>
+		It demonstrates that the approach improves the accuracy of pattern specifications by covering variations and clarifying the ambiguous parts of informal descriptions.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

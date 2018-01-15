@@ -1,0 +1,15 @@
+<header>
+    <TypeOfResult>Qualitative</TypeOfResult>
+</header>
+
+<title>Comparative analysis of classical multi-objective evolutionary algorithms and seeding strategies for pairwise testing of Software Product Lines</title>
+
+
+Software Product Lines (SPLs) are families of related software products, each with its own set of feature combinations. Their commonly large number of products poses a unique set of challenges for software testing as it might not be technologically or economically feasible to test of all them individually. SPL pairwise testing aims at selecting a set of products to test such that all possible combinations of two features are covered by at least one selected product. Most approaches for SPL pairwise testing have focused on achieving full coverage of all pairwise feature combinations with the minimum number of products to test. Though useful in many contexts, this single-objective perspective does not reflect the prevailing scenario where software engineers do face trade-offs between the objectives of maximizing the coverage or minimizing the number of products to test. In contrast and to address this need, our work is the first to propose a classical multi-objective formalisation where both objectives are equally important. In this paper, we study the application to SPL pairwise testing of four classical multi-objective evolutionary algorithms. We developed three seeding strategies - techniques that leverage problem domain knowledge - and measured their performance impact on a large and diverse corpus of case studies using two well-known multi-objective quality measures. Our study identifies the performance differences among the algorithms and corroborates that the more domain knowledge leveraged the better the search results. 
+
+<results> 
+	<result>
+		Our findings enable software engineers to select not just one solution (as in the case of single-objective techniques) but instead to select from an array of test suite possibilities the one that best matches the economical and technological constraints of their testing context.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result> 
+</results>

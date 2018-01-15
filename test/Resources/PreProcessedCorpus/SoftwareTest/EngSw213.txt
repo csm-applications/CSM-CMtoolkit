@@ -1,0 +1,6 @@
+<title>Nonspecificationbas approach logic test softwar </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result experi combinatori test often compar specificationbas test superior random test antirandom test <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

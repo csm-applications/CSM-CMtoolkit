@@ -1,0 +1,6 @@
+<title>Use Chronolog Split Softwar Crosscompani Singlecompani Effort Predict Replic Studi </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Singlecompani model significantli better predict crosscompani model <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

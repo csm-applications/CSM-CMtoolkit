@@ -1,0 +1,27 @@
+<title>Analyzing maintainability and reliability of object-oriented software using weighted complex network </title>
+
+Abstract Modeling software systems using complex networks can be an effective technique for analyzing the complexity of software systems. To enhance the technique, the structure of a complex network can be extended by assigning a weight to the edges of the complex network to denote the strength of communicational cohesion between a pair of related software components. This paper proposes an approach to represent an object-oriented software system using a weighted complex network in order to capture its structural characteristics, with respect to its maintainability and reliability. Nodes and edges are modeled based on the complexities of classes and their dependencies.
+
+<results> 
+	<result>
+		Graph theory metrics are applied onto the transformed network with the purpose to evaluate the software system. 
+		 <TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Comparative analysis is performed using 40 object-oriented software systems, with different levels of maintenance effort. 
+		 <TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		We found that common statistical patterns from the software systems can be identified easily.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		It is when these software systems are grouped and compared based on their levels of maintenance effort that their statistical patterns are more distinguishable to represent some common behavior and structural complexity of object-oriented software. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The evaluations indicate that the proposed approach is capable of identifying software components that violate common software design principles.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

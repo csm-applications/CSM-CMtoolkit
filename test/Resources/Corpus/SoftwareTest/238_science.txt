@@ -1,0 +1,15 @@
+<title>An experimental study of adaptive testing for software reliability assessment</title> 
+
+Adaptive testing is a new form of software testing that is based on the feedback and adaptive control principle and can be treated as the software testing counterpart of adaptive control. Our previous work has shown that adaptive testing can be formulated and guided in theory to minimize the variance of an unbiased software reliability estimator and to achieve optimal software reliability assessment. In this paper, we present an experimental study of adaptive testing for software reliability assessment, where the adaptive testing strategy, the random testing strategy and the operational profile based testing strategy were applied to the Space program in four experiments. 
+
+<results>
+	<result>
+		The experimental results demonstrate that the adaptive testing strategy can really work in practice and may noticeably outperform the other two.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Therefore, the adaptive testing strategy can serve as a preferable alternative to the random testing strategy and the operational profile based testing strategy if high confidence in the reliability estimates is required or the real-world operational profile of the software under test cannot be accurately identified.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

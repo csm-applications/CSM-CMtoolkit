@@ -1,0 +1,27 @@
+<title>An Experiment Measuring the Effects of Maintenance Tasks on Program Knowledge</title>
+
+
+Objective: To ascertain whether programmers gain more knowledge about an unfamiliar program by enhancing the code or documenting the code. The context of this work was investigating whether maintenance programmers faced with an unfamiliar system should start by actively working on the system or spend time passively exploring the system before attempting to make changes.
+
+Method: We designed a laboratory experiment where subjects initially either enhanced or documented a program and then we measured how they performed when carrying out a further task on the given code. Our hypothesis was that programmers would gain more knowledge performing one of the two tasks. The experiment was repeated three times with different groups of students, all at the same stage of their education.
+
+<results>
+	<result>
+		There was no significant difference between the performance of the two groups who had performed different initial tasks. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		However, there was a strong correlation between performance in the measured task and the students' programming ability, as measured by a previous academic assessment. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		As not all subjects completed the measured task within the given time, we needed to use Kaplan-Meier survival curves and the Cox Proportional Hazard Model to analyse our data. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Detailed inspection of the code produced during the experiment revealed some interesting qualitative results.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions: We were unable to show a significant difference between the value of enhancing or documenting code as a way of gaining knowledge about unfamiliar programs. In the context of software maintenance this means that there is no advantage in spending unproductive time documenting code to gain knowledge.

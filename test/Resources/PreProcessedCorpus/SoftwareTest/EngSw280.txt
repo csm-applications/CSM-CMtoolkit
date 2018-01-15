@@ -1,0 +1,6 @@
+<title>case studi branch test autom </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>statist valid perform bound <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

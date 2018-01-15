@@ -1,0 +1,15 @@
+<title>A method to optimize the scope of a software product platform based on end-user features</title> 
+
+AbstractContext Due to increased competition and the advent of mass customization, many software firms are utilizing product families – groups of related products derived from a product platform – to provide product variety in a cost-effective manner. The key to designing a successful software product family is the product platform, so it is important to determine the most appropriate product platform scope related to business objectives, for product line development. Aim This paper proposes a novel method to find the optimized scope of a software product platform based on end-user features. Method The proposed method, PPSMS (Product Platform Scoping Method for Software Product Lines), mathematically formulates the product platform scope selection as an optimization problem. The problem formulation targets identification of an optimized product platform scope that will maximize life cycle cost savings and the amount of commonality, while meeting the goals and needs of the envisioned customers’ segments. A simulated annealing based algorithm that can solve problems heuristically is then used to help the decision maker in selecting a scope for the product platform, by performing tradeoff analysis of the commonality and cost savings objectives. 
+
+<results>
+	<result>
+		Results In a case study, PPSMS helped in identifying 5 non-dominated solutions considered to be of highest preference for decision making, taking into account both cost savings and commonality objectives. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		A quantitative and qualitative analysis indicated that human experts perceived value in adopting the method in practice, and that it was effective in identifying appropriate product platform scope. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

@@ -1,0 +1,14 @@
+<title>On the statistical properties of testing effectiveness measures</title>
+
+We examine the statistical variability of three commonly used software testing effectiveness measures—the E-measure (expected number of failures detected), P-measure (probability of detecting at least one failure), and F-measure (number of tests required to detect the first failure). We show that for random testing with replacement, the F-measure will be distributed according to the geometric distribution. A simulation study examines the distribution of two adaptive random testing methods, to investigate how closely their sampling distributions approximate the geometric distribution. One key observation is that in the worst case scenario, the sampling distribution of adaptive random testing is very similar to that of random testing. The E-measure and P-measure have a normal sampling distribution, but high variability, meaning that large sample sizes are required to obtain results with satisfactorily narrow confidence intervals. We illustrate this with a simulation study for the P-measure. 
+
+<results> 
+	<result>
+		Our results have reinforced, from a perspective other than empirical analysis, that adaptive random testing is a more effective alternative to random testing, with reference to the F-measure. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		We consider the implications of our findings for previous studies conducted in the area, and make recommendations to future studies.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

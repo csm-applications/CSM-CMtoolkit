@@ -1,0 +1,11 @@
+<title>Results from introducing component-level test automation and Test-Driven Development</title>
+
+For many software development organizations it is of crucial importance to reduce development costs while still maintaining high product quality. Since testing commonly constitutes a significant part of the development time, one way to increase efficiency is to find more faults early when they are cheaper to pinpoint and remove. This paper presents empirical results from introducing a concept for early fault detection. That is, an alternative approach to Test-Driven Development which was applied on a component level instead of on a class/method level. The selected method for evaluating the result of introducing the concept was based on an existing method for fault-based process assessment and was proven practically useful for evaluating fault reducing improvements. The evaluation was made on two industrial projects and on different features within a project that only implemented the concept partly. 
+
+<results>
+	<result>
+		The evaluation result demonstrated improvements regarding decreased fault rates and Return On Investment (ROI), e.g. the total project cost became about 5–6% less already in the first two studied projects.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+

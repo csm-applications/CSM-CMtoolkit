@@ -1,0 +1,21 @@
+<title>Preliminary Reporting Guidelines for Experience Papers</title>
+
+Context: When undertaking a systematic literature review or a mapping study software engineering, it is likely that only a small set of experimental studies will be available. In conducting a mapping study on the theme of software design patterns, we found only 11 papers describing experiments that studied the use of patterns.
+
+Objectives: To investigate whether we could obtain further evidence by examining the experiences offered in papers that were essentially observational in nature. To use this experience to suggest how such studies can best be reported.
+
+Method: We identified suitable studies from those identified in our systematic search and undertook data extraction from them. We then analysed those that were of most use, to identify what characteristics made their reporting useful.
+
+<results> 
+	<result>
+		We found 18 experience papers, but after analysis, this set was reduced to four. Only one of these provided a clear link between practical experiences and the lessons they reported. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Our preliminary reporting guidelines are based upon both good and poor papers, as well as the guidelines proposed for other forms of empirical study.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions: We draw upon our experiences of data extraction, and of the one good example to suggest reporting guidelines for experience papers.
+

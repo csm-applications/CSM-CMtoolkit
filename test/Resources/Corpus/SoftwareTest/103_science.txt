@@ -1,0 +1,19 @@
+<title>Challenges and strategies for motivating software testing personnel</title>
+
+<context>
+Software testing is the key to ensuring a successful and reliable software product or service, yet testing is often considered uninteresting work compared to design or coding. As any human-based activity, the outcome of the final software product is dependent of human factors and an essential challenge for software development organizations is to find effective ways to enhance the motivation and job-satisfaction of their testers.</context>
+Objective
+Our study aims to cast light on how professional software testers can be motivated and we explore the policies and rules conceptualized and implemented inside software development projects.
+Method
+This paper presents the results of an empirical study that collected data through semi-structured and in-depth interviews with 36 practitioners from 12 companies in Norway. The data collection was performed over a two years period and investigates the strategies applied by the companies for stimulating their testers, while considering the motivational and de-motivational factors influencing the testing personnel.
+
+<results>
+	<result>
+		Our results provide a set of motivational and de-motivational factors for software testing personnel and present the strategies deployed by the companies for stimulating their testing staff.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+
+Conclusions
+The study shows that combining testing responsibilities with development and ensuring a variety of engaging, challenging tasks and products does increase the satisfaction of testing personnel. However, despite the systematic and sincere effort invested in recognizing the importance of testing and motivating the testers, heavy emphasis is laid on minimizing project costs and duration. The results could help the companies in organizing and managing processes and stimulate their testing personnel, which will lead to better job satisfaction and productivity.

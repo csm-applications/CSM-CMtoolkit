@@ -1,0 +1,6 @@
+<title>Mutat oper Android app </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>effect Android mutat test empir studi realworld app <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

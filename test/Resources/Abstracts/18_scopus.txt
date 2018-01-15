@@ -1,0 +1,19 @@
+<header>
+    <TypeOfResult>Quantitative</TypeOfResult>
+</header>
+
+<title>Motivations for knowledge sharing in free software communities</title>
+
+Knowledge sharing is a key aspect for a community of practice. Free software communities can be considered communities of practice, since they aggregate people interested in donating and collecting, that is, sharing knowledge about free software. According to the literature, the donation and collection of knowledge are motivated by different factors and these motivations may vary depending on the context. Free software communities may include members from different countries and backgrounds, which can make keeping such communities active and vigorous a challenge. This study aims to identify the motivations for knowledge sharing behaviour that are susceptible to leadership actions in free software communities. The research was carried out in three phases. First, a qualitative study involving twenty semi-structured interviews was conducted among members of a free software community, who suggested sixteen motivations for knowledge sharing behaviour. These motivations were then organized into three groups, each with a specific focus: three motivations only influence knowledge collection and focus on the knowledge itself; nine motivations only influence knowledge donation and focus on the individual; and four motivations influence both knowledge collection and knowledge donation, and focus on the relationships among individuals. After that, based on the groups of motivation identified in the previous phase, five leaders from different communities of practice were interviewed with the aim of identifying the main motivations that would be susceptible to their actions, which were knowledge quality, ease of access to knowledge, recognition, community support for knowledge sharing, learning and professional reasons. 
+
+
+<results> 
+	<result>
+		Finally, these six main motivations indicated by the leaders were tested in a quantitative phase involving 260 members of different free software communities.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result> 
+	<result>
+		The results show that learning and ease of access to knowledge influence knowledge collection; recognition, community support for knowledge sharing and knowledge collection influence knowledge donation; and professional reasons influence both knowledge collection and knowledge donation in the context of free software communities.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

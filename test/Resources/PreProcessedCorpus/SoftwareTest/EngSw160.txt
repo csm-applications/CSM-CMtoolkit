@@ -1,0 +1,6 @@
+<title>Servic Orient Architectur dynam map studi </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>detect fault decis inform test main object studi <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

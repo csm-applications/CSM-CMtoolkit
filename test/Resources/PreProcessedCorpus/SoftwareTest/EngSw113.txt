@@ -1,0 +1,6 @@
+<title>robot control constraint program continu integr </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>detail analysi experiment result version constraint model most appropri parameter oper version constraint model <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

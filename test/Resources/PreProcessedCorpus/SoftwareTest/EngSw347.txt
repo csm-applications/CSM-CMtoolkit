@@ -1,0 +1,6 @@
+<title>mutat fault local program debug </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result number#999 fault mutant oper strategi merit automat fault <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

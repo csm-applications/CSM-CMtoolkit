@@ -1,0 +1,6 @@
+<title>softwar reliabl growth behavior nonhomogen Poisson process </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>new find should further other softwar experi reason doubt valid NHPP framework softwar reliabl model <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

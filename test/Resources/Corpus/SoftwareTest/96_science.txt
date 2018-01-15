@@ -1,0 +1,34 @@
+<title>A systematic literature review of literature reviews in software testing</title>
+
+<context>
+Any newcomer or industrial practitioner is likely to experience difficulties in digesting large volumes of knowledge in software testing. In an ideal world, all knowledge used in industry, education and research should be based on high-quality evidence. Since no decision should be made based on a single study, secondary studies become essential in presenting the evidence. According to our search, over 101 secondary studies have been published in the area of software testing since 1994. With this high number of secondary studies, it is important to conduct a review in this area to provide an overview of the research landscape in this area.</context>
+<objectives>
+The goal of this study is to systematically map (classify) the secondary studies in software testing. We propose that tertiary studies can serve as summarizing indexes which facilitate finding the most relevant information from secondary studies and thus supporting evidence-based decision making in any given area of software engineering. Our research questions (RQs) investigate: (1) Software-testing-specific areas, (2) Types of RQs investigated, (3) Numbers and Trends, and (4) Citations of the secondary studies.</objectives>
+Method
+To conduct the tertiary study, we use the systematic-mapping approach. Additionally, we contrast the testing topics to the number of Google hits to address a general popularity of a testing topic and study the most popular papers in terms of citations. We furthermore demonstrate the practicality and usefulness of our results by mapping them to ISTQB foundation syllabus and to SWEBOK to provide implications for practitioners, testing educators, and researchers.
+
+<results>
+	<result>
+		After a systematic search and voting process, our study pool included 101 secondary studies in the area of software testing between 1994 and 2015. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Among our results are the following: (1) In terms of number of secondary studies, model-based approach is the most popular testing method, web services are the most popular system under test (SUT), while regression testing is the most popular testing phase;
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(2) The quality of secondary studies, as measured by a criteria set established in the community, is slowly increasing as the years go by;
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(3) Analysis of research questions, raised and studied in the pool of secondary studies, showed that there is a lack of ‘causality’ and ‘relationship’ type of research questions, a situation which needs to be improved if we, as a community, want to advance as a scientific field. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(4) Among secondary studies, we found that regular surveys receive significantly more citations than SMs (p = 0.009) and SLRs (p = 0.014).
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result> 
+</results>
+
+Conclusion
+Despite the large number of secondary studies, we found that many important areas of software testing currently lack secondary studies, e.g., test management, role of product risk in testing, human factors in software testing, beta-testing (A/B-testing), exploratory testing, testability, test stopping criteria, and test-environment development. Having secondary studies in those areas is important for satisfying industrial and educational needs in software testing. On the other hand, education material of ISTQB foundation syllabus and SWEBOK could benefit from the inclusion of the latest research topics, namely search-based testing, use of cloud-computing for testing and symbolic execution.

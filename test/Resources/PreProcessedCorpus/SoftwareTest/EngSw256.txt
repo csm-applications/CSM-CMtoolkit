@@ -1,0 +1,6 @@
+<title>Applicat redund comput program debug </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result experi redund comput detect can debugg sourc program defect <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

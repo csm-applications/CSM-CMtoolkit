@@ -1,0 +1,6 @@
+<title>Analogybas softwar effort estim Fuzzi number </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Result data empir evalu propos similar measur adapt techniqu method abl significantli perform analogybas estim earli stage softwar develop <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

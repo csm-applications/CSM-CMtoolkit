@@ -1,0 +1,23 @@
+<header>
+    <TypeOfResult>Qualitative</TypeOfResult>
+</header>
+
+
+<title>Quantifying usability of domain-specific languages: An empirical study on software maintenance</title>
+
+Abstract A domain-specific language (DSL) aims to support software development by offering abstractions to a particular domain. It is expected that \{DSLs\} improve the maintainability of artifacts otherwise produced with general-purpose languages. However, the maintainability of the \{DSL\} artifacts and, hence, their adoption in mainstream development, is largely dependent on the usability of the language itself. Unfortunately, it is often hard to identify their usability strengths and weaknesses early, as there is no guidance on how to objectively reveal them. Usability is a multi-faceted quality characteristic, which is challenging to quantify beforehand by \{DSL\} stakeholders. There is even less support on how to quantitatively evaluate the usability of \{DSLs\} used in maintenance tasks. In this context, this paper reports a study to compare the usability of textual \{DSLs\} under the perspective of software maintenance. A usability measurement framework was developed based on the cognitive dimensions of notations. The framework was evaluated both qualitatively and quantitatively using two \{DSLs\} in the context of two evolving object-oriented systems. 
+
+<results> 
+	<result>
+		The results suggested that the proposed metrics were useful: (a) to early identify DSL usability limitations, 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(b) to reveal specific DSL features favoring maintenance tasks, and 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(c) to successfully analyze eight critical DSL usability dimensions.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

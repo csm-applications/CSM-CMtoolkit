@@ -1,0 +1,6 @@
+<title>fuzzi logic approach phasewis softwar defect predict softwar metric </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Measur mean magnitud rel error balanc mean magnitud rel error decreas significantli softwar project size <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

@@ -1,0 +1,13 @@
+<title>Exploring the roles of personality factors on knowledge management system acceptance</title>
+
+This study is conducted to explore the roles of personality factors on Knowledge Management System acceptance. The proposed model in this research analyzes the roles of the five factor model (FFM) and personal innovativeness towards technology acceptance model (TAM) within the context of Knowledge Management System in a private organization. The underlying model was tested using structural equation modelling (SEM) with SMARTPLS 2.0 software. 
+<results>
+	<result>
+		The analysis result of 127 respondents demonstrate that openness and neuroticism have influence to user acceptance of KMS through personal innovativeness of information technology (PIIT), perceived ease of use, and perceived benefits.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result> 
+	<result>
+		Meanwhile, extraversion and conscientiousness have influence to KMS acceptance through perceived benefits. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

@@ -1,0 +1,25 @@
+<title>A systematic review on search based mutation testing</title>
+
+<context>
+Search Based Software Testing refers to the use of meta-heuristics for the optimization of a task in the context of software testing. Meta-heuristics can solve complex problems in which an optimum solution must be found among a large amount of possibilities. The use of meta-heuristics in testing activities is promising because of the high number of inputs that should be tested. Previous studies on search based software testing have focused on the application of meta-heuristics for the optimization of structural and functional criteria. Recently, some researchers have proposed the use of SBST for mutation testing and explored solutions for the cost of application of this testing criterion.</context>
+Objective
+The objective is to identify how SBST has been explored in the context of mutation testing, how fitness functions are defined and the challenges and research opportunities in the application of meta-heuristic search techniques.
+Method
+A systematic review involving 263 papers published between 1996 and 2014 examined the studies on the use of meta-heuristic search techniques for the optimization of mutation testing.
+
+<results>
+	<result>
+		The results show meta-heuristic search techniques have been applied for the optimization of test data generation, mutant generation and selection of effective mutation operators. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Five meta-heuristic techniques, namely Genetic Algorithm, Ant Colony, Bacteriological Algorithm, Hill Climbing and Simulated Annealing have been used in search based mutation testing. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The review addressed different fitness functions used to guide the search.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion Search based mutation testing is a field of interest, however, some issues remain unexplored. For instance, the use of meta-heuristics for the selection of effective mutation operators was identified in only one study. The results have pointed a range of possibilities for new studies to be developed, i.e., identification of equivalent mutants, experimental studies and application to different domains, such as concurrent programs.
