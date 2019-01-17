@@ -1,0 +1,3 @@
+We propose a declarative grammar-based input specification method that is based on a variation of attribute grammars and allows the user to specify input constraints in addition to input structure. 
+The model can be instantiated automatically to generate structurally and semantically valid test inputs. 
+The proposed method has the capability to specify test requirements and coverage criteria and use them to generate valid test suites that satisfy test coverage criteria requirements.

@@ -1,0 +1,1 @@
+Our experiments based on 11 sets of C programs suggest that an accurate estimation of failure rates of potential fault(s) in a program can provide a reliable estimate of adequate test set size with respect to fault detection and should therefore be one of the factors kept in mind during test set construction. 

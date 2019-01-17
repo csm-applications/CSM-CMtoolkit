@@ -1,0 +1,1 @@
+A complete executable test case at functional test level is obtained, composed of a test procedure with parametrized input test data and expected result automation.

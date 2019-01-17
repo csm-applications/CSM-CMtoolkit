@@ -1,0 +1,1 @@
+Our findings show that there are strong significant statistical correlations between the factors of OSS components reuse and software development economics.

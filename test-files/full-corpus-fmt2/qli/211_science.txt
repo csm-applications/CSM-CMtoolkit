@@ -1,0 +1,2 @@
+We believe that our findings would help researchers and practitioners in selecting the most appropriate cost optimization approach considering identified aspects and parameters.
+In addition, we highlight potential future research directions in this on-going area of research. 

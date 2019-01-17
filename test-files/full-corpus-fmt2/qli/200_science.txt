@@ -1,0 +1,4 @@
+The major findings of the study are: (a) that the individual techniques are of broadly similar effectiveness in terms of observing failures and finding faults, 
+(b) that the relative effectiveness of the techniques depends on the nature of the program and its faults, 
+(c) these techniques are consistently much more effective when used in combination with each other.
+These results contribute to a growing body of empirical evidence that supports generally held beliefs about the effectiveness of defect detection techniques in software engineering.

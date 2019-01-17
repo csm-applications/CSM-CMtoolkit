@@ -1,0 +1,1 @@
+The results of the comparison showed that the Agile Process had performed better than the Incremental Process in terms of productivity (79%), defect density (57%), defect resolution effort ratio (26%), Test Execution V&amp;V Effectiveness (21%), and effort prediction capability (4%). 

@@ -1,0 +1,2 @@
+The experimental results demonstrate that the adaptive testing strategy can really work in practice and may noticeably outperform the other two.
+Therefore, the adaptive testing strategy can serve as a preferable alternative to the random testing strategy and the operational profile based testing strategy if high confidence in the reliability estimates is required or the real-world operational profile of the software under test cannot be accurately identified.

@@ -1,0 +1,2 @@
+Evaluation on a set of commonly used benchmarks shows that despite guaranteeing fault coverage, the number of test cases can be reduced even further than that produced by other state of the art strategies. 
+At the same time, the fault detection capability is not affected negatively, and clearly improves over state of the art criteria for general form Boolean expressions.

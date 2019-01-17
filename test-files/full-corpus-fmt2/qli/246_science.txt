@@ -1,0 +1,1 @@
+Our results clearly show that it is possible to use formal modeling in the commercial setting effectively: we were able to locate a number of specification errors that were missed by several manual specification inspections, and used the model to derive the test cases that, by the time we left the project, doubled the number of errors discovered by Nortel testers.

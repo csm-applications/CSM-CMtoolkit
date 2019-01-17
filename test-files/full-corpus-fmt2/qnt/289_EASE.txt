@@ -1,0 +1,1 @@
+However, when using z values, chronological splitting favoured cross-company models, and cross-validation (both types) favoured single-company models.

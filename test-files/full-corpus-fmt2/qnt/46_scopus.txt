@@ -1,0 +1,1 @@
+Our findings enable software engineers to select not just one solution (as in the case of single-objective techniques) but instead to select from an array of test suite possibilities the one that best matches the economical and technological constraints of their testing context.

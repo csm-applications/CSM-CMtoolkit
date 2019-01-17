@@ -1,0 +1,3 @@
+Comparative results indicate that VS-PSTG gives competitive results as compared to existing strategies. 
+An empirical case study was conducted on a non-trivial software system to show the applicability of the strategy and to determine the effectiveness of the generated test suites to detect faults. 
+

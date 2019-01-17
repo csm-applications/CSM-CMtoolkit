@@ -1,0 +1,2 @@
+Cinders, an architecture framework designed specifically for the purpose of describing continuous integration and delivery systems is proposed and confirmed to constitute an improvement over previous methods. 
+This work presents software professionals with a demonstrably effective method for describing their continuous integration and delivery systems from multiple points of view and supporting multiple use-cases, including system design, communication and documentation.

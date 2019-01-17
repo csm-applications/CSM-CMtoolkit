@@ -1,0 +1,4 @@
+We found that challenges faced when testing scientific software fall into two main categories: (a) testing challenges that occur due to characteristics of scientific software such as oracle problems and 
+(b) testing challenges that occur due to cultural differences between scientists and the software engineering community such as viewing the code and the model that it implements as inseparable entities. 
+In addition, we identified methods to potentially overcome these challenges and their limitations. 
+Finally we describe unsolved challenges and how software engineering researchers and practitioners can help to overcome them.

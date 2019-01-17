@@ -1,0 +1,1 @@
+Analysis of data gathered during the Global Studio Project Version 3.0 revealed that the architectural DSM model, representing the software modular structure, is highly consistent with the COMs that represent the actual coordination structure, showing that an architectural DSM has the potential to help guide the task assignments in global software development projects.

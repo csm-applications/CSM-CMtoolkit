@@ -1,0 +1,3 @@
+The validation assessment is based on both fault coverage and structural coverage by a minimal number of generated test traces; the former is achieved using the Mutation Analysis Technique (MAT) by introducing a set of timed and functional mutation operators.
+The latter is based on clock region coverage as a main timed structural coverage criterion.
+This study shows that ‘priority-based’ approach can combine a high fault coverage and clock region coverage with a relatively small number of test traces in comparison with other test approaches.

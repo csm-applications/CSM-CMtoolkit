@@ -1,0 +1,1 @@
+Our experiments show that the proposed approach efficiently detects most of the infeasible paths with an average precision of 96.02% and a recall of 100% of all the cases.

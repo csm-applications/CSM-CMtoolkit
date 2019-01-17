@@ -1,0 +1,4 @@
+The detection of faults and the decision making based on the information gathered from the tests have been identified as the main objectives of these studies.
+To achieve these goals, monitoring and test case generation are the most proposed techniques testing both functional and non-functional properties.
+Furthermore, different stakeholders have been identified as participants in the tests, which are performed in specific points in time during the life cycle of the services.
+Finally, it has been observed that a relevant group of studies have not validated their approach yet.

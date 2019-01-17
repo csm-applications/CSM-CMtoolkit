@@ -1,0 +1,2 @@
+		Our simulations demonstrate that the new DMART approach delivers comparable failure-detection effectiveness as the original MART and ART algorithms while having much lower computation overhead. 
+		The experimental studies further show that the new approach also delivers a better and more reliable performance on programs with failure-unrelated parameters.

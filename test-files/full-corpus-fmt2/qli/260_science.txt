@@ -1,0 +1,4 @@
+Furthermore, the model proposed herein is fairly robust to incorrect estimations in failure rates and can still provide good predictive quality. 
+Experiments are also performed to observe the relationship between multiple faults present in the same program using the concept of a failure rate. 
+When predicting the effectiveness against a program with multiple faults, results indicate that not knowing the number of faults in the program is not a significant concern, as the predictive quality is typically not affected adversely.
+

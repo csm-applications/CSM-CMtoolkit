@@ -1,0 +1,4 @@
+The study led to the following outcomes: (a) low-level quality attributes (e.g., cohesion, coupling, etc.) are more frequently studied than high-level ones (e.g., maintainability, reusability, etc.), 
+(b) maintainability is the most frequently examined high-level quality attribute, regardless of the application domain or the development phase,
+(c) assessment of quality attributes is usually performed by a single metric, rather than a combination of multiple metrics, and 
+(d) metrics are mostly validated in an empirical setting.

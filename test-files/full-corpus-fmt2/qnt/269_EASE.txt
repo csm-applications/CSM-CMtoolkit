@@ -1,0 +1,1 @@
+As not all subjects completed the measured task within the given time, we needed to use Kaplan-Meier survival curves and the Cox Proportional Hazard Model to analyse our data. 

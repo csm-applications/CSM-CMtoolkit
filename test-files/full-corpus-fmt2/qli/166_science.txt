@@ -1,0 +1,1 @@
+Strategy details, along with a prototype implementation are reported and analysed through the experimental results obtained by its employment to a set of program units.

@@ -1,0 +1,2 @@
+The main result is a list of 132 tools, which, according to the literature, have been, or are intended to be, used in global software projects. 
+We found that out the total of 132, the majority of tools were developed at research centers, and only a small percentage of tools (18.9%) are reported as having been tested outside the initial context in which they were developed.

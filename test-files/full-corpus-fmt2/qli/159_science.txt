@@ -1,0 +1,2 @@
+The results show that the previously existing measures are not so useful to estimate the difficulty of testing a program, because they are not highly correlated with the code coverage. 
+Our proposed measure is much more correlated with the code coverage than the existing complexity measures.

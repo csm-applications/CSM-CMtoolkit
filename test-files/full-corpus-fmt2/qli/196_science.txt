@@ -1,0 +1,1 @@
+Based on the results of this experimental study, we also provide a guideline for choosing the appropriate test suite reduction technique and some insights into why the techniques vary in effectiveness and efficiency.

@@ -1,0 +1,4 @@
+By performing a detailed analysis of experimental results over a simplified version of our constraint model, we determine the most appropriate parameterization of the operational version of the constraint model. 
+This version is now being deployed at ABB Robotics’s CIR testing facilities and used on a permanent basis.
+This paper presents the empirical results obtained when automatically generating test sequences for CIRs at ABB Robotics.
+In a real industrial setting, the results show that our methodology is not only able to detect reintroduced known faults, but also to spot completely new faults.

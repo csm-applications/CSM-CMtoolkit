@@ -1,0 +1,2 @@
+A theoretically guided fault-based prioritization technique generally outperforms other techniques under study, as assessed by two different metrics. 
+Our empirical results also show that the technique helps to reveal all target faults by executing only about 72% of the prioritized test suite, thereby reducing the effort required in testing.

@@ -1,0 +1,3 @@
+We illustrate our approach on a well-known difficult example program that contains dynamic memory allocation/deallocation, structures and loops. 
+We describe our implementation and provide preliminary experimental results on this example that show the highly deductive potential of the approach. 
+

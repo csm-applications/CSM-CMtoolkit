@@ -1,0 +1,6 @@
+Graph theory metrics are applied onto the transformed network with the purpose to evaluate the software system. 
+Comparative analysis is performed using 40 object-oriented software systems, with different levels of maintenance effort. 
+We found that common statistical patterns from the software systems can be identified easily.
+It is when these software systems are grouped and compared based on their levels of maintenance effort that their statistical patterns are more distinguishable to represent some common behavior and structural complexity of object-oriented software. 
+The evaluations indicate that the proposed approach is capable of identifying software components that violate common software design principles.
+

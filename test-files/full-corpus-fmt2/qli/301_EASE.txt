@@ -1,0 +1,2 @@
+Two of the proposed metrics (a pre-test based on a development project and the total time spent per team) led to significant explanation of the quality measurement. 
+It was also noted that the differences between the Java and PHP programming languages did not explain the variation in quality, but some limited data available for JSP indicated this may not be the case for all languages

@@ -1,0 +1,2 @@
+We provide a statistical validation of the performance of the bound.
+It proved to be a good estimate of the number of tests needed to achieve branch coverage. 

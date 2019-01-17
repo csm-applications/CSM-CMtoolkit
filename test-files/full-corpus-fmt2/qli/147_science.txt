@@ -1,0 +1,2 @@
+This article presents a theoretical analysis for the comparative methods, and shows the experiment results on the data sets from different organizations. 
+It indicates that TNB is more accurate in terms of AUC (The area under the receiver operating characteristic curve), within less runtime than the state of the art methods.

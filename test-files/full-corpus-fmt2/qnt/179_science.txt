@@ -1,0 +1,2 @@
+EAT was found to be significantly better than Wrasp at 95% confidence level (i.e. p &lt; 0.05), but not significantly better than Aspectra or Raspect. 
+Concerning the test effort efficiency, Wrasp was significantly (p &lt; 0.05) efficient with requiring the lowest amount of test effort compared to the other approaches. 

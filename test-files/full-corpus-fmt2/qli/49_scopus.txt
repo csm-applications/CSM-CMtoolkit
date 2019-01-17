@@ -1,0 +1,3 @@
+Experiments with the prototype revealed a performance overhead of SPARQL queries when compared to MySQL database queries. 
+It is proposed that further optimization for SPARQL queries is needed in order to improve the response time of working with triple store. 
+Overall, the test outcomes demonstrated that the proposed solution supports the process of selecting software and has the potential of improving IT infrastructure management practices.

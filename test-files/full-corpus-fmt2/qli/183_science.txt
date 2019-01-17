@@ -1,0 +1,2 @@
+We found that using raw variables or factors in the logistic regression models did not make any significant difference in predictive capability. 
+We found that the raw variable and factor-based models predict significantly better than random chance.

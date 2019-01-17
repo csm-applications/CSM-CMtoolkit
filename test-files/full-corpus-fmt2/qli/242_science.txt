@@ -1,0 +1,3 @@
+Empirical results reveal that the use of a reference model as a pseudo-oracle is effective for testing the implementations of resembling mesh simplification algorithms.
+However, the results also show a tradeoff: When compared with a simple reference model, the use of a resembling but sophisticated reference model is more effective and accurate but less robust.
+

@@ -1,0 +1,4 @@
+A detailed comparison of the content of TPI NEXT and TMMi is done. 
+We found that many of the STPI approaches do not provide sufficient information or the approaches do not include assessment instruments. 
+This makes it difficult to apply many approaches in industry.
+Greater similarities were found between TPI NEXT and TMMi and fewer differences.

@@ -1,0 +1,4 @@
+Our results show that (a) the proposed general framework abstracts all the common characteristics of online testing techniques proposed in the literature, 
+(b) it can be exploited to design experiments aimed at performing objective comparisons among different online testing approaches and 
+(c) some parameters that we have identified influence the performance of the testing techniques.
+

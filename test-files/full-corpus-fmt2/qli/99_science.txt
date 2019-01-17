@@ -1,0 +1,3 @@
+The results show meta-heuristic search techniques have been applied for the optimization of test data generation, mutant generation and selection of effective mutation operators. 
+Five meta-heuristic techniques, namely Genetic Algorithm, Ant Colony, Bacteriological Algorithm, Hill Climbing and Simulated Annealing have been used in search based mutation testing. 
+The review addressed different fitness functions used to guide the search.

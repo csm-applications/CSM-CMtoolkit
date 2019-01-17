@@ -1,0 +1,2 @@
+Our results show a positive correlation between the ranks obtained from the SLR and the questionnaire ((rs(19) = 0.102), p = 0.679). 
+The results of t-test (i.e., t = 0.299, p = 0.768 &gt; 0.05) show that there is no significant difference between the findings of SLR and questionnaire.

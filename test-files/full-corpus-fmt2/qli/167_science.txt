@@ -1,0 +1,3 @@
+We show that defect detection was performed by subjects in various roles supporting the earlier reports of testing being a cross-cutting activity in software development organizations. 
+Finally, we recognize that contextual factors largely affect the transferability of our results, and we provide elaborate discussion about the most important contextual factors. 
+		

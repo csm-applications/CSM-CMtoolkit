@@ -1,0 +1,3 @@
+The knowledge has been transferred from an unreachable place so that it can be exploited by the organization.
+Access control has been added for increasing the level of security where the knowledge is stored.
+In the implementation, the framework was tested with a general application presenting very favorable results.

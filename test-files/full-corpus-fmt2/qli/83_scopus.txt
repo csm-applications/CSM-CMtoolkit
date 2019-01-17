@@ -1,0 +1,2 @@
+knowledge management methods was proposed towards,a knowledge management system in software testing was designed and implemented. Simultaneously many key technologies are discussed, such as knowledge representation, knowledge map and etc. 
+At last, an application instance based on this model is given in the project of QESuite2.0 to verify that knowledge management in software testing is reasonable and effective.

@@ -1,0 +1,2 @@
+To assess the framework and the methodology, we conducted an exploratory study with developers, whose result was that Rehearsal was considered very helpful for the application of TDD and that the methodology helped the development of robust choreographies.
+

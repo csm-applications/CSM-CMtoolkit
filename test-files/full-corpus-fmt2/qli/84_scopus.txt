@@ -1,0 +1,4 @@
+The results reveal that the implicit knowledge sharing has a significant positive impact on coordination effectiveness. 
+The use of explicit knowledge sharing and coordination technology have no statistically significant impact on coordination effectiveness although the teams studied were working predominantly in a collocated mode. 
+Mutual trust and project commitment have a significant impact on knowledge sharing with mutual trust directly affecting both implicit and explicit knowledge sharing. 
+Project commitment also has a direct impact on explicit knowledge sharing and mutual trust, but it does not directly affect implicit knowledge sharing.

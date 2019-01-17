@@ -1,0 +1,1 @@
+Based on the input from the challenges and the solutions, we created a value stream map of the current and future process.

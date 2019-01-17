@@ -1,0 +1,2 @@
+Different errors were detected and fixed along the development of the system by means of the proposed methodology. 
+The results of the experiments with the mutated versions of the system indicated that the designed set of invariants was more effective in finding errors associated to temporal aspects than those related to communication among components.

@@ -1,0 +1,1 @@
+Local Search and both the Guided Local Search techniques were more effective than the other techniques at finding subtle HOMs. 

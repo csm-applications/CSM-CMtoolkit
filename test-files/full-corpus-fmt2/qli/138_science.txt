@@ -1,0 +1,2 @@
+Using test cases that had been manually prepared by FBD testing professionals, our technique found many aspects of the FBD logic that were not tested sufficiently.
+Domain experts, having found the approach highly intuitive, found the technique effective.

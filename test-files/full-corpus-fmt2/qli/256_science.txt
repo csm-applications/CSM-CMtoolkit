@@ -1,0 +1,5 @@
+Findings highlight: (i) the main occurrence patterns of bug triggering conditions in the selected case studies and the role played by the workload, the application and the environment where it runs; 
+(ii) how such conditions evolve over time; 
+(iii) how they relate to bug exposure and fixing difficulty; 
+(iv) how they impact the user. 
+Results provide a fine-grain characterization of bug manifestation that is expected to increase the perceived importance of this dimension in testing, debugging, and fault tolerance strategies.

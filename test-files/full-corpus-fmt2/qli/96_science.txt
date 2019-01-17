@@ -1,0 +1,4 @@
+Among our results are the following: (1) In terms of number of secondary studies, model-based approach is the most popular testing method, web services are the most popular system under test (SUT), while regression testing is the most popular testing phase;
+(2) The quality of secondary studies, as measured by a criteria set established in the community, is slowly increasing as the years go by;
+(3) Analysis of research questions, raised and studied in the pool of secondary studies, showed that there is a lack of ‘causality’ and ‘relationship’ type of research questions, a situation which needs to be improved if we, as a community, want to advance as a scientific field. 
+(4) Among secondary studies, we found that regular surveys receive significantly more citations than SMs (p = 0.009) and SLRs (p = 0.014).

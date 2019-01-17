@@ -1,0 +1,2 @@
+Results support our case for Big Data processing on Social Cloud with no costs involved. 
+All the steps involved have closely followed system design, implementation, experiments and validation for Cybernetics to ensure a high quality of outputs and services at all times.

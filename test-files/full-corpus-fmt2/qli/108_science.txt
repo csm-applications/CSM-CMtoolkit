@@ -1,0 +1,2 @@
+We found evidence that manual software testing is an additive task with a ceiling effect, like software reviews and usability inspections. 
+We suggest that future studies on verification and validation practices use F-score to provide a more transparent view of the results.

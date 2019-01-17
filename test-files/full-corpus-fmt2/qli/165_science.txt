@@ -1,0 +1,1 @@
+Five different areas were identified that exploit different ways to reduce testing effort: approaches that predict defect-prone parts or defect content, automation, test input reduction approaches, quality assurance techniques applied before testing, and test strategy approaches.

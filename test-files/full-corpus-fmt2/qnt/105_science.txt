@@ -1,0 +1,3 @@
+For each failure, our method identified causal relationships diagrams including 130–185 causes each. 
+All four cases were unique, albeit some similarities occurred. On average, 50% of the causes were bridge causes. 
+Lack of cooperation, weak task backlog, and lack of software testing resources were common bridge causes. 

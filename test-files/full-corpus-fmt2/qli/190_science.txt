@@ -1,0 +1,2 @@
+Although this new finding should be further tested on other software experiments, it is reasonable to cast doubt on the validity of the NHPP framework for software reliability modeling. 
+The importance of the work presented in this paper is not only for the new finding which is distinctly different from existing popular belief of software reliability modeling, but also for the adopted research approach which is to examine the behavior of the mean and that of the corresponding variance simultaneously on basis of controlled software experiments.

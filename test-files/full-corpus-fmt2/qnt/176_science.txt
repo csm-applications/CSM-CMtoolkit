@@ -1,0 +1,1 @@
+ART improves upon RT, but t-way CT is better than both. In hitting t ′ -MFS the advantage is typically in the range from 10% to 30% when t = t ′ , but becomes much smaller when t ′ > t , and there may be no advantage when t ′ <.

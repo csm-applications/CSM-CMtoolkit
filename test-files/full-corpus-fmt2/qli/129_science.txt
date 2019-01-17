@@ -1,0 +1,2 @@
+Validation results are satisfactory.
+Measures based on the mean magnitude of relative error and balanced mean magnitude of relative error decrease significantly as the software project size increases.

@@ -1,0 +1,3 @@
+(3) A good mixture of STCE activities has been presented in the primary studies. Among them, the two leading activities are quality assessment and co-maintenance of test-code with production code. The highest growth rate for co-maintenance activities in recent years shows the importance and challenges involved in this activity.
+(4) There are two main categories of quality assessment activity: detection of test smells and oracle assertion adequacy.
+(6) There is a good mixture of SUT types used in the studies: academic experimental systems (or simple code examples), real open-source and commercial ssystems. 

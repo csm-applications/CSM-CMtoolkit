@@ -1,0 +1,3 @@
+We found the following enablers for a successful virtual agile team: coordination by mutual adjustment, dedicated testers and low turnover, shifting working hours, and self-management and autonomy. 
+Non-technical factors, such as socio-technical and organizational factors, have a significant influence on the way software testing is performed in an agile virtual team. 
+To be successful the organization needs to invest in bringing the remote testers closer to the rest of the team, as part of the virtual team.

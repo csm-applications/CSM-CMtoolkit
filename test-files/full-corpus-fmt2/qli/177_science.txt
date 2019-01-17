@@ -1,0 +1,2 @@
+Previously published empirical evaluations of prediction systems are re-examined and the original conclusions shown to be unsafe.
+Additionally, even the strongest results are shown to have no more than a medium effect size relative to random guessing.

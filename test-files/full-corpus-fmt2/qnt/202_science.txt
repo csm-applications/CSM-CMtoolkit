@@ -1,0 +1,3 @@
+The majority of the articles are of the validation research type (64%). 
+Infrastructure as a service (48%) was the largest research focus area, followed by software as a service (36%). 
+The majority of contributions concerned methods (48%), followed by models (32%).

@@ -1,0 +1,2 @@
+We found that sequence effects may have a strong impact on judgment-based effort estimates. 
+Both in the first experiment and in the replication, the subsequent estimates were assimilated towards the subjects’ initial estimate, i.e., the group that began with a small task supplied, on average, lower estimates of the medium-sized task than the group that began with the large task.

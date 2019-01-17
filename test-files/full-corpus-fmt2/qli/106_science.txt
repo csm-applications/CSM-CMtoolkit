@@ -1,0 +1,5 @@
+Our findings describe how the participant test engineers perceive software testing and deadline pressures, the challenges that they encounter, and the strategies that they use for coping with the challenges. 
+The findings reveal several interesting insights. First, motivation and appreciation play an important role for our participants in ensuring that high-quality testing is performed. 
+Second, intermediate onshore teams increase the degree of pressure experienced by the participant test engineers.
+Third, vendor team participants perceive productivity differently from their client teams, which results in unproductive-productivity experiences. 
+Lastly, participants encounter quality-dilemma situations for various reasons.

@@ -1,0 +1,2 @@
+It demonstrates that the approach improves the accuracy of pattern specifications by covering variations and clarifying the ambiguous parts of informal descriptions.
+

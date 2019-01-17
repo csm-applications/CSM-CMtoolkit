@@ -1,0 +1,2 @@
+The experiments reveal an important defect on one implementation and show clear performance differences between the two implementations. 
+The defect would not be detected without a global view of the system.

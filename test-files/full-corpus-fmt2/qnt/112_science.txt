@@ -1,0 +1,6 @@
+Our study pool includes a set of 60 studies published in the area of STCE between 1999 and 2012. 
+Our mapping data is available through an online publicly-accessible repository. We derive the trends for various aspects of STCE. Among our results are the following: (1) There is an acceptable mix of papers with respect to different contribution facets in the field of STCE and the top two leading facets are tool (68%) and method (65%). 
+The studies that presented new processes, however, had a low rate (3%), which denotes the need for more process-related studies in this area. (2) Results of investigation about research facet of studies and comparing our result to other SM studies shows that, similar to other fields in software engineering, STCE is moving towards more rigorous validation approaches. 
+(5) JUnit is the leading test framework which has been used in about 50% of the studies. 
+(6) There is a good mixture of SUT types used in the studies: academic experimental systems (or simple code examples), real open-source and commercial systems. 
+(7) Among 41 tools that are proposed for STCE, less than half of the tools (45%) were available for download. It is good to have this percentile of tools to be available, although not perfect, since the availability of tools can lead to higher impact on research community and industry.

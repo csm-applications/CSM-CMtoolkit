@@ -1,0 +1,2 @@
+The experimental results show that the proposed approach reduces 63% scheduling sequences on average. 
+And compared with the method without reduction, and the method with randomly selecting scheduling sequences, the proposed approach shortens 67% and 52% execution time of a program for covering the target statement on average, respectively.

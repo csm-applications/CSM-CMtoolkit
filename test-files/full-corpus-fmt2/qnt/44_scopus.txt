@@ -1,0 +1,2 @@
+Experimental results show that, in over 97% of all cases, our method was able to narrow down the list of suspicious instructions to under 2 instructions, on average, out of over 200. 
+In over 59% of all cases, our method correctly reduced a test-case to a single faulty instruction.

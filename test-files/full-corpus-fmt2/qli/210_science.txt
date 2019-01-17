@@ -1,0 +1,3 @@
+Results In the primary studies, to date, the persistent trend is that of proof-of-concept applications of software process simulation for various purposes (e.g. estimation, training, process improvement, etc.). 
+They score poorly on the stated quality criteria.
+Also only a few studies report some initial evaluation of the simulation models for the intended purposes.

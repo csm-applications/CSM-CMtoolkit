@@ -1,0 +1,1 @@
+We used the qualitative analysis (coding) to classify the factors affecting the when and what-to-automate questions to five groups: (a) Software Under Test (SUT)-related factors, (b) test-related factors, (c) test-tool-related factors, (d) human and organizational factors, and (e) cross-cutting and other factors. 

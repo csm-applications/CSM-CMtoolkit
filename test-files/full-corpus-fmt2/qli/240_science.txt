@@ -1,0 +1,4 @@
+In addition, case studies are presented which reveal that a test suite based on source codes can be considerably reduced using intermediate codes.
+Moreover, by mutation analysis, it was found that the size of the test suite has been reduced by over 90% on average, but the fault detection capability of the reduced test suites is still approximately 80% of that of the original test suites. 
+In particular, the proposed reduction method can be useful for testing compilers in the early stage of the development of retargeted compilers.
+

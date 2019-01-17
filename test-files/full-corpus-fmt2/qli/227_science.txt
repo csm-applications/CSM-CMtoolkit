@@ -1,0 +1,2 @@
+The results show that code associated with concepts has a greater degree of coherence, with tighter dependence. 
+This finding has positive implications for the analysis of concepts as it provides an approach to decompose a program into smaller executable units, each of which captures the behaviour of the program with respect to a domain-level concept.

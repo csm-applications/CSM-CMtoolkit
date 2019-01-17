@@ -1,0 +1,3 @@
+The analysis yielded hypotheses that included that the business orientation of an OU affects testing organization, knowledge management strategy, and outsourcing of testing.
+Further, identifying and avoiding barriers and using enablers improve knowledge transfer between development and testing. 
+The results of this study can be used in developing the testing organization and the knowledge management strategy of an OU.

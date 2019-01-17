@@ -1,0 +1,2 @@
+To evaluate our approach, which is also applicable to online failure detection, we implemented it for the Java platform and applied it onto seven open-source applications containing 30 vulnerabilities/defects for the purpose of the online detection of attacks/ failures.
+Our results showed that our approach worked very well for 26 vulnerabilities/defects (86.67%) and the overhead imposed by the system is somewhat acceptable as it varied from 46% to 102%. The exhibited average rates of false negatives and false positives were 0.43% and 1.03%, respectively.

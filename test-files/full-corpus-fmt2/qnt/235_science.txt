@@ -1,0 +1,2 @@
+Our empirical studies revealed that (1) the MDG can approximate the TSD model safely, for method-level forward dependence at least, at much lower cost yet with low loss of precision, 
+(2) for the same purpose, while both are safe and more efficient than the TSD model, the MDG can achieve higher precision than the SEA with better efficiency, both significantly, and 

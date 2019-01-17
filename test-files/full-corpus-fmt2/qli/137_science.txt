@@ -1,0 +1,3 @@
+We have built a tool that uses the novel Android mutation operators to mutate the source code of Android apps, then generates mutants that can be installed and run on Android devices. 
+We evaluated the effectiveness of Android mutation testing through an empirical study on real-world apps. 
+This paper introduces several novel mutation operators based on a fault study of Android apps, presents a significant empirical study with real-world apps, and provides conclusions based on an analysis of the results.

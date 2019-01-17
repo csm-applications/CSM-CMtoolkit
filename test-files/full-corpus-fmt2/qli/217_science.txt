@@ -1,0 +1,2 @@
+The results suggest that design pattern research can be further categorized to research on GoF patterns formalization, detection and application and on the effect of GoF patterns on software quality attributes. 
+Concerning the intensity of research activity of the abo,vementioned subtopics, research on pattern detection and on the effect of GoF patterns on software quality attributes appear to be the most active ones.

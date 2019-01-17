@@ -1,0 +1,1 @@
+The results suggest the guide to be suitable for mastering the RE part of an embedded system development.

@@ -1,0 +1,1 @@
+Our results showed that BN-based predictions were better than previous predictions from Web-based cross-company models, and significantly better than predictions using SWR.

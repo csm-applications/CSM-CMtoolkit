@@ -1,0 +1,1 @@
+One result of this case-study-based comparison is that evaluations based on the aggregated F-measures are more suitable for industry environments than evaluations based on a confidence counter. 

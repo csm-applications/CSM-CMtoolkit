@@ -1,0 +1,2 @@
+The value of mutation has greatly expanded since the early view of mutation as an expensive way to unit test subroutines.
+Our understanding of what mutation is and how it can help has become much deeper and broader.

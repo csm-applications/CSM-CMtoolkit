@@ -1,0 +1,1 @@
+Based on the case study on four earlier proposed frameworks related to effort management and three popular process maturity assessment models, we constructed a framework to manage effort in a software project in a proactive manner, yet fulfilling the requirements of the assessment models.

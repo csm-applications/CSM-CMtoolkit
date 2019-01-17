@@ -1,0 +1,3 @@
+We found that among our subjects (n = 105), implicit defect detection made a higher contribution than explicit defect detection in terms of found defects, 62% vs. 38%. 
+We found a low use of test cases (18%), but a high use of other documents in software defect detection, and furthermore, we found that personal knowledge was applied as an oracle in defect detection much more often than documented oracles.
+Furthermore, we must be cautious as the results were obtained with a survey, and come from a small number of organizations.

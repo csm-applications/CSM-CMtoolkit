@@ -1,0 +1,2 @@
+The structured abstracts were significantly longer than the original abstracts (size difference =106.4 words with 95% confidence interval 78.1 to 134.7).
+However, the structured abstracts had a higher clarity score (clarity difference= 1.47 with 95% confidence interval 0.47 to 2.41) and were more complete (completeness difference=3.39 with 95% confidence intervals 4.76 to 7.56).

@@ -1,0 +1,2 @@
+This paper presents figures and diagrams reporting TTCN-3 clone frequencies, types, and similarity distributions. 
+We show that the differences between the distribution of clones in test scripts and the distribution of clones in applications are statistically significant.

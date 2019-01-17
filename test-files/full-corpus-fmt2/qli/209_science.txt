@@ -1,0 +1,2 @@
+The results of the empirical studies show that the cohesion values for most of the metrics considered differ significantly across the four scenarios and that this difference significantly affects the refactoring decisions, but does not significantly affect the abilities of the metrics to predict faulty classes.
+

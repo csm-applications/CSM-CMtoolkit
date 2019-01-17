@@ -1,0 +1,1 @@
+The prediction accuracy of these models is more balanced when the cut-off is set to the ratio of success to failures in the datasets used to build the models. 

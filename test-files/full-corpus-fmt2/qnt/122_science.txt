@@ -1,0 +1,2 @@
+Results indicate that the proposed approach automated the oracle generation process 97% in this experiment. 
+Accuracy of the proposed oracle was up to 98.26%, and the oracle detected up to 97.7% of the injected faults.

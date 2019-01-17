@@ -1,0 +1,2 @@
+Single-company models presented significantly better prediction than cross-company models. 
+Chronological splitting provided significantly worse accuracy than leave-one and leave-two out cross-validations when based on single-company data; and provided similar accuracy when based on cross-company data.

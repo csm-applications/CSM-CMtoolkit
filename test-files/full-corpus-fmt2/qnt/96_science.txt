@@ -1,0 +1,2 @@
+After a systematic search and voting process, our study pool included 101 secondary studies in the area of software testing between 1994 and 2015. 
+(4) Among secondary studies, we found that regular surveys receive significantly more citations than SMs (p = 0.009) and SLRs (p = 0.014).

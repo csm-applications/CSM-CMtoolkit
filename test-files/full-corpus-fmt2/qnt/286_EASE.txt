@@ -1,0 +1,1 @@
+In this paper, we present findings from the quantitative analysis of a systematic review of the literature of distributed software development.

@@ -1,0 +1,3 @@
+The results show interesting relationships between the studied metrics and fault prediction. 
+In addition to this, the performance of the introduced \{MOPSO\} approach is compared with other \{ML\} algorithms by using several measures including the area under the \{ROC\} curve, which is a relevant criterion to deal with unbalanced data. 
+

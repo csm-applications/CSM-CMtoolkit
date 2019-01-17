@@ -1,0 +1,2 @@
+We observed a significant improvement of our proposed algorithm over two widely adopted search algorithms.
+Specifically, our algorithm discovered security vulnerability errors within a matter of a few seconds, whereas the two baseline algorithms failed even after 30 min of testing on a number of test subjects.

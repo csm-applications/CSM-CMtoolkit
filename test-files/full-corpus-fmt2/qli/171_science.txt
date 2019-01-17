@@ -1,0 +1,3 @@
+Although several aspects regarding testing have been covered by single-system development approaches, many cannot be directly applied in the SPL context due to specific issues.
+In addition, particular aspects regarding SPL are not covered by the existing SPL approaches, and when the aspects are covered, the literature just gives brief overviews.
+This scenario indicates that additional investigation, empirical and practical, should be performed.

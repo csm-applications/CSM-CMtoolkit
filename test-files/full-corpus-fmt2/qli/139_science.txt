@@ -1,0 +1,2 @@
+We then consider testing concurrent Java programs against synchronization anomalies using dynamic data flow analysis techniques.
+Moreover, we show how the data flow analysis technique can be extended to detect such anomalies.

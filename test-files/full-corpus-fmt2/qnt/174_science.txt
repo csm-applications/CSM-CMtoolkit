@@ -1,0 +1,1 @@
+Only 4 of 9 programs show moderate correlations between a file’s defects in previous and in current releases in more than half of the analysed releases.

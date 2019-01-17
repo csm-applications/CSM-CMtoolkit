@@ -1,0 +1,2 @@
+In characterizing the system, we observed that its original, simple design was lost due to maintenance and the addition of new features.
+In optimizing its architecture, we found that current models used to drive search-based software module clustering produce complex designs, which maximize the characteristics driving optimization while producing class distributions that would hardly be acceptable to developers maintaining Ant.

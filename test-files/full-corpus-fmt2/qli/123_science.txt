@@ -1,0 +1,2 @@
+Fine-grained (accurate) problem handling reports provide a wider scope of possible measures to assess the relevant development processes. 
+This is helpful in controlling single projects (local perspective) as well as in managing these processes in the whole company (global perspective).

@@ -1,0 +1,1 @@
+It finally describes how this approach may be designed and implemented as an organisational learning tool for knowledge management practitioners.

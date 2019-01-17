@@ -1,0 +1,1 @@
+Simulation results show that the adaptive strategy of software testing is feasible and significantly reduces the number of test cases required to detect and remove a certain number of software defects in comparison with the random strategy of software testing

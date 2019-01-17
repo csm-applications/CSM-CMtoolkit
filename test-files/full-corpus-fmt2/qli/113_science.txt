@@ -1,0 +1,1 @@
+Our results indicate that the use of CP and FP can improve the effectiveness of TCP. The results also show that the risk-based prioritization can be effective in improving the TCP.

@@ -1,0 +1,2 @@
+Data show that the reliability estimates obtained using MAT (a) are closer to the “true” reliability than those obtained using random testing and
+(b) lead to lower variance than the techniques used for comparison, which means MAT can be applied to help testers and reliability engineers better understand the reliability of their programs.

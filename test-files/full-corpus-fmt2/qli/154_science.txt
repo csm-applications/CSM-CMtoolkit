@@ -1,0 +1,3 @@
+The analysis of the reported strategies comprised two fundamental aspects for software product line testing: the selection of products for testing, and the actual test of products. 
+Our findings indicate that the literature offers a large number of techniques to cope with such aspects. 
+However, there is a lack of reports on realistic industrial experiences, which limits the inferences that can be drawn.

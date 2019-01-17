@@ -1,0 +1,2 @@
+A numerical demonstration of validating the correctness of hyper links on a web site via the proposed computation is illustrated and discussed.
+The suggested mechanism with some prior information will converge much more quickly than other similar reliability models.

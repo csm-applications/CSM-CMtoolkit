@@ -1,0 +1,4 @@
+To examine the benefits of ELBlocker, we perform experiments on 6 large open source projects – namely Freedesktop, Chromium, Mozilla, Netbeans, OpenOffice, and Eclipse containing a total of 402,962 bugs. 
+We find that ELBlocker achieves F1 and Effectiveness Ratio 20% scores of up to 0.482 and 0.831, respectively. 
+On average across the 6 projects, ELBlocker improves the F1 and Effectiveness Ratio 20% scores over the state-of-the-art method proposed by Garcia and Shihab by 14.69% and 8.99%, respectively. 
+Statistical tests show that the improvements are significant and the effect sizes are large.

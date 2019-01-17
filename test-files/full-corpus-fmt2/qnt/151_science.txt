@@ -1,0 +1,2 @@
+The paper reports the results of a thorough empirical study of 9 AspectJ benchmark programs, including non-trivial and larger software, by means of mutation analysis to compare RAMBUTANS and the four existing automated AOP testing approaches for testing aspects in terms of fault detection effectiveness and test effort efficiency. 
+The results of the experiment and statistical tests supplemented by effect size measures presented evidence of the effectiveness and efficiency of the proposed technique at 99% confidence level (i.e. p &lt; 0.01).

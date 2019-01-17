@@ -1,0 +1,2 @@
+A series of simulations have been conducted and it is shown that these new algorithms not only select test cases more evenly, but also have better failure detection capabilities.
+

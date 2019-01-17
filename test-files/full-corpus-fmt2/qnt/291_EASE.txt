@@ -1,0 +1,4 @@
+The average score for identifying security attributes for the treatment group was 4.56 and for the control group was 2.60. 
+The difference between the groups was significant using Mann-Whiney test (p=0.011). 
+The average score for identifying the security patterns for the treatment group was 5.78 and for the control group was 2.8. 
+Mann-Whitney test revealed that the difference between the groups was again significant at (p=0.022). 

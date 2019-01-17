@@ -1,0 +1,2 @@
+We obtained contradictory results when comparing cross- to single-company predictions for single-company projects. 
+First, when results were compared using absolute residuals there were no differences between cross- and single-company predictions, or between techniques. 

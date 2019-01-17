@@ -1,0 +1,2 @@
+Based on numerical results of a comparison of different allocation strategies, a saving on the energy consumption is possible in the operational range (where on-demand requests do not face unpleasant blocking probability) with the allocation of virtual machines to physical servers based on the priority.
+

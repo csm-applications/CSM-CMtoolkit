@@ -1,0 +1,1 @@
+A different approach, based on the management of the lessons learned that software testing engineers gather from everyday experience, with two basic goals: usefulness and applicability.

@@ -1,0 +1,2 @@
+The experimental results and comparison provided insights into the effectiveness and efficiency of automated AOP testing with their respective strengths and weaknesses. 
+Results showed that EAT is more effective than the other automated AOP testing approaches but not significant for all approaches. 

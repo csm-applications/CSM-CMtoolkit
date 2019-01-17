@@ -1,0 +1,4 @@
+The experimental results validated the hypothesis that the ISBST system generates test cases that are not found by the same participants employing manual testing techniques. 
+A follow-up laboratory experiment also investigates the importance of interaction in obtaining the results.
+In addition to this main result, the subjective workload was assessed for each participant by means of the NASA-TLX tool.
+The evaluation showed that, while the ISBST system required more effort from the participants, they achieved the same performance.

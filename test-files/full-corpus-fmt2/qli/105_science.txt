@@ -1,0 +1,3 @@
+Lack of cooperation, weak task backlog, and lack of software testing resources were common bridge causes. 
+Bridge causes, and causes related to tasks, people, and methods were common among the causes perceived as the most feasible targets for process improvement. 
+The causes related to the project environment were frequent, but seldom perceived as feasible targets for process improvement.

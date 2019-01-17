@@ -1,0 +1,1 @@
+This paper discusses the proposal of implementing test knowledge management framework in iDEN phone software system testing and how the knowledge management approach can benefit the testing team in terms of cost and productivity.

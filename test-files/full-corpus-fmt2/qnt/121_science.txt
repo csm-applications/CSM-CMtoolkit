@@ -1,0 +1,4 @@
+From 833 primary studies published between 2004 and 2014, just 17 studies regard the design of test cases for CASS.
+Furthermore, some of them take into account the changes in the context by providing specific test cases for each context configuration (static perspective) during the test execution. 
+These 17 studies revealed five challenges affecting the design of test cases and 20 challenges regarding the testing of CASS. 
+Besides, seven TCDT are not empirically evaluated.

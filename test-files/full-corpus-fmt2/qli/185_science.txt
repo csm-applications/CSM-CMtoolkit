@@ -1,0 +1,3 @@
+The conversion type most often used as well as the conversion type based on transaction function size were found to generate nonlinear, inaccurate and invalid results according to measurement theory.
+In addition, they produce a loss of measurement information in the conversion process, because of the FPA weighting system and FPA structural problems, such as illegal scale transformation. 
+Our proposed conversion type avoids the problems inherent in the other two types but not the nonlinearity problem. 

@@ -1,0 +1,5 @@
+Of a total of three projects, the TeGoF was applied smoothly in only one case.
+However, this observation should not be interpreted as a TeGoF deficiency because its primary goal is to define a powerful detection mechanism to cope with quality-related issues in contractual relationships.
+In this sense, the TeGoF proved itself as a feasible tool.
+Additionally, an analysis is presented that describes the factors that contributed to the implementation difficulties of the TeGoF principles in the two remaining projects.
+Finally, the relationships among trust, control and power are indicated as well as the potential influence of national, organizational and occupational culture.

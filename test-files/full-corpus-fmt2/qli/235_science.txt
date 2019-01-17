@@ -1,0 +1,2 @@
+(3) as example applications, the MDG can greatly enhance the cost-effectiveness of both static and dynamic impact analysis techniques that are based on program dependence analysis.
+

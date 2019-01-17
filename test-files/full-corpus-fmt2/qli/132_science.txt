@@ -1,0 +1,1 @@
+The effectiveness of the strategy is assessed by applying the generated test suites on a real-world case study for the purpose of functional testing.

@@ -1,0 +1,1 @@
+Our results for both types of changes show that the most cost-effective dynamic impact analysis known is surprisingly inaccurate with an average precision of 38–50% and average recall of 50–56% in most cases.

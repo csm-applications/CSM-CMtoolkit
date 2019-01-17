@@ -1,0 +1,3 @@
+The experimental results showed that Test First teams spent a larger percentage of time on testing. 
+The achievable minimum external quality of delivered software applications increased with the percentage of time spent on testing regardless of the testing strategy (TF or TL) applied, although there does not exist a linear correlation between them. 
+With four years data, it is also found that a strong linear correlation between the amount of effort spent on testing and coding in Test First teams, while this phenomenon was not observed in Test Last teams.

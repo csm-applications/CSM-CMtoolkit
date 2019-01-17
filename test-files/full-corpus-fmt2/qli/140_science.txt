@@ -1,0 +1,2 @@
+The experiment results show that our approach can improve the fault detection effectiveness of reduced suites with a negligible increase in the size of the suites.
+Besides, under specific conditions, the proposed approach can also accelerate the process of minimization.

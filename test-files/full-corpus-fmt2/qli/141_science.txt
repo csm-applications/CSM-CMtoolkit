@@ -1,0 +1,1 @@
+The method is intended to support project managers in more accurate adjusting resources in the project, since they are notified in advance about the potentially large effort needed to correct defects.

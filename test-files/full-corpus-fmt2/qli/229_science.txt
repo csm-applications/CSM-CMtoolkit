@@ -1,0 +1,1 @@
+Module size guidelines based on corresponding complexity are derived for identifying extremly long modules, and are recommended for use by software quality engineers in monitoring development methodologies and by test engineers during preacceptance testing.

@@ -1,0 +1,4 @@
+We built a formal model for the process of assigning human resources to software project teams. 
+This model takes into account as many factors as possible and aids the assignment of individuals to project roles, as well as the formation of the team as a whole. 
+We found that the rules that were identified to form software development project teams are useful.
+From the tests we found that model implementation was feasible (all the executions of the implemented problem-solving algorithms output feasible solutions in response times that can be considered as acceptable).

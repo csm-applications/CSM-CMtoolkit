@@ -1,0 +1,2 @@
+Our MLR and its results are based on 78 sources, 52 of which were grey literature and 26 were formally published sources.
+The most frequent individual factors were: need for regression testing (44 sources), economic factors (43), and maturity of SUT (39).

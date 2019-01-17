@@ -1,0 +1,2 @@
+The automated testing strategy is appealing because it allows prototyping, already widely used, to serve multiple purposes. 
+To illustrate the strategy's viability, a software development effort is described in which the strategy has been successfully employed.

@@ -1,0 +1,1 @@
+The results show that our framework facilitates architects to detect undesired states which are caused by error-prone adaptation rules. 

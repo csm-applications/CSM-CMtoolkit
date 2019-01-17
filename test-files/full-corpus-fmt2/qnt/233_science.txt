@@ -1,0 +1,3 @@
+The empirical probability density distribution of predicting data resembles that of training data. 
+A neural network can qualitatively predict what it has learned.
+Due to the essential problems associated with the neural network approach and software reliability data, more often than not, the neural network approach fails to generate satisfactory quantitative results.

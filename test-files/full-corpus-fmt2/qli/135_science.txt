@@ -1,0 +1,2 @@
+Our experiment indicates that a business domain aware language allows significant faster creation of documents without lowering the perceived quality. 
+Subjects felt better supported by the DSL with business concepts.

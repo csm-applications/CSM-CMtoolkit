@@ -1,0 +1,1 @@
+The results of an experiment show that combinatorial testing is often comparative to specification-based testing and is superior to both random testing and antirandom testing.

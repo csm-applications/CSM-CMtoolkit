@@ -1,0 +1,3 @@
+The first study highlights some practical problems with the decision procedure for pointer inputs described in this paper.
+In particular, if the code under test contains insufficient guard statements to enforce constraints over pointers, then using a constraint solver for pointer inputs may be suboptimal compared to a method that generates random memory graphs. 
+The programs used in the second study do not require any constraint solving for pointer inputs and consist of eight non-trivial, real-world C functions drawn from three embedded automotive software modules.

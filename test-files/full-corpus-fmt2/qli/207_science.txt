@@ -1,0 +1,2 @@
+Our experiments indicate that SaveCCT provides appropriate expressiveness, resource efficiency, analysis and verification support for component-based development of vehicular software.
+

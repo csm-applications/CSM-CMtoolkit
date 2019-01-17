@@ -1,0 +1,2 @@
+We describe a process for software engineering systematic mapping studies and compare it to systematic reviews. 
+Based on this, guidelines for conducting systematic maps are defined.

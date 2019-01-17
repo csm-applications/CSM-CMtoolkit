@@ -1,0 +1,4 @@
+Experimental results obtained on the Ncube7 hypercube are presented.
+The near-linear speedups show the perfect match that exists between the software testing application and a local memory MIMD architecture typified by the Ncube7 machine.
+The compilation bottleneck, which could have an adverse effect on the speedup, is illustrated by experimental results.
+

@@ -1,0 +1,2 @@
+The paper also evaluates the genetic algorithm used to generate test requirements with respect to efficiency and effectiveness.
+A large case study, a commercial mortgage lending system, is used to explore applicability, scalability, and effectiveness of the approach.

@@ -1,0 +1,1 @@
+Our results have reinforced, from a perspective other than empirical analysis, that adaptive random testing is a more effective alternative to random testing, with reference to the F-measure. 

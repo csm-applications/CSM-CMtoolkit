@@ -1,0 +1,3 @@
+We report data analysis results from an empirical study where 24 reviewers at different experience levels identified over 100 scenarios. Main findings are:
+(a) results of different scoring approaches (frequency-based and expert scoring) agree very well regarding critical scenarios, 
+(c) adding a new person to a team of size 3 or more increases scenario coverage by less than 10%.

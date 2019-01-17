@@ -1,0 +1,2 @@
+A high degree of test overlay is identified originating from distributed test responsibilities, poor documentation and structure of test cases, parallel work and insufficient delta analysis.
+The amount of test overlay depends on which level of abstraction is studied.

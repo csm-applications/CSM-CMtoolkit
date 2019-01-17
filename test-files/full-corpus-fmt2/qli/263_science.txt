@@ -1,0 +1,2 @@
+Experimental results for On-Line Transaction Processing using TPC-C, a benchmark of the Transaction Processing Performance Council, show that the proposed method is feasible and effective.
+

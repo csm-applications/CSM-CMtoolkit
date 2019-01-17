@@ -1,0 +1,2 @@
+The outcomes confirmed the validity of the path generation method, in that all the derived paths were found feasible. 
+The case study also provided evidence that this method can reduce the test effort, especially for non-expert testers, though there was not a sufficient amount of results to allow us to quantify this reduction.

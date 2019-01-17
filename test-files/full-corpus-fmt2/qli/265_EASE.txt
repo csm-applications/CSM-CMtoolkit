@@ -1,0 +1,1 @@
+The findings of this study provide support for each element of FOCSAAM to be included in forming criteria for comparing software architecture analysis methods.

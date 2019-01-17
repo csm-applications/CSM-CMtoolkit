@@ -1,0 +1,2 @@
+In this article we present the results of a large experiment in unit test generation using the EvoSuite tool on 100 randomly chosen open-source projects, the 10 most popular open-source projects according to the SourceForge Web site, seven industrial projects, and 11 automatically generated software projects.
+The study confirms that EvoSuite can achieve good levels of branch coverage (on average, 71% per class) in practice.

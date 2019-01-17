@@ -1,0 +1,3 @@
+The results show the usefulness and applicability of the proposed operator.
+The NSGA-II version that applies the feature-driven crossover found a greater diversity of solutions (potential PLA designs), with higher feature-based cohesion, and less feature scattering and tangling.
+

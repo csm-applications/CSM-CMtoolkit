@@ -1,0 +1,1 @@
+Our study indicates that, with the exception of some specific kinds of artifacts (i.e., tracing test cases to source code) the proposed approach is able to significantly improve the performances of traceability recovery, and to remove “noise” that simple stop word filters cannot remove.

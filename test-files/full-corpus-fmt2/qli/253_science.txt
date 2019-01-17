@@ -1,0 +1,2 @@
+We present the results of an empirical study were we analyzed applications written in both Java 1.4 and 1.5.
+In addition, we show how the variability of the combinations of class characteristics may affect the testing of class members.

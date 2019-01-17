@@ -1,0 +1,1 @@
+Our results indicate that 20.70% of the faults are fixed using selected mutant operators, suggesting that the strategy holds merit for automatically fixing faults.

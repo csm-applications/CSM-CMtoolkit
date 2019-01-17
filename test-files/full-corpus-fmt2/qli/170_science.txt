@@ -1,0 +1,2 @@
+The effectiveness of the cost-aware framework is evaluated via the subject programs and test suites collected from the Software-artifact Infrastructure Repository — frequently chosen benchmarks for experimentally evaluating test suite reduction methods. 
+The empirical results reveal that the presented algorithms produce representative sets that normally incur a low cost to yield a high level of test coverage.

@@ -1,0 +1,2 @@
+Our results show that a crowd of five time-restricted testers using 10 h in total detected 71% more defects than a single non-time-restricted tester using 9.9 h. 
+Furthermore, we use F-score measure from the information retrieval domain to analyze the optimal number of testers in terms of both effectiveness and validity of testing results. 

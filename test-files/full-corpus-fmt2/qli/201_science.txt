@@ -1,0 +1,5 @@
+Various elements of the software components that were measured are reviewed and discussed.
+Only a few of the proposed metrics are soundly defined.
+The quality assessment of the primary studies detected many limitations and suggested guidelines for possibilities for improving and increasing the acceptance of metrics.
+However, it remains a challenge to characterize and evaluate a CBSS and its components quantitatively. For this reason, much effort must be made to achieve a better evaluation approach in the future.
+

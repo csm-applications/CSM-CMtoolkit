@@ -1,0 +1,2 @@
+This indicates that a rule-based approach is a viable and simple method to leverage CR assignments.
+

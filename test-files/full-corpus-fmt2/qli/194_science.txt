@@ -1,0 +1,2 @@
+The results suggest that random testing works well on error-prone programs and programs that their expected outputs can be easily known. 
+For it to be most effective, one should use random testing in an early stage of program testing.

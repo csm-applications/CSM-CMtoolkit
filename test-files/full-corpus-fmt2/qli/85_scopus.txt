@@ -1,0 +1,3 @@
+A qualitative case study was conducted to interpret this result. 
+We found that this relationship can be explained with the size and complexity of software, knowledge management issues, and customer involvement. 
+We also found that the primary strategies for avoiding testing schedule over-runs were reducing the scope of testing, leaving out features from the software, and allocating more resources to testing.

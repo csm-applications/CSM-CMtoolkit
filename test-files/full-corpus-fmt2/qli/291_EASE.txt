@@ -1,0 +1,1 @@
+		Post-study questionnaire revealed that majority of the participants were convinced of the usefulness of ALSAF in identifying and understanding the relationships between security attributes, properties, and patterns for supporting architectural level security analysis. 

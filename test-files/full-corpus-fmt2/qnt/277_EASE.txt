@@ -1,0 +1,2 @@
+The results show that the variability of the FP measure is small compared to the one obtained after applying "plain" FPA, as described in the literature.
+More precisely, whereas the influence of the modeller on the result appears to be negligible (i.e., a counter gets the same results from different models of the same application), the variability due to the measurer is more significant (i.e., different counters get different results from the same model), but still small when compared to the results reported in the literature on FPA.

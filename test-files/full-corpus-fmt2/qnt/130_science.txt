@@ -1,0 +1,2 @@
+For these functions, AUSTIN is competitive compared to the ETF, achieving an equal or higher branch coverage for six of the functions. 
+In addition, for functions where AUSTIN’s branch coverage is equal or higher, AUSTIN is more efficient than the ETF.

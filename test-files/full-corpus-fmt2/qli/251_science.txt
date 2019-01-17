@@ -1,0 +1,2 @@
+Our simulations and empirical results show that the newly proposed algorithms not only improve the evenness of test case distribution, but also enhance the failure detection capability of ART.
+
