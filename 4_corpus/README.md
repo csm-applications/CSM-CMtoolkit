@@ -13,7 +13,7 @@ Contains 149 bibtex items with all information of the study and the abstract.
 
 ## folder: [Corpus] - Results_quantitative_qualitative
 
-###[corpus] format_1
+### [corpus] format_1
 
 Contains 301 abstracts annotated with the class <results/>. The <results> tag contains multiple </result> tags, each of then contains sentences splitted and tagged using the <TypeOfResult> tag. This tag contains "quantitative" class or "qualitative". 
 
