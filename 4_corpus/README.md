@@ -30,11 +30,11 @@ Contains 301 abstracts annotated with the class <results/>. The <results> tag co
 
 Contains 270 sentences extracted from Abstracts in the element "results". This sentences were annotated with "quantitative" and "qualitative" classes to identify wich type of result the sentence describes.
 
-** folder: Single_abstract
+## folder: Single_abstract
 
 Contains a single abstract used for tests of NLP algorithms
 
-** folder: Pre-Processing
+## folder: Pre-Processing
 
 Contains a list of stopwords and symbols that must be removed to clear the text.
 
