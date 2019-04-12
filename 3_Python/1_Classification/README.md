@@ -1,4 +1,4 @@
-** Understanding the classification task
+# Understanding the classification task
 
 This section contains the implementations of the classifiers predicting the content of a sentence taken from a summary. Also present here are the references to folder "corpus" used for training and testing of these classifiers.
 

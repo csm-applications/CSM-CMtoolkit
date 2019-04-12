@@ -1,4 +1,4 @@
-** Understanding the sumarization.
+# Understanding the sumarization.
 
 Steps 1 and 2 show the classification and extraction of relationships. The third step is the sequence of these 2 previous steps where you will merge the relationships extraction results and the default framework of Conceptual Maps for scientific studies.
 

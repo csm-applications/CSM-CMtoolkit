@@ -1,4 +1,4 @@
-* Important note about the corpus
+# Important note about the corpus
 
 The corpus is an important part of the design, since it is used for both classifier training and testing.
 
@@ -7,13 +7,13 @@ In this folder you will find the annotated corpus that is used in the created sc
 Each implemented code has references to a corpus present in this folder.
 
 
-** folder: [Corpus] - Bibtex_formatted
+## folder: [Corpus] - Bibtex_formatted
 
 Contains 149 bibtex items with all information of the study and the abstract.
 
-** folder: [Corpus] - Results_quantitative_qualitative
+## folder: [Corpus] - Results_quantitative_qualitative
 
-[corpus] format_1
+###[corpus] format_1
 
 Contains 301 abstracts annotated with the class <results/>. The <results> tag contains multiple </result> tags, each of then contains sentences splitted and tagged using the <TypeOfResult> tag. This tag contains "quantitative" class or "qualitative". 
 
@@ -26,7 +26,7 @@ Contains 301 abstracts annotated with the class <results/>. The <results> tag co
 		</result>
 	</results>
 
-[corpus] format_2
+### [corpus] format_2
 
 Contains 270 sentences extracted from Abstracts in the element "results". This sentences were annotated with "quantitative" and "qualitative" classes to identify wich type of result the sentence describes.
 

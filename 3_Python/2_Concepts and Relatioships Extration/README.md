@@ -1,4 +1,4 @@
-** Understanding the concepts and relationship extraction
+# Understanding the concepts and relationship extraction
 
 Extracting concepts and relationships is part of the larger project of building conceptual maps automatically.
 

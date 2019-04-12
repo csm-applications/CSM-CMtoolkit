@@ -4,14 +4,14 @@
 
 Contains: 
 
-→ Approaches: Implemented approaches of CM extraction and arff generation to weka testing.
-→ Exceptions: Implemented exeptions of the project
-→ GUI: Implemented user interface to generate CMs
-→ Model: Implemented classes used in the project
-→ Modules: Contains functionalities used in the approach isolated in classes. Each module can be replaced or new modules can be easily added into folders.
-→ Presets: Contains a class that returns the template proposed By Felizardo (2017).
-→ Images: contains images.
-→ Utils: contains implemented functionalities not related directly to the core of the project.
+- Approaches: Implemented approaches of CM extraction and arff generation to weka testing.
+- Exceptions: Implemented exeptions of the project
+- GUI: Implemented user interface to generate CMs
+- Model: Implemented classes used in the project
+- Modules: Contains functionalities used in the approach isolated in classes. Each module can be replaced or new modules can be easily added into folders.
+- Presets: Contains a class that returns the template proposed By Felizardo (2017).
+- Images: contains images.
+- Utils: contains implemented functionalities not related directly to the core of the project.
 
 
 ##  Folder: Test
