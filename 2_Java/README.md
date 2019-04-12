@@ -1,4 +1,6 @@
-** Folder: src
+# Description of the content in the folders
+
+## Folder: src
 
 Contains: 
 
@@ -12,16 +14,15 @@ Contains:
 → Utils: contains implemented functionalities not related directly to the core of the project.
 
 
-** Folder: Test
+##  Folder: Test
 
 Contains:
-
-→ Examples - see here working examples of approaches of NLP. 
+### Examples - see here working examples of approaches of NLP. 
 
 	- Information extraction
 	- Anaphora resolution
 
-→ functionalities - This folder contains punctual tests of natural language processing algorithms, machine learning and Input or output.
+### functionalities - This folder contains punctual tests of natural language processing algorithms, machine learning and Input or output.
 	
 	I/O
 	- BibtexParser
@@ -39,7 +40,7 @@ Contains:
 	- TermFrequency
 
 
-→ Generators - This folder contains:
+###  Generators - This folder contains:
 	
 	- The basic generator of Concept Maps ( without User interface). 
 	- The generator of arff file to training algorithm in weka.
