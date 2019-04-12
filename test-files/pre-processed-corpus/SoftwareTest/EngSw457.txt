@@ -1,6 +1,0 @@
-<title>Factor Influenc Perceiv Benefit User Satisfact Knowledg Manag System </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result knowledg manag system certain characterist when technic sociopsycholog factor user percept attitud system <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

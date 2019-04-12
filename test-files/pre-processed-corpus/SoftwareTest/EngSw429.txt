@@ -1,6 +1,0 @@
-<title>comparison mechan engin technic manag student ICT attitud Obuda Univers </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>ICT attitud tool number#999 item Likert number#999 student <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

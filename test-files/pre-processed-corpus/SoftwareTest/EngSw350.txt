@@ -1,6 +1,0 @@
-<title>estim adequ test set size fault failur rate </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Experiment also relationship multipl fault present same program concept failur rate <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>project manag global softwar develop clientvendor analysi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result posit correl rank SLR questionnair number#999 number#999 number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

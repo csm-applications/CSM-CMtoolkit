@@ -1,6 +1,0 @@
-<title>Case Studi Black Box FailSaf Test Web Applicat </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>larg case studi commerci mortgag lend system applic scalabl effect approach <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

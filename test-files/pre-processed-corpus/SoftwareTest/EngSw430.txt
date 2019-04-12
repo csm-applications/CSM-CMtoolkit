@@ -1,6 +1,0 @@
-<title>comparison mechan engin technic manag student ICT attitud Obuda Univers </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>data analysi SPSS softwar descript statist MannWhitnei test <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

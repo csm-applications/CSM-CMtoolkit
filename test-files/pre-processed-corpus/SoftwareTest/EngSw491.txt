@@ -1,6 +1,0 @@
-<title>systemat literatur review literatur review softwar test </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>qualiti secondari studi criteria set commun slowli year <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

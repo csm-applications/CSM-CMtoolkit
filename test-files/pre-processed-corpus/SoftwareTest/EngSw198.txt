@@ -1,6 +1,0 @@
-<title>exploratori studi accuraci FPA COSMIC measur method convers type </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Furthermor convers type more accur other type when COSMIC function process dataset applic systemat larger correspond FPA elementari process when process small larg <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>Use Chronolog Split Softwar Crosscompani Singlecompani Effort Predict Replic Studi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Chronolog split significantli wors accuraci leaveon leavetwo crossvalid when singlecompani data similar accuraci when crosscompani data <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

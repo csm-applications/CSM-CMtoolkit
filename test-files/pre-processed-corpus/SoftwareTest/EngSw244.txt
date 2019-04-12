@@ -1,6 +1,0 @@
-<title>impact account special method measur objectori class cohes refactor fault predict activ </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result empir studi cohes most metric significantli four scenario differ significantli decis not significantli abil metric faulti class <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

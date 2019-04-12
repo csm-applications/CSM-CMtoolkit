@@ -1,6 +1,0 @@
-<title>Neg sampl reduct crosscompani softwar defect predict </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>empir evalu number#999 publicli avail dataset <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

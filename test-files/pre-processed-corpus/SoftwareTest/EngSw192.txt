@@ -1,6 +1,0 @@
-<title>Tool Global Softwar Engineer systemat map review </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>main result list number#999 tool literatur global softwar project <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>case studi branch test autom </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>good estim number test branch coverag <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

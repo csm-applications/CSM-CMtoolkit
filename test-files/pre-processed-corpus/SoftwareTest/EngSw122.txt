@@ -1,6 +1,0 @@
-<title>strategi test softwar product line systemat literatur review </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>find literatur larg number techniqu such aspect <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

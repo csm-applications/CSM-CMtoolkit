@@ -1,6 +1,0 @@
-<title>Servic Orient Architectur dynam map studi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>total number#999 studi order relev inform previous defin set research question <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

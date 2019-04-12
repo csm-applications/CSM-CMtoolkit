@@ -1,6 +1,0 @@
-<title>motiv commun gener gener babi boomer </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>research sampl number#999 respond ag group <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

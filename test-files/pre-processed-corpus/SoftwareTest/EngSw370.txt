@@ -1,6 +1,0 @@
-<title>Preliminari result studi complet clariti structur abstract </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Howev structur abstract higher clariti score clariti differ number#999 number#999 confid interv number#999 number#999 more complet complet differ number#999 number#999 confid interv number#999 number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

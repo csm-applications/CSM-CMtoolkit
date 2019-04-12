@@ -1,6 +1,0 @@
-<title>Softwar testcod engin systemat map </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>number#999 tool STCE less half tool number#999 avail download good percentil tool avail not perfect avail tool can higher impact research commun industri <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

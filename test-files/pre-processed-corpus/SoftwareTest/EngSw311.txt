@@ -1,6 +1,0 @@
-<title>autom approach test suit test compil embed system </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>addit case studi test suit sourc code can consider intermedi code <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

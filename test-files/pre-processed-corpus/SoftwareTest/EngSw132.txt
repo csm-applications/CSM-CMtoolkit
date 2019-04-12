@@ -1,6 +1,0 @@
-<title>Continu Softwar Test Global Distribut Project </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>enabl success virtual agil team coordin mutual adjust tester low turnov hour selfmanag autonomi <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

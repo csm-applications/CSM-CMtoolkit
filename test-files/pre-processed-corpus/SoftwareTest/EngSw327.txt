@@ -1,6 +1,0 @@
-<title>Selfadapt architectur evolut model check softwar cybernet approach </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result framework architect undesir state errorpron adapt rule <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>crosscompani softwar defect predict </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>articl theoret analysi compar method experi result data set differ organ <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

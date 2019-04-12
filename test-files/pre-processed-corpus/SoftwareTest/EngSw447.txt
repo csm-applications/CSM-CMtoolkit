@@ -1,6 +1,0 @@
-<title>approach softwar select semant web </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>further optim SPARQL queri order respons time tripl store <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

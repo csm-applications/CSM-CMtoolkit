@@ -1,6 +1,0 @@
-<title>Servic Orient Architectur dynam map studi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Furthermor differ stakehold particip test specif point time life cycl servic <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

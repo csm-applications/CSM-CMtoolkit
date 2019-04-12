@@ -1,6 +1,0 @@
-<title>dynam memori manag constraintbas test </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>approach wellknown difficult exampl program dynam memori allocationdealloc structur loop <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

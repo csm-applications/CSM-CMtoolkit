@@ -1,6 +1,0 @@
-<title>case design contextawar applic yet </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Furthermor account chang context specif test case context configur static perspect test execut <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

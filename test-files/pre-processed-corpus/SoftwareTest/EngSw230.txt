@@ -1,6 +1,0 @@
-<title>Test RealTim Embed System Time Automata </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>valid assess fault coverag structur coverag minim number gener test trace former Mutat Analysi Techniqu MAT set time function mutat oper <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

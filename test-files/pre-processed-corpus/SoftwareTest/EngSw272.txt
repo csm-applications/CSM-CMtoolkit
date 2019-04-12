@@ -1,6 +1,0 @@
-<title>Coordin implic softwar architectur global softwar develop project </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Analysi data Global Studio Project Version number#999 architectur DSM model softwar modular structur highli consist COM actual coordin structur architectur DSM potenti task assign global softwar develop project <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

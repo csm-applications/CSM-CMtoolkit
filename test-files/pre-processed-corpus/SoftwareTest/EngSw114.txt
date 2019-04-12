@@ -1,6 +1,0 @@
-<title>robot control constraint program continu integr </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>version now ABB Robot CIR test facil perman basi <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

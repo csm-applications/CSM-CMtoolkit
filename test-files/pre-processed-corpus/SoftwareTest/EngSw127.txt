@@ -1,6 +1,0 @@
-<title>mutat carol Past present futur </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>understand mutat how can much deeper broader <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

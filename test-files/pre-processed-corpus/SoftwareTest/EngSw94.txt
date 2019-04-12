@@ -1,6 +1,0 @@
-<title>weekli defect inflow larg softwar project project plan test statu </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>method project manag more accur adjust resourc project advanc potenti larg effort defect <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

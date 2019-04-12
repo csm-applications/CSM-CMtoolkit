@@ -1,6 +1,0 @@
-<title>statist properti effect measur </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result perspect other empir analysi adapt random test more effect altern random test refer Fmeasur <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>higher order mutant </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>major subtl HOM mutat Java primit oper <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>systemat literatur review industri us softwar process simul </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Result primari studi date persist trend proofofconcept applic softwar process simul variou purpos eg estim train process improv etc <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

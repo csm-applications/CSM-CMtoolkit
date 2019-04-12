@@ -1,6 +1,0 @@
-<title>project manag global softwar develop clientvendor analysi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>comparison challeng client vendor organ more similar differ challeng <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

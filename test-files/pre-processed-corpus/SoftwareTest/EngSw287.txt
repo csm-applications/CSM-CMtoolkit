@@ -1,6 +1,0 @@
-<title>Modul size standard heurist </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Modul size guidelin correspond complex extremli long modul us softwar qualiti engin monitor develop methodolog test engin preaccept test <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

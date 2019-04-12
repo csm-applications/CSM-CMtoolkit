@@ -1,6 +1,0 @@
-<title>Inspection Method Control Experiment </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Final effect inspect method recal not signific <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

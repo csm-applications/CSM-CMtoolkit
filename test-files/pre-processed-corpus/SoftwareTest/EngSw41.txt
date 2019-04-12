@@ -1,6 +1,0 @@
-<title>New mix arrai twai test uniform strength </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Wilcoxon signedrank test MiTSbas methodolog significantli best bound MCA previous number#999 confid <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

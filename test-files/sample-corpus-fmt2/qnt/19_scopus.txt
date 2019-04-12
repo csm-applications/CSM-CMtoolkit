@@ -1,1 +1,0 @@
-From the mapping study, we identified 15 studies addressing KM initiatives in software testing that have been reviewed in order to extract relevant information on a set of research questions.

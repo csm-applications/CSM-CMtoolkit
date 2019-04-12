@@ -1,6 +1,0 @@
-<title>Govern Framework develop Ethnograph inform action research </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Addition analysi factor implement difficulti TeGoF principl two project <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>test data scatter search approach </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result gener detail comparison mani other gener good perform approach <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

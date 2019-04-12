@@ -1,6 +1,0 @@
-<title>case studi number#999 test script clone analysi industri telecommun set </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>paper figur diagram number#999 clone frequenc type similar distribut <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

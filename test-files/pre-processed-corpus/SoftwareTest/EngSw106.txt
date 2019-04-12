@@ -1,6 +1,0 @@
-<title>overlai softwar product line industri case studi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>high degre test overlai test respons poor document structur test case parallel work insuffici delta analysi <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

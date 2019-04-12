@@ -1,6 +1,0 @@
-<title>How bug comprehens studi characterist softwar bug manifest </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Find main occurr pattern bug condit case studi role workload applic environ where <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

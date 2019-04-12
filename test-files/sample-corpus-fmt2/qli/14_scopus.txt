@@ -1,3 +1,0 @@
-As a main result, we provide a catalog with 116 testing tools appropriately selected and classified, among which the following techniques were identifies with higher support were Java and C/C++. 
-Although a large number of tools have been categorized, most of them are academic and only few are available on a commercial scale. 
-The classification proposed here can contribute to the state-of-the-art of testing tools for concurrent programs and also provides information for the exchange of knowledge between academy and industry.

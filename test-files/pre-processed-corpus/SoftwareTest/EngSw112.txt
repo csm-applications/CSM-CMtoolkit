@@ -1,6 +1,0 @@
-<title>Autom test gener techniqu aspectu featur AspectJ </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result experi statist test effect size measur evid effect effici techniqu number#999 confid level ie number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

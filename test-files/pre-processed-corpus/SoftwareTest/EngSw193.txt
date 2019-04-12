@@ -1,6 +1,0 @@
-<title>Tool Global Softwar Engineer systemat map review </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>classif tool list featur commun coordin control well how tool practic <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

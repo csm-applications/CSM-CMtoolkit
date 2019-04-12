@@ -1,6 +1,0 @@
-<title>Softwar test process improv systemat literatur review industri case studi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>detail comparison content TPI NEXT TMMi <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

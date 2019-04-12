@@ -1,9 +1,0 @@
-<title>Factors Influencing Perceived Benefits and User Satisfaction in Knowledge Management Systems</title>
-
-This study offers a model for predicting users’ perceived benefits and user satisfaction in organizational knowledge management systems. Four constructs are theorized to influence the dependent variables: system quality, knowledge quality, user IS competence, and organizational attitude to knowledge management. The model was empirically tested among 100 respondents working in the knowledge-intensive software industry. 
-<results>
-<result>
-The results suggest that knowledge management systems hold certain characteristics to be considered when evaluating technical and socio-psychological factors of users’ perceptions and attitudes toward the systems.
-<TypeOfResult>Qualitative</TypeOfResult>
-</result>
-</results>

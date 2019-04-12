@@ -1,6 +1,0 @@
-<title>Optimal softwar test adapt softwar test context softwar cybernet </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Simul result adapt strategi softwar test feasibl significantli number test case certain number softwar defect comparison random strategi softwar test <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

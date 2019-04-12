@@ -1,6 +1,0 @@
-<title>relationship schedul knowledg transfer softwar test </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>also primari strategi test schedul overrun scope featur softwar more resourc test <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

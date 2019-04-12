@@ -1,6 +1,0 @@
-<title>Select Cluster Softwar Qualiti Predict </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>experiment result model better latest softwar qualiti predict model SPLUS TreeDisc <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

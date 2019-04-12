@@ -1,6 +1,0 @@
-<title>ShortTerm Defect Inflow Larg Softwar Project Initial Evaluat </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result method more accur predict most case time predict current practic compani <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

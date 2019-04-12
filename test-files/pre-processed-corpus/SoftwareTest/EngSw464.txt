@@ -1,6 +1,0 @@
-<title>number#999 project Lightweight crossproject anomali detect </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>sampl number#999 project number#999 toprank anomali actual code smell defect <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

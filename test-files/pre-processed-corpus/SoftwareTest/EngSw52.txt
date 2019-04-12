@@ -1,6 +1,0 @@
-<title>semant valid test input constrain input grammar </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>model can automat structur semant valid test input <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

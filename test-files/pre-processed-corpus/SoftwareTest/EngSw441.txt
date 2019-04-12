@@ -1,6 +1,0 @@
-<title>postsilicon failur local dynam program slice </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>number#999 case method correctli testcas singl faulti instruct <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

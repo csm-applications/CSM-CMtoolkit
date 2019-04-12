@@ -1,6 +1,0 @@
-<title>relationship file histori faultpron empir method applic sourc program </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>number chang number distinct author chang file well file ag good indic file defect count project <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>suit reduct method decreas regress test irreplac test </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>effect costawar framework subject program test suit Softwareartifact Infrastructur Repositori frequent benchmark experiment test suit reduct method <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

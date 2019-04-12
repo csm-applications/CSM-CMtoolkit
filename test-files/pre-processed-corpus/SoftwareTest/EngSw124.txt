@@ -1,6 +1,0 @@
-<title>Modelbas test global properti largescal system </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>experi import defect on implement clear perform differ two implement <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

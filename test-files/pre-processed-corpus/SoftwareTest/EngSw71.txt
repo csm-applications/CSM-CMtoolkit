@@ -1,6 +1,0 @@
-<title>Achievement minim combinatori test suit configurationawar softwar function Cuckoo algorithm </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>effici perform new techniqu differ experi set <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>Test RealTim Embed System Time Automata </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>latter clock region coverag main time structur coverag criterion <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

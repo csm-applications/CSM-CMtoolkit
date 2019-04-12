@@ -1,6 +1,0 @@
-<title>How softwar defect role implicit defect detect </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>subject number#999 implicit defect detect higher contribut explicit defect detect term defect number#999 number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

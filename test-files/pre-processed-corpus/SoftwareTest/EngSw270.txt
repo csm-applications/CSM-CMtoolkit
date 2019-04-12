@@ -1,6 +1,0 @@
-<title>map studi designtim qualiti attribut metric </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>assess qualiti attribut usual singl metric rather combin multipl metric and <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

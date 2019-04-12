@@ -1,6 +1,0 @@
-<title>Qualiti servic approach cloud comput systemat map studi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>major contribut concern method number#999 model number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>Methodlevel program depend abstract applic impact analysi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>exampl applic MDG can greatli costeffect static dynam impact analysi techniqu program depend analysi <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

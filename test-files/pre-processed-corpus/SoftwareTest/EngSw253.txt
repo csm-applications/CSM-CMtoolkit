@@ -1,6 +1,0 @@
-<title>coverag impact code element fault exploratori studi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result test suit not directli refactor method caller chanc fault <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

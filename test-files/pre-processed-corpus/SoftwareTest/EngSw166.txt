@@ -1,6 +1,0 @@
-<title>relationship file histori faultpron empir method applic sourc program </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Addition late chang file defect count onli partli <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

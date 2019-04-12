@@ -1,6 +1,0 @@
-<title>map studi designtim qualiti attribut metric </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>studi follow outcom lowlevel qualiti eg cohes coupl etc more frequent highlevel on eg maintain reusabl etc <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

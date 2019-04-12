@@ -1,6 +1,0 @@
-<title>systemat comprehens investig method fault predict model </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result studi choic faultpron model techniqu impact classif accuraci costeffect <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

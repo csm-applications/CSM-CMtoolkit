@@ -1,6 +1,0 @@
-<title>analysi classic multiobject evolutionari algorithm strategi pairwis test Softwar Product Line </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>find softwar engin not just on solut case singleobject techniqu instead arrai test suit possibl on best econom technolog constraint test context <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

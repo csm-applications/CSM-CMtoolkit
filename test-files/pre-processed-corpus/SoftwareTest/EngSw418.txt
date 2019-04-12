@@ -1,6 +1,0 @@
-<title>softwar upgrad model test effort two type imperfect debug </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>model successfulli real life softwar data <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

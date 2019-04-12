@@ -1,6 +1,0 @@
-<title>softwar reliabl growth behavior nonhomogen Poisson process </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>import work paper not onli new find distinctli differ popular belief softwar reliabl model also adopt research approach behavior mean correspond varianc simultan basi softwar experi <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

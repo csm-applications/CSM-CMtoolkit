@@ -1,6 +1,0 @@
-<title>neural network approach softwar reliabl model </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>empir probabl densiti distribut data train data <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

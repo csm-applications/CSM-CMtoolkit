@@ -1,6 +1,0 @@
-<title>Outsourc Knowledg Manag Softwar Test </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result studi can knowledg manag strategi guidanc decis <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

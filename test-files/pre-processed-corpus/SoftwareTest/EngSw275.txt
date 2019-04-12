@@ -1,6 +1,0 @@
-<title>Analogybas softwar effort estim Fuzzi number </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result also method well estim techniqu such casebas reason stepwis regress <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>Conceptu organiz innov case Brazilian softwar industri </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result dispar softwar firm organiz innov can part differ intern capabl <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

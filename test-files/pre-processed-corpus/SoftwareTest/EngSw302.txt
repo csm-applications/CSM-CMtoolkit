@@ -1,6 +1,0 @@
-<title>softwar test fixedmemori feedback </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>addit case studi input domain softwar test should nonevenli adapt test strategi <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

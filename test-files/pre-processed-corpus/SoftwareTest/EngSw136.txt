@@ -1,6 +1,0 @@
-<title>Govern Framework develop Ethnograph inform action research </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>sens TeGoF feasibl tool <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

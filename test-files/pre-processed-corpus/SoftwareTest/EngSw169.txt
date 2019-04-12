@@ -1,6 +1,0 @@
-<title>Learn optim case studi Apach Ant </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>architectur current model searchbas softwar modul complex design characterist optim class distribut would hardli accept develop Ant <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

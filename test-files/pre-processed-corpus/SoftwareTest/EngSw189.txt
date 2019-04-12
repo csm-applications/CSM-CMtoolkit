@@ -1,6 +1,0 @@
-<title>logist regress model softwar project outcom </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>raw variabl factor logist regress model not signific differ predict capabl <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

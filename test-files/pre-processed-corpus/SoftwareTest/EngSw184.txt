@@ -1,6 +1,0 @@
-<title>smooth filter IRbase traceabl recoveri process empir investig </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>studi except specif kind artifact test case sourc code propos approach abl significantli perform traceabl recoveri nois simpl stop word filter can not <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

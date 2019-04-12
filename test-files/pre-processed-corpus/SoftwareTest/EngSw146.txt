@@ -1,6 +1,0 @@
-<title>How softwar defect role implicit defect detect </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>low us test case number#999 high us other document softwar defect detect furthermor person knowledg oracl defect detect much more often oracl <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

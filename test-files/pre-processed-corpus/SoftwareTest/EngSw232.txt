@@ -1,6 +1,0 @@
-<title>Test RealTim Embed System Time Automata </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>studi prioritybas approach can high fault coverag clock region coverag rel small number test trace comparison other test approach <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

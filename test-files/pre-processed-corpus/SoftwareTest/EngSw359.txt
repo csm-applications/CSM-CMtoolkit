@@ -1,6 +1,0 @@
-<title>Comparison schedul scheme ondemand IaaS request </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>numer result comparison differ alloc strategi save energi consumpt possibl oper rang where ondemand request not unpleas probabl alloc virtual machin physic server prioriti <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

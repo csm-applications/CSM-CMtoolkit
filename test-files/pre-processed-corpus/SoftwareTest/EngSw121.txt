@@ -1,6 +1,0 @@
-<title>strategi test softwar product line systemat literatur review </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>analysi strategi two fundament aspect softwar product line test select product test actual test product <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

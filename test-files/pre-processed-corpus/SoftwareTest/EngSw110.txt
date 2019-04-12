@@ -1,6 +1,0 @@
-<title>Concurr softwar test practic catalog tool </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>classif here can stateoftheart test tool concurr program also inform exchang knowledg academi industri <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

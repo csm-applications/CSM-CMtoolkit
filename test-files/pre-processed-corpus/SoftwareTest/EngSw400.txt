@@ -1,6 +1,0 @@
-<title>Preliminari Studi Sequenc Effect Judgmentbas Softwar Develop WorkEffort Estimat </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>first experi replic subsequ estim subject initi estim ie group small task averag lower estim mediums task group larg task <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

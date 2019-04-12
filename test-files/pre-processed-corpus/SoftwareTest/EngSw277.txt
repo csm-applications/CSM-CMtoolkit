@@ -1,6 +1,0 @@
-<title>specif variant behaviour featur design pattern </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>approach accuraci pattern specif variat ambigu part inform descript <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

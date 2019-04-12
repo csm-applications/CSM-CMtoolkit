@@ -1,6 +1,0 @@
-<title>Motiv Softwar Process Improvement Analysi Vietnames Practition View </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>high perceiv valu SPI motiv gener critic successfulli SPI initi <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

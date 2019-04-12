@@ -1,6 +1,0 @@
-<title>Assessment Framework Design Evaluat Secur Sensit Architectur </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Poststudi questionnair major particip us ALSAF relationship secur attribut properti pattern architectur level secur analysi <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>Systemat Map Studi Softwar Engineer </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>guidelin systemat map <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>Impact knowledg network structur group perform knowledg worker product softwar compani </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>preliminari guidelin manag result knowledg network <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

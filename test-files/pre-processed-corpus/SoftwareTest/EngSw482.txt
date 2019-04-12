@@ -1,6 +1,0 @@
-<title>manag approach mobil softwar system test </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>paper propos test knowledg manag framework iDEN phone softwar system test how knowledg manag approach can test team term cost product <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

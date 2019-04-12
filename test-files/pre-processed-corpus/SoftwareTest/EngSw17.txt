@@ -1,6 +1,0 @@
-<title>RGA lightweight effect regener genet algorithm coverageori softwar test data gener </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>algorithm experiment basic Random Test sever other method term effici effect Siemen Suit test program more complex real program <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

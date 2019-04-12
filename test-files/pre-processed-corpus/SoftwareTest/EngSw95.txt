@@ -1,6 +1,0 @@
-<title>Goalori dynam test gener </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>effect approach experi number#999 buffer overflow vulner <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

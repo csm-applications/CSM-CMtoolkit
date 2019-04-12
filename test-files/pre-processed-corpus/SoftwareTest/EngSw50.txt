@@ -1,6 +1,0 @@
-<title>Investig softwar test mainten report Case studi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>help singl project local perspect well process whole compani global perspect <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

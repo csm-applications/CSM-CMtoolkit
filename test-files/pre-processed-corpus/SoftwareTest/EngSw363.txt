@@ -1,6 +1,0 @@
-<title>Experiment Measur Effect Mainten Task Program Knowledg </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>signific differ perform two group differ initi task <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

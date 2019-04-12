@@ -1,6 +1,0 @@
-<title>systemat map studi softwar product line test </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>scenario addit investig empir practic should <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>Motiv knowledg share free softwar commun </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Final six main motiv leader quantit phase number#999 member differ free softwar commun <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

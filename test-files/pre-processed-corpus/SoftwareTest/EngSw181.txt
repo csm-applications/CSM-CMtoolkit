@@ -1,6 +1,0 @@
-<title>Knowledg share open sourc softwar commun Motiv manag </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>analysi data individu particip satisfact manag OSS project import factor extent person contribut commun <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>coverag impact code element fault exploratori studi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result evid combin impact analysi branch coverag could highli effect fault edit <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>When softwar test multivoc literatur review </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>qualit analysi code factor when whattoautom question five group Softwar Test SUT relat factor testrel factor testtoolrel factor human factor crosscut other factor <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

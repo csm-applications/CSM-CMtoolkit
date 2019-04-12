@@ -1,6 +1,0 @@
-<title>systemat map studi softwar product line test </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>sever aspect test singlesystem develop approach can not directli SPL context due specif issu <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

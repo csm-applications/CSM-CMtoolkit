@@ -1,6 +1,0 @@
-<title>autom framework softwar test oracl </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Accuraci oracl number#999 oracl number#999 inject fault <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>gener framework automat test techniqu Android mobil app </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result propos gener framework all common characterist onlin test techniqu literatur <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

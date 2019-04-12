@@ -1,6 +1,0 @@
-<title>goalori classif failur behavior XMLbase multimedia softwar applic experiment case studi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Experiment test dimens more effect other failur identif classif <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>Execut analysi massiv sequenc circular bundl view </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>mean distinct usag scenario three differ softwar system how approach applic three typic program comprehens task explor featur locat topdown analysi domain knowledg <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

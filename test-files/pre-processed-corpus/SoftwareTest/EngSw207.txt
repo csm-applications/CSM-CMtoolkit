@@ -1,6 +1,0 @@
-<title>Motiv knowledg share free softwar commun </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result learn eas access knowledg influenc knowledg collect recognit commun support knowledg share knowledg collect influenc knowledg donat profession reason knowledg collect knowledg donat context free softwar commun <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

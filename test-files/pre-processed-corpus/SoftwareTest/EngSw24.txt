@@ -1,6 +1,0 @@
-<title>Softwar testcod engin systemat map </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>studi pool set number#999 studi area STCE number#999 number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

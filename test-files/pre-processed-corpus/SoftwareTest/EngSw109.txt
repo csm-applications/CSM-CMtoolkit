@@ -1,6 +1,0 @@
-<title>Concurr softwar test practic catalog tool </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>larg number tool most academ onli few avail commerci scale <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

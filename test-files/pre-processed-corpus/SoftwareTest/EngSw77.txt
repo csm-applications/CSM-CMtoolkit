@@ -1,6 +1,0 @@
-<title>schedul sequenc messagepass parallel program </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>method reduct method randomli schedul sequenc approach number#999 number#999 execut time program target statement averag respect <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>logist regress model softwar project outcom </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>raw variabl factorbas model significantli better random chanc <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

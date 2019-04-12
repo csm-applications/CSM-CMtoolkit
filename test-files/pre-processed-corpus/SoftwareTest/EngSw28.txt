@@ -1,6 +1,0 @@
-<title>Softwar testcod engin systemat map </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>two main categori qualiti assess activ detect test assert adequaci <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

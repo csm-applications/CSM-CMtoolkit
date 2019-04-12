@@ -1,6 +1,0 @@
-<title>weekli defect inflow larg softwar project project plan test statu </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result predict accuraci model number#999 magnitud rel error predict week advanc number#999 when ongo larg softwar project <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

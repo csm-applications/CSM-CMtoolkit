@@ -1,6 +1,0 @@
-<title>map studi componentbas softwar system metric </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>qualiti assess primari studi mani limit guidelin possibl accept metric <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

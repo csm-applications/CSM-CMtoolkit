@@ -1,6 +1,0 @@
-<title>Web Develop Effort Bayesian Network </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result BNbase predict better previou predict Webbas crosscompani model significantli better predict SWR <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

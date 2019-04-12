@@ -1,6 +1,0 @@
-<title>exploratori studi accuraci FPA COSMIC measur method convers type </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>addit loss measur inform convers process becaus FPA weight system FPA structur problem such illeg scale transform <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

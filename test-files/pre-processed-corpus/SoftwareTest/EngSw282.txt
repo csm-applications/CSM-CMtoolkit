@@ -1,6 +1,0 @@
-<title>TestDriven Develop web servic choreographi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>framework methodolog exploratori studi develop result Rehears veri help applic TDD methodolog develop robust choreographi <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

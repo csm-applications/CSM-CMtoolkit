@@ -1,6 +1,0 @@
-<title>Assessment Framework Design Evaluat Secur Sensit Architectur </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>MannWhitnei test differ group again signific number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

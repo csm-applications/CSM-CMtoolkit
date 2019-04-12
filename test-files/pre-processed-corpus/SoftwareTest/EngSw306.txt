@@ -1,6 +1,0 @@
-<title>analysi research topic softwar engin </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>averag number refer journal paper about number#999 number around number#999 confer paper <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

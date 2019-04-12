@@ -1,6 +1,0 @@
-<title>Concurr softwar test practic catalog tool </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>main result catalog number#999 test tool appropri follow techniqu higher support Java CC <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>Impact Experienc Team Size Qualiti Scenario Architectur Evaluat </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>new person team size more increas scenario coverag less number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

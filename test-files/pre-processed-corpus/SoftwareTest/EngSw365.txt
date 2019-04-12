@@ -1,6 +1,0 @@
-<title>Experiment Measur Effect Mainten Task Program Knowledg </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>not subject measur task time KaplanMei surviv curv Cox Proport Hazard Model data <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

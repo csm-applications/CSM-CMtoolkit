@@ -1,6 +1,0 @@
-<title>Neg sampl reduct crosscompani softwar defect predict </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>CCDP experi result model better overal perform CCDP model <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

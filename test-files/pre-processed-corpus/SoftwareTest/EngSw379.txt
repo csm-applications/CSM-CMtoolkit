@@ -1,6 +1,0 @@
-<title>Impact Experienc Team Size Qualiti Scenario Architectur Evaluat </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result differ score approach frequencybas expert score veri well critic scenario <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>Qualiti servic approach cloud comput systemat map studi </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Infrastructur servic number#999 largest research focu area softwar servic number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

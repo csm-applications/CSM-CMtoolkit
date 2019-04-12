@@ -1,6 +1,0 @@
-<title>neural network approach softwar reliabl model </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>train result much better predict result gener <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

@@ -1,6 +1,0 @@
-<title>case studi number#999 test script clone analysi industri telecommun set </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>also lesson can transfer technolog studi <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

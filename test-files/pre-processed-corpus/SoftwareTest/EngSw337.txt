@@ -1,6 +1,0 @@
-<title>featuredriven crossov oper multiobject evolutionari optim product line architectur </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>result us applic oper <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

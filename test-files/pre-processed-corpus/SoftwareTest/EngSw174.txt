@@ -1,6 +1,0 @@
-<title>Gener minim test suit gener Boolean specif </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Evaluat set commonli benchmark fault coverag number test case can even further other state art strategi <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

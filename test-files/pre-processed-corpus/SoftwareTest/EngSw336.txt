@@ -1,6 +1,0 @@
-<title>cluster class characterist applic </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>addit how variabl combin class characterist mai test class member <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

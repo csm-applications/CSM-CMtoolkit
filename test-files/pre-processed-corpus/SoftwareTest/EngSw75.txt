@@ -1,6 +1,0 @@
-<title>automot test process evidencebas softwar engin </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>input challeng solut valu stream map current futur process <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

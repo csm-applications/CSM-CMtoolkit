@@ -1,6 +1,0 @@
-<title>Motiv Softwar Process Improvement Analysi Vietnames Practition View </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>motiv cost benefici job satisfact knowledg team leader maintainableeasi process share best practic topdown commit <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

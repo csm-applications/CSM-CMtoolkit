@@ -1,6 +1,0 @@
-<title>softwar practic viewpoint organ knowledg manag </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>Further barrier enabl knowledg transfer develop test <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

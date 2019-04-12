@@ -1,6 +1,0 @@
-<title>isol approach symbol executionbas verif Ada program </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>gener verif condit partial correct proof paper <TypeOfResult>Qualitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>

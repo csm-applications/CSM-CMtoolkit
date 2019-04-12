@@ -1,6 +1,0 @@
-<title>Preliminari result studi complet clariti structur abstract </title>
-<context>null</context>
-<objectives>null</objectives>
-<methods>:null</methods>
-<results><result>structur abstract significantli longer origin abstract size differ number#999 word number#999 confid interv number#999 number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
-<conclusions>null</conclusions>
