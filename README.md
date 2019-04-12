@@ -4,10 +4,10 @@ This project was created by the research group of the Federal Technological Univ
 
 # This project contains:
 
-1- Official documentation in the form of a master's thesis defended on 04/02/2018.
-2- Implementation using the Java language of the features described in the documentation.
-3- Python implementation that will be used in future projects
-4- The corpus used to train and test the proposed initiatives.
+- Official documentation in the form of a master's thesis defended on 04/02/2018.
+- Implementation using the Java language of the features described in the documentation.
+- Python implementation that will be used in future projects
+- The corpus used to train and test the proposed initiatives.
 
 # Running the project
 
