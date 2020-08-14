@@ -4,19 +4,21 @@ This project was created by the research group of the Federal Technological Univ
 
 # This project contains:
 
-- Official documentation in the form of a master's thesis defended on 04/02/2018.
-- Implementation using the Java language of the features described in the documentation.
-- Python implementation that will be used in future projects
-- The corpus used to train and test the proposed initiatives.
+- Official documentation presented in a master's thesis document - 04/02/2018;
+- Java implementation of concept map generator;
+- Python implementation (beta version) to be used in future projects;
+-  Annotated corpus of abstracts used for training and testing the proposed approach.
 
 # Running the project
 
-To run this project you must download the Java project. From this you can use each module separately only by solving the dependencies necessary for the project to work.
+To run this project you will need Java (1.8 version).  
+Each module can be used separately, but first you will need to solve all dependencies.
 
-To download Stanford Parser dependencies, go to:
+The main dependency is the Stanford Parser, go to:
 - https://nlp.stanford.edu/software/lex-parser.shtml
 
-The second option is to use the modules for construction of Conceptual Maps present in graphical interface. For this you must import the complete project and resolve the dependencies. Remember to update the paths to the corpus files.
+Use the graphical interface to build Conceptual Maps 
+PS: don't forget to update the paths to the corpus files.
 
 
 # License
