@@ -71,7 +71,7 @@ The graphic interface looks like this after concept map generation:
 
 In your netbeans console you can observe generation progress and some details about classifier training and Open IE extractions. In the current version the classifier achieved this performance:
 
-
+```plaintext
 ------------------Classifier statistics------------------
 
 
@@ -91,6 +91,8 @@ Total Number of Instances                123753
                  0,884    0,284    0,880      0,884    0,882      0,602    0,766     0,842     Qualitative
 Weighted Avg.    0,834    0,234    0,834      0,834    0,834      0,602    0,766     0,758     
 ----------------------------End--------------------------
+```
+
 
 After concept map generation, the window will display the following informations:
 ```plaintext
