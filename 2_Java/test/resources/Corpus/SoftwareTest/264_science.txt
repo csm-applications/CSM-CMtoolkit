@@ -1,0 +1,11 @@
+<title>Comparison of scheduling schemes for on-demand IaaS requests</title> 
+
+Infrastructure-as-a-service (IaaS) is one of emerging powerful cloud computing services provided by \{IT\} industry at present. This paper considers the interaction aspects between on-demand requests and the allocation of virtual machines in a server farm operated by a specific infrastructure owner. We formulate an analytic performance model of the server farm taking into account the quality of service (QoS) guaranteed to users and the operational energy consumption in the server farm. We compare several scheduling algorithms from the aspect of the average energy consumption and heat emission of servers as well as the blocking probabilities of on-demand requests. 
+
+<results>
+	<result>
+		Based on numerical results of a comparison of different allocation strategies, a saving on the energy consumption is possible in the operational range (where on-demand requests do not face unpleasant blocking probability) with the allocation of virtual machines to physical servers based on the priority.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result> 
+</results>
+

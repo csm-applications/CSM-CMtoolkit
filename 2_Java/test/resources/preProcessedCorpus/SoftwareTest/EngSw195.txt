@@ -1,0 +1,6 @@
+<title>exploratori studi accuraci FPA COSMIC measur method convers type </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>convers type most often well convers type transact function size nonlinear inaccur invalid result measur theori <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

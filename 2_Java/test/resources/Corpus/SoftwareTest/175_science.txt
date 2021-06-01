@@ -1,0 +1,23 @@
+<title>Learning from optimization: A case study with Apache Ant</title>
+
+<context>
+Software architecture degrades when changes violating the design-time architectural intents are imposed on the software throughout its life cycle. Such phenomenon is called architecture erosion. When changes are not controlled, erosion makes maintenance harder and negatively affects software evolution.</context>
+Objective
+To study the effects of architecture erosion on a large software project and determine whether search-based module clustering might reduce the conceptual distance between the current architecture and the design-time one.
+Method
+To run an exploratory study with Apache Ant. First, we characterize Ant’s evolution in terms of size, change dispersion, cohesion, and coupling metrics, highlighting the potential introduction of architecture and code-level problems that might affect the cost of changing the system. Then, we reorganize the distribution of Ant’s classes using a heuristic search approach, intending to re-emerge its design-time architecture.
+
+<results>
+	<result>
+		In characterizing the system, we observed that its original, simple design was lost due to maintenance and the addition of new features.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		In optimizing its architecture, we found that current models used to drive search-based software module clustering produce complex designs, which maximize the characteristics driving optimization while producing class distributions that would hardly be acceptable to developers maintaining Ant.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+
+Conclusion
+The structural perspective promoted by the coupling and cohesion metrics precludes observing the adequate software module clustering from the perspective of software engineers when considering a large open source system. Our analysis adds evidence to the criticism of the dogma of driving design towards high cohesion and low coupling, at the same time observing the need for better models to drive design decisions. Apart from that, we see SBSE as a learning tool, allowing researchers to test Software Engineering models in extreme situations that would not be easily found in software projects.

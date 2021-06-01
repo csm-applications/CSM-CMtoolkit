@@ -1,0 +1,21 @@
+<title>Method-level program dependence abstraction and its application to impact analysis</title> 
+
+Abstract The traditional software dependence (TSD) model based on the system dependence graph enables precise fine-grained program dependence analysis that supports a range of software analysis and testing tasks. However, this model often faces scalability challenges that hinder its applications as it can be unnecessarily expensive, especially for client analyses where coarser results suffice. This paper revisits the static-execute-after (SEA), the most recent TSD abstraction approach, for its accuracy in approximating method-level forward dependencies relative to the TSD model. It also presents an alternative approach called the method dependence graph (MDG), compares its accuracy against the SEA, and explores applications of the dependence abstraction in the context of dependence-based impact analysis. Unlike the SEA approach which roughly approximates dependencies via method-level control flows only, the MDG incorporates more fine-grained analyses of control and data dependencies to avoid being overly conservative. Meanwhile, the MDG avoids being overly expensive by ignoring context sensitivity in transitive interprocedural dependence computation and flow sensitivity in computing data dependencies induced by heap objects. 
+
+<results>
+	<result>
+		Our empirical studies revealed that (1) the MDG can approximate the TSD model safely, for method-level forward dependence at least, at much lower cost yet with low loss of precision, 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		(2) for the same purpose, while both are safe and more efficient than the TSD model, the MDG can achieve higher precision than the SEA with better efficiency, both significantly, and 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		(3) as example applications, the MDG can greatly enhance the cost-effectiveness of both static and dynamic impact analysis techniques that are based on program dependence analysis.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result> 
+</results>
+
+More generally, as a program dependence representation, the MDG provides a viable solution to many challenges that can be reduced to balancing cost and effectiveness faced by dependence-based tasks other than impact analysis. 
+

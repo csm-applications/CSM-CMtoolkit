@@ -1,0 +1,6 @@
+<title>Goalori dynam test gener </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>signific improv algorithm two wide search algorithm <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

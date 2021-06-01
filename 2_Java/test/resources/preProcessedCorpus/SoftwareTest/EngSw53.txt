@@ -1,0 +1,6 @@
+<title>semant valid test input constrain input grammar </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>method capabl test requir coverag criteria valid test suit test coverag criteria requir <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

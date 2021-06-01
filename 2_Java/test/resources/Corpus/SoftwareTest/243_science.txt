@@ -1,0 +1,17 @@
+<title>Impartial evaluation in software reliability practice</title>
+
+In the past decade, the size scale of software systems and their technical complexity has become much more complicated. Accordingly, quality assessment of software applications has been intensively investigated lately. Among popular software quality metrics, software reliability has been proven to be one of the most useful indices in evaluating software applications. In the literature, statistical usage testing has been widely shown to be effective in estimating software reliability. Essentially, it first transfers the practical operations of a software system into a usage model, which then forms a basis for performing statistical testing and analyzing software reliability. This research investigates the extension of statistical usage testing by considering any prior information or prejudgment on software quality before performing a validation test, and propose the derivation of impartial reliability evaluation that is fair for both the software producer and consumer (end user).
+
+<results> 
+	<result>
+		A numerical demonstration of validating the correctness of hyper links on a web site via the proposed computation is illustrated and discussed.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The suggested mechanism with some prior information will converge much more quickly than other similar reliability models.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+In addition, the proposed framework also provides the flexibility of taking the practical prejudgment into account. 
+

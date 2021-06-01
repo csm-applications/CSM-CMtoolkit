@@ -1,0 +1,18 @@
+<title>A survey of Western Australian Software Businesses an exlporative web content analysis</title>
+
+This paper surveys the Western Australian Software Businesses. A literature survey of Australian software firms has been done. Documented studies on Australian software businesses includes themes such as quality management systems, knowledge intensive service activities, requirement engineering practices, software testing practices, knowledge management practices and project management practices. 
+<results>
+	<result>
+		The web content analysis shows that there are around 334 western Australian software businesses that have a web presence. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Amongst this there are around 285 project based companies and 49 product based companies which are widespread across twenty towns in the Western Australian state. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		The key business aspects which are primarily important for the success of Western Australian software businesses are identified as the geographic distribution, human resources structure, business incubation and vendor orientation.
+		<TypeOfResult>Qualitative</TypeOfResult>	
+	</result> 
+</results>
+Finally we are outlining a number of implications for Western Australian Software businesses to boost their businesses in the forthcoming years.

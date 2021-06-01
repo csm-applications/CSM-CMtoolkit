@@ -1,0 +1,6 @@
+<title>RGA lightweight effect regener genet algorithm coverageori softwar test data gener </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result algorithm can effect search effici popul test coverag number test case <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

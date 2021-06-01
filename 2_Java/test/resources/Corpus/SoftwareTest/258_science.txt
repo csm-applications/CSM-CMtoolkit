@@ -1,0 +1,11 @@
+<title>An investigation of artificial neural networks based prediction systems in software project management</title>
+
+A critical issue in software project management is the accurate estimation of size, effort, resources, cost, and time spent in the development process. Underestimates may lead to time pressures that may compromise full functional development and the software testing process. Likewise, overestimates can result in noncompetitive budgets. In this paper, artificial neural network and stepwise regression based predictive models are investigated, aiming at offering alternative methods for those who do not believe in estimation models. 
+
+<results>
+	<result>
+		The results presented in this paper compare the performance of both methods and indicate that these techniques are competitive with the APF, SLIM, and COCOMO methods.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

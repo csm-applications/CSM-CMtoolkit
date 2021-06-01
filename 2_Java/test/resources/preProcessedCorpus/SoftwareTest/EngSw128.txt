@@ -1,0 +1,6 @@
+<title>Gener profilebas signatur onlin intrus failur detect </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>approach also applic onlin failur detect Java platform seven opensourc applic number#999 vulnerabilitiesdefect purpos onlin detect attack failur <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

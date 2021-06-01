@@ -74,7 +74,6 @@ public class FilesLoader {
     public static ArrayList<Abstract> loadTrainingData(String pathToFiles) {
         ArrayList<Abstract> abs = new ArrayList<>();
         BufferedReader br = null;
-
         File dir = new File(pathToFiles);
 
         try {

@@ -1,0 +1,21 @@
+<header>
+    
+</header>
+
+<title>Lessons from a cross domain investigation of empirical practices</title>
+
+
+Context: We are seeking the best ways to employ evidence-based practices in software engineering research and practice.
+
+Objectives: To help assess our guidelines for conducting systematic literature reviews we have investigated how other academic disciplines use evidence-based practices.
+
+Method: This involved performing two studies, one using a questionnaire with a set of experts, and a second using semi-structured interviews.
+
+<results>
+	<result>
+		We have identified how disciplines with similar empirical constraints to software engineering place weight upon different forms of empirical data. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions: We describe both the resulting changes to our systematic literature review guidelines and some issues this raises for empirical software engineering.

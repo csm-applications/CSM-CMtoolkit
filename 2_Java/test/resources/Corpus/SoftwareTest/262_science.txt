@@ -1,0 +1,23 @@
+<title>An isolation approach to symbolic execution-based verification of Ada tasking programs </title>
+
+The traditional approach to symbolic execution of concurrent programs relies on interleaving the execution of sequential components to model concurrency. This approach suffers from well-known combinatorial problems, making it unsuitable for formal verification. The paper describes an alternate approach that directly supports formal verification. Symbolic execution is based on an axiomatic proof system for concurrent programs, in which processes are verified separately and then checked for cooperation. Two Hoare-style proof systems for tasking subsets of Ada are adapted for this purpose. 
+
+<results>
+	<result>
+		The result is a computationally tractable approach to symbolic execution which produces verification conditions for proving safety properties of tasking programs. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The generation of verification conditions for the partial correctness proof is described in the paper. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		A companion paper describes the generation of verification conditions for more general safety properties. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The isolation approach provides a basis for automating the verification of Ada tasking programs. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

@@ -1,0 +1,27 @@
+<title>Tools used in Global Software Engineering: A systematic mapping review</title>
+
+<context>
+This systematic mapping review is set in a Global Software Engineering (GSE) context, characterized by a highly distributed environment in which project team members work separately in different countries. This geographic separation creates specific challenges associated with global communication, coordination and control.</context>
+Objective
+The main goal of this study is to discover all the available communication and coordination tools that can support highly distributed teams, how these tools have been applied in GSE, and then to describe and classify the tools to allow both practitioners and researchers involved in GSE to make use of the available tool support in GSE.
+Method
+We performed a systematic mapping review through a search for studies that answered our research question, “Which software tools (commercial, free or research based) are available to support Global Software Engineering?” Applying a range of related search terms to key electronic databases, selected journals, and conferences and workshops enabled us to extract relevant papers. We then used a data extraction template to classify, extract and record important information about the GSD tools from each paper. This information was synthesized and presented as a general map of types of GSD tools, the tool’s main features and how each tool was validated in practice.
+
+<results>
+	<result>
+		The main result is a list of 132 tools, which, according to the literature, have been, or are intended to be, used in global software projects. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		The classification of these tools includes lists of features for communication, coordination and control as well as how the tool has been validated in practice. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		We found that out the total of 132, the majority of tools were developed at research centers, and only a small percentage of tools (18.9%) are reported as having been tested outside the initial context in which they were developed.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+
+Conclusion
+The most common features in the GSE tools included in this study are: team activity and social awareness, support for informal communication, Support for Distributed Knowledge Management and Interoperability with other tools. Finally, there is the need for an evaluation of these tools to verify their external validity, or usefulness in a wider global environment.

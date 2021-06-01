@@ -1,0 +1,6 @@
+<title>random test distribut metric </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>simul empir result newli not onli even test case distribut also failur detect capabl ART <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

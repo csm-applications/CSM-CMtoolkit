@@ -1,0 +1,10 @@
+<title>The PDCA-based software testing improvement framework</title>
+
+As one of the most challenging and costly processes, the software testing provides strong support for the high quality software. The popular process improvement models do not adequately address testing application issues, nor has the knowledge management (KM) implementation in testing been well defined. The plan-do-check-action (PDCA)-based testing improvement framework is proposed to address these issues. The framework contains the adaptive processes definition, the processes implementation and measurement analysis, and benchmarking-based assessment approach.
+
+<results>
+	<result>
+		Experiments show that: the framework can stimulate team member's subjective initiative, promote the software testing process and improve the testing service quality.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+</results>

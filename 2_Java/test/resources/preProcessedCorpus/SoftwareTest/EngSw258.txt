@@ -1,0 +1,6 @@
+<title>gener framework automat test techniqu Android mobil app </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>can experi object comparison differ onlin test approach <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

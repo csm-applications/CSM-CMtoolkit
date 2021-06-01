@@ -1,0 +1,6 @@
+<title>data retent ISBSG repositori </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>justifi formalis data set domaininform refin final usabl data compris number#999 number#999 observ thirteen variabl <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

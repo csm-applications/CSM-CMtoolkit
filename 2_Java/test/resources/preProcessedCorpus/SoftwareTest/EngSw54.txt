@@ -1,0 +1,6 @@
+<title>continu integr deliveri architectur framework </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Cinder architectur framework specif purpos continu integr deliveri system improv previou method <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

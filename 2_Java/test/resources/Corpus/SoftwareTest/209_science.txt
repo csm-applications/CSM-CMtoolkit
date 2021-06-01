@@ -1,0 +1,11 @@
+<title>The impact of accounting for special methods in the measurement of object-oriented class cohesion on refactoring and fault prediction activities</title> 
+
+Class cohesion is a key attribute that is used to assess the design quality of a class, and it refers to the extent to which the attributes and methods of the class are related. Typically, classes contain special types of methods, such as constructors, destructors, and access methods. Each of these special methods has its own characteristics, which can artificially affect the class cohesion measurement. Several metrics have been proposed in the literature to indicate class cohesion during high- or low-level design phases. The impact of accounting for special methods in cohesion measurement has not been addressed for most of these metrics. This paper empirically explores the impact of including or excluding special methods on cohesion measurements that were performed using 20 existing class cohesion metrics. The empirical study applies the metrics that were considered to five open-source systems under four different scenarios, including (1) considering all special methods, (2) ignoring only constructors, (3) ignoring only access methods, and (4) ignoring all special methods. This study empirically explores the impact of including special methods in cohesion measurement for two applications of interest to software practitioners, including refactoring and predicting faulty classes. 
+
+<results>
+	<result>
+		The results of the empirical studies show that the cohesion values for most of the metrics considered differ significantly across the four scenarios and that this difference significantly affects the refactoring decisions, but does not significantly affect the abilities of the metrics to predict faulty classes.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

@@ -1,0 +1,33 @@
+<title>Assessment of a Framework for Designing and Evaluating Security Sensitive Architecture</title>
+
+
+Background: We have developed an Architectural Level Security Analysis Framework (ALSAF), which can be used to consider and address security related issues at software architecture level.
+
+Goal: Our goal was to empirically assess the usefulness of ALSAF for identifying security attributes and security design patterns for satisfying those attributes during architecture design and evaluation.
+
+Assessment approach: The reported assessment was performed with one pilot study and one Quasiexperiment. In the main study, there were 19 software development professionals who participated in the study after attending a training course. The participants were required to identify security attributes and security design patterns suitable for achieving those attributes based on a given list of security properties. One group (control group) was given the textual description of security patterns, attributes, and properties, the other group (treatment group) was given ALSAF as well as the document provided to the control group. The outcome variables were security attributes and security patterns for a Web-based system, whose requirements were provided to the participants.
+
+<results> 
+	<result>
+		The average score for identifying security attributes for the treatment group was 4.56 and for the control group was 2.60. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		The difference between the groups was significant using Mann-Whiney test (p=0.011). 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		The average score for identifying the security patterns for the treatment group was 5.78 and for the control group was 2.8. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Mann-Whitney test revealed that the difference between the groups was again significant at (p=0.022). 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Post-study questionnaire revealed that majority of the participants were convinced of the usefulness of ALSAF in identifying and understanding the relationships between security attributes, properties, and patterns for supporting architectural level security analysis. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion: The findings provide an initial evidence to support the claim of the usefulness of ALSAF for supporting security sensitive analysis during architecture design and evaluation.

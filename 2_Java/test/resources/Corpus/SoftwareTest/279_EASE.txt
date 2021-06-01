@@ -1,0 +1,22 @@
+<title>Comparing Inspection Methods using Controlled Experiments</title>
+
+Objective: In this paper we present an empirical study that was aimed at comparing three software inspection methods, in terms of needed time, precision, and recall values. The main objective of this study is to provide software engineers with some insight into choosing the inspection method to adopt.
+
+Method: We conducted a controlled experiment and a replication. These experiments involved 48 Master students in Computer Science at the University of Salerno. In the experiments, 6 academic researchers were also involved. The students had to discover defects within a software artefact using inspection methods that differ in terms of discipline and flexibility. In particular, we selected a disciplined but not flexible method (the Fagan's process), a disciplined and flexible method (a virtual inspection), and a flexible but not disciplined method (the pair inspection).
+
+<results> 
+	<result>
+		We observed a significant difference in favour of the Pair Inspection method for the time spent to perform the tasks.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The data analysis also revealed a significant difference in favour of the Fagan's inspection process for precision. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Finally, the effect of the inspection method on the recall is not significant.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions: The empirical investigation showed that the discipline and flexibility of an inspection method affect both the time needed to identify defects and the precision of the inspection results. In particular, more flexible methods require less time to inspect a software artefact, while more disciplined methods enable the identification of a lower number of false defects.

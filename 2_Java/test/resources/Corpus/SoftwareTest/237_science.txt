@@ -1,0 +1,22 @@
+<title>An analysis of research topics in software engineering</title>
+
+This paper is the first in a new annual series whose goal is to answer the following question: what are the active research focuses within the field of software engineering? We considered 7 top journals and 7 top international conferences in software engineering and examined all the 691 papers published in these journals or presented at these conferences in 2006. 
+
+<results>
+	<result>
+		Consequently, we have a number of findings.(a) Seventy-three percent of journal papers focus on 20% of subject indexes in software engineering, including Testing and Debugging (D.2.5), Management (D.2.9), and Software/Program Verification (D.2.4).
+		<TypeOfResult>Quantitative</TypeOfResult> 
+	</result>
+	<result>
+		(b) Eighty-nine percent of conference papers focus on 20% of subject indexes in software engineering, including Software/Program Verification (D.2.4), Testing and Debugging (D.2.5), and Design Tools and Techniques (D.2.2). 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		(c) Seventy-seven percent of journal/conference papers focus on 20% of subject indexes in software engineering, including Testing and Debugging (D.2.5), Software/Program Verification (D.2.4), and Management (D.2.9). <TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		(d) The average number of references cited by a journal paper is about 33, whereas this number becomes around 24 for a conference paper. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+

@@ -1,0 +1,23 @@
+<title>A case study in branch testing automation </title>
+
+We present a case study for the empirical validation of the usefulness of two recent research results aimed at improving the branch testing process. The results considered consist of (i) a method for the automatic generation of test paths, and (ii) a bound on the number of tests needed. The validation was conducted within the unit test phase of the software test process of Ericsson Telecomunicazioni on object oriented C++ software, which was developed to control a new generation of telecommunication systems. 
+
+<results>
+	<result>
+		The outcomes confirmed the validity of the path generation method, in that all the derived paths were found feasible. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The case study also provided evidence that this method can reduce the test effort, especially for non-expert testers, though there was not a sufficient amount of results to allow us to quantify this reduction.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		We provide a statistical validation of the performance of the bound.
+		<TypeOfResult>Quantitative</TypeOfResult> 
+	</result>
+	<result>
+		It proved to be a good estimate of the number of tests needed to achieve branch coverage. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+

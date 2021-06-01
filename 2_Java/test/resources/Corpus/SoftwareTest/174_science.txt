@@ -1,0 +1,30 @@
+<title>Exploring the relationship of a file’s history and its fault-proneness: An empirical method and its application to open source programs</title>
+
+<context>
+The knowledge about particular characteristics of software that are indicators for defects is very valuable for testers because it helps them to focus the testing effort and to allocate their limited resources appropriately.</context>
+Objective
+In this paper, we explore the relationship between several historical characteristics of files and their defect count.
+Method
+For this purpose, we propose an empirical approach that uses statistical procedures and visual representations of the data in order to determine indicators for a file’s defect count. We apply this approach to nine open source Java projects across different versions.
+
+<results>
+	<result>
+		Only 4 of 9 programs show moderate correlations between a file’s defects in previous and in current releases in more than half of the analysed releases.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result> 
+	<result>
+		In contrast to our expectations, the oldest files represent the most fault-prone files.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Additionally, late changes correlate with a file’s defect count only partly.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The number of changes, the number of distinct authors performing changes to a file as well as the file’s age are good indicators for a file’s defect count in all projects.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+Our results show that a software’s history is a good indicator for ist quality. We did not find one indicator that persists across all projects in an equal manner. Nevertheless, there are several indicators that show significant strong correlations in nearly all projects: DA (number of distinct authors) and FC (frequency of change). In practice, for each software, statistical analyses have to be performed in order to evaluate the best indicator(s) for a file’s defect count.

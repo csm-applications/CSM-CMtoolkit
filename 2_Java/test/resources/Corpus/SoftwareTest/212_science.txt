@@ -1,0 +1,11 @@
+<title>Synthesizing interpreted domain-specific models to manage smart microgrids </title>
+
+Abstract The increase in prominence of model-driven software development (MDSD) has placed emphasis on the use of domain-specific modeling languages (DSMLs) during the development process. \{DSMLs\} allow for domain concepts to be conceptualized and represented at a high level of abstraction. Currently, most \{DSML\} models are converted into high-level languages (HLLs) through a series of model-to-model and/or model-to-text transformations before they are executed. An alternative approach for model execution is the interpretation of models directly without converting them into an HLL. These models are created using interpreted \{DSMLs\} (i-DSMLs) and realized using a semantic-rich execution engine or domain-specific virtual machine (DSVM). In this article we present an approach for model synthesis, the first stage of model interpretation, that separates the domain-specific knowledge (DSK) from the model of execution (MoE). Previous work on model synthesis tightly couples the \{DSK\} and MoE reducing the ability for implementations of the \{DSVM\} to be easily reused in other domains. To illustrate how our approach to model synthesis works for i-DSMLs, we have created MGridML, an i-DSML for energy management in smart microgrids, and an \{MGridVM\} prototype, the \{DSVM\} for MGridML. 
+
+<results>
+	<result>
+		We evaluated our approach by performing experiments on the model synthesis aspect of MGridVM and comparing the results to a DSVM from the user-centric communication domain.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

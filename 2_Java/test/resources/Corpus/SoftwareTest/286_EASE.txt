@@ -1,0 +1,12 @@
+<title>Patterns of Evolution in the Practice of Distributed Software Development: Quantitative Results from a Systematic Review</title>
+
+Distributed Software Development is recent as a research area. With the evolution of its practice, more questions have emerged, and more research has been conducted. Consequently, this resulted in an increase in the existent literature. At the same time, the diversity of industry experience in the last ten years has been used to develop successful practices. We lack, however, knowledge of patterns of evolution in the practice of distributed software development that have been identified and proposed in the literature. 
+
+<results>
+	<result>
+		In this paper, we present findings from the quantitative analysis of a systematic review of the literature of distributed software development.
+		<TypeOfResult>Quantitative</TypeOfResult> 
+	</result>
+</results>
+
+The goal of the review was to identify papers that either describe existing models referring to patterns of evolution in the practice of distributed software development, or discuss the need for such models.

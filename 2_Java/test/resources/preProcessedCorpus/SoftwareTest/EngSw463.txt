@@ -1,0 +1,6 @@
+<title>number#999 project Lightweight crossproject anomali detect </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>New project can rule anomali code wisdom crowd <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

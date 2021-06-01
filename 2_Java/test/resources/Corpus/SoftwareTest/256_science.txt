@@ -1,0 +1,27 @@
+<title>How do bugs surface? A comprehensive study on the characteristics of software bugs manifestation</title> 
+
+Abstract The impact of software bugs on today’s system failures is of primary concern. Many bugs are detected and removed during testing, while others do not show up easily at development time and manifest themselves only as operational failures. Besides the importance of understanding the bug features from the programmer perspective (i.e., what is wrong in the code), a key role in counteracting bugs is played by the chain that from the bug activation leads to failure. This article investigates the characteristics of the bug manifestation process. Through an extensive empirical study, a set of failure-exposing conditions is first identified as bug manifestation characteristics; 666 bug reports from two applications are then analyzed with respect to these characteristics under several perspectives. 
+
+<results>
+	<result>
+		Findings highlight: (i) the main occurrence patterns of bug triggering conditions in the selected case studies and the role played by the workload, the application and the environment where it runs; 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(ii) how such conditions evolve over time; 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(iii) how they relate to bug exposure and fixing difficulty; 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(iv) how they impact the user. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Results provide a fine-grain characterization of bug manifestation that is expected to increase the perceived importance of this dimension in testing, debugging, and fault tolerance strategies.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

@@ -1,0 +1,6 @@
+<title>Servic Orient Architectur dynam map studi </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>goal monitor test case gener most techniqu function nonfunct properti <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

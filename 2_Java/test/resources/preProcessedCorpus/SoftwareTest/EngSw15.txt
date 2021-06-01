@@ -1,0 +1,6 @@
+<title>Global softwar test deadlin pressur Vendorsid experi </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>vendor team particip product differ client team unproductiveproduct experi <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

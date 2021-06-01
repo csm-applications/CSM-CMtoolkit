@@ -1,0 +1,10 @@
+<title>Optimal software testing and adaptive software testing in the context of software cybernetics</title>
+
+Software cybernetics explores the interplay between software theory/engineering and control theory/engineering. Following the idea of software cybernetics, the controlled Markov chains (CMC) approach to software testing treats software testing as a control problem. The software under test serves as a controlled object, and the (optimal) testing strategy determined by the theory of controlled Markov chains serves as a controller. This paper analyzes the behavior of the corresponding optimal test profile determined by the CMC approach to software testing and introduces adaptive software testing. It is shown that in some cases the optimal test profile is Markovian, whereas in some other cases the optimal test profile demonstrates a different scenario. The adaptive software testing adjusts software testing strategy on-line by using testing data collected during software testing in response to changes in our understanding of the software under test. 
+
+<results>
+	<result>
+		Simulation results show that the adaptive strategy of software testing is feasible and significantly reduces the number of test cases required to detect and remove a certain number of software defects in comparison with the random strategy of software testing
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

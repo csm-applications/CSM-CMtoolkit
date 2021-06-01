@@ -1,0 +1,6 @@
+<title>practic collabor facilit interorganiz softwar construct </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result organ activ mechan softwar construct phase activ technic challeng issu <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

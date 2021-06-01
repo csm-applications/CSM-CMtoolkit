@@ -1,0 +1,11 @@
+<title>Coordination implications of software architecture in a global software development project</title>
+
+In this paper, we report on our experience of using design structure matrices (DSMs), derived from architecture models developed at early stages of the project, to reveal the coordination needs among globally distributed development teams. Our approach is to automatically transform the box-and-line style software architecture model into an augmented constraint network (ACN), from which a DSM can be automatically generated. After that, we represent the coordination structure among the team members as communication matrices (COMs). We then assess the consistency between the DSM and COMs. 
+
+<results>
+	<result>
+		Analysis of data gathered during the Global Studio Project Version 3.0 revealed that the architectural DSM model, representing the software modular structure, is highly consistent with the COMs that represent the actual coordination structure, showing that an architectural DSM has the potential to help guide the task assignments in global software development projects.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+</results>
+

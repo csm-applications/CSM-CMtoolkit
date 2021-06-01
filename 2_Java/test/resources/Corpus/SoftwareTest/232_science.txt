@@ -1,0 +1,20 @@
+<title>High-performance mutation testing </title>
+
+Testing a large software program is a time consuming operation. In addition to the time spent by the tester in identifying, locating, and correcting bugs, a significant amount of time is spent in the execution of the program under test and its instrumented or fault-induced variants, also known as mutants. When using mutation testing to achieve high reliability, there can be many such mutants. In this article, we show how a multiple instruction multiple data (MIMD) architecture can be exploited to obtain significant reductions in the total execution time of the mutants. We describe the architecture of the PM othra system, which is designed to provide the tester with a transparent interface to a parallel machine. 
+
+<results>
+	<result>
+		Experimental results obtained on the Ncube7 hypercube are presented.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The near-linear speedups show the perfect match that exists between the software testing application and a local memory MIMD architecture typified by the Ncube7 machine.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The compilation bottleneck, which could have an adverse effect on the speedup, is illustrated by experimental 
+		results.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result> 
+</results>
+

@@ -1,0 +1,15 @@
+<header>
+    <TypeOfResult>Qualitative</TypeOfResult>
+</header>
+
+<title>Execution trace analysis through massive sequence and circular bundle views</title>
+
+An important part of many software maintenance tasks is to gain a sufficient level of understanding of the system at hand. The use of dynamic information to aid in this software understanding process is a common practice nowadays. A major issue in this context is scalability: due to the vast amounts of information, it is a very difficult task to successfully navigate through the dynamic data contained in execution traces without getting lost. In this paper, we propose the use of two novel trace visualization techniques based on the massive sequence and circular bundle view, which both reflect a strong emphasis on scalability. These techniques have been implemented in a tool called Extravis. 
+
+<results>
+	<result>
+		By means of distinct usage scenarios that were conducted on three different software systems, we show how our approach is applicable in three typical program comprehension tasks: trace exploration, feature location, and top-down analysis with domain knowledge.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+</results>
+

@@ -1,0 +1,6 @@
+<title>model human resourc team softwar project </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>test model implement feasibl all execut implement problemsolv algorithm output solut respons time can accept <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

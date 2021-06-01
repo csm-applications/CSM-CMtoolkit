@@ -1,0 +1,6 @@
+<title>Pattern Evolut Practic Distribut Softwar Develop Quantit Result Systemat Review </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>paper find quantit analysi systemat review literatur softwar develop <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

@@ -1,0 +1,30 @@
+<title>ELBlocker: Predicting blocking bugs with ensemble imbalance learning</title>
+
+<context>
+Blocking bugs are bugs that prevent other bugs from being fixed. Previous studies show that blocking bugs take approximately two to three times longer to be fixed compared to non-blocking bugs.</context>
+Objective
+Thus, automatically predicting blocking bugs early on so that developers are aware of them, can help reduce the impact of or avoid blocking bugs. However, a major challenge when predicting blocking bugs is that only a small proportion of bugs are blocking bugs, i.e., there is an unequal distribution between blocking and non-blocking bugs. For example, in Eclipse and OpenOffice, only 2.8% and 3.0% bugs are blocking bugs, respectively. We refer to this as the class imbalance phenomenon.
+Method
+In this paper, we propose ELBlocker to identify blocking bugs given a training data. ELBlocker first randomly divides the training data into multiple disjoint sets, and for each disjoint set, it builds a classifier. Next, it combines these multiple classifiers, and automatically determines an appropriate imbalance decision boundary to differentiate blocking bugs from non-blocking bugs. With the imbalance decision boundary, a bug report will be classified to be a blocking bug when its likelihood score is larger than the decision boundary, even if its likelihood score is low.
+
+<results>
+	<result>	
+		To examine the benefits of ELBlocker, we perform experiments on 6 large open source projects – namely Freedesktop, Chromium, Mozilla, Netbeans, OpenOffice, and Eclipse containing a total of 402,962 bugs. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		We find that ELBlocker achieves F1 and Effectiveness Ratio 20% scores of up to 0.482 and 0.831, respectively. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		On average across the 6 projects, ELBlocker improves the F1 and Effectiveness Ratio 20% scores over the state-of-the-art method proposed by Garcia and Shihab by 14.69% and 8.99%, respectively. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Statistical tests show that the improvements are significant and the effect sizes are large.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+ELBlocker can help deal with the class imbalance phenomenon and improve the prediction of blocking bugs. ELBlocker achieves a substantial and statistically significant improvement over the state-of-the-art methods, i.e., Garcia and Shihab’s method, SMOTE, OSS, and Bagging.

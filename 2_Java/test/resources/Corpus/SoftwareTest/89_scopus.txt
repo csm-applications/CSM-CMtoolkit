@@ -1,0 +1,18 @@
+<title>Observing software testing practice from the viewpoint of organizations and knowledge management</title>
+
+The objective of this qualitative study was to understand the complex practice of software testing, and based on this understanding, to develop hypotheses on testing organizations and knowledge management. The population of the study consisted of organizational units (OUs) that develop and test technical software for automation or telecommunication domains. First, a survey of testing practices was conducted and 26 OUs were interviewed. From this sample, five OUs were further selected for an in-depth case study. The study used grounded theory as its research method and the data was collected from 41 theme-based interviews. 
+
+<results> 
+	<result>
+		The analysis yielded hypotheses that included that the business orientation of an OU affects testing organization, knowledge management strategy, and outsourcing of testing.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Further, identifying and avoiding barriers and using enablers improve knowledge transfer between development and testing. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The results of this study can be used in developing the testing organization and the knowledge management strategy of an OU.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+</results>

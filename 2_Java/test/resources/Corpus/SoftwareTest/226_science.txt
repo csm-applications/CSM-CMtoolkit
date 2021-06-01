@@ -1,0 +1,11 @@
+<title>Bringing Test-Driven Development to web service choreographies </title>
+
+Abstract Choreographies are a distributed approach for composing web services. Compared to orchestrations, which use a centralized scheme for distributed service management, the interaction among the choreographed services is collaborative with decentralized coordination. Despite the advantages, choreography development, including the testing activities, has not yet evolved sufficiently to support the complexity of the large distributed systems. This substantially impacts the robustness of the products and overall adoption of choreographies. The goal of the research described in this paper is to support the Test-Driven Development (TDD) of choreographies to facilitate the construction of reliable, decentralized distributed systems. To achieve that, we present Rehearsal, a framework supporting the automated testing of choreographies at development-time. In addition, we present a choreography development methodology that guides the developer on applying TDD using Rehearsal.
+
+<results> 
+	<result>
+		To assess the framework and the methodology, we conducted an exploratory study with developers, whose result was that Rehearsal was considered very helpful for the application of TDD and that the methodology helped the development of robust choreographies.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+</results>
+

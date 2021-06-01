@@ -1,0 +1,25 @@
+<title>Evaluating logistic regression models to estimate software project outcomes</title>
+
+<context>
+Software has been developed since the 1960s but the success rate of software development projects is still low. During the development of software, the probability of success is affected by various practices or aspects. To date, it is not clear which of these aspects are more important in influencing project outcome.</context>
+Objective
+In this research, we identify aspects which could influence project success, build prediction models based on the aspects using data collected from multiple companies, and then test their performance on data from a single organization.
+Method
+A survey-based empirical investigation was used to examine variables and factors that contribute to project outcome. Variables that were highly correlated to project success were selected and the set of variables was reduced to three factors by using principal components analysis. A logistic regression model was built for both the set of variables and the set of factors, using heterogeneous data collected from two different countries and a variety of organizations. We tested these models by using a homogeneous hold-out dataset from one organization. We used the receiver operating characteristic (ROC) analysis to compare the performance of the variable and factor-based models when applied to the homogeneous dataset.
+
+<results>
+	<result>
+		We found that using raw variables or factors in the logistic regression models did not make any significant difference in predictive capability. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The prediction accuracy of these models is more balanced when the cut-off is set to the ratio of success to failures in the datasets used to build the models. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		We found that the raw variable and factor-based models predict significantly better than random chance.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+Conclusion
+We conclude that an organization wishing to estimate whether a project will succeed or fail may use a model created from heterogeneous data derived from multiple organizations.

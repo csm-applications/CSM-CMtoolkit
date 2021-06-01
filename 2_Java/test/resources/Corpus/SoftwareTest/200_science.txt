@@ -1,0 +1,22 @@
+<title>An empirical evaluation of defect detection techniques</title>
+
+This report describes an empirical study comparing three defect detection techniques: (a) code reading by stepwise abstraction, (b) functional testing using equivalence partitioning and boundary value analysis, and (c) structural testing using branch coverage. It is a replication of a study that has been carried out at least four times previously over the last 20 years. This study used 47 student subjects to apply the techniques to small C programs in a fractional factorial experimental design. 
+
+<results>
+	<result>
+		The major findings of the study are: (a) that the individual techniques are of broadly similar effectiveness in terms of observing failures and finding faults, 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(b) that the relative effectiveness of the techniques depends on the nature of the program and its faults, 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(c) these techniques are consistently much more effective when used in combination with each other.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		These results contribute to a growing body of empirical evidence that supports generally held beliefs about the effectiveness of defect detection techniques in software engineering.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

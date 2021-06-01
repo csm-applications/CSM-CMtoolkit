@@ -1,0 +1,15 @@
+<title>Does software reliability growth behavior follow a non-homogeneous Poisson process</title>
+
+
+It is widely believed in software reliability community that software reliability growth behavior follows a non-homogeneous Poisson process (NHPP) based on analyzing the behavior of the mean of the cumulative number of observed software failures. In this paper we present two controlled software experiments to examine this belief. The behavior of the mean of the cumulative number of observed software failures and that of the corresponding variance are examined simultaneously. Both empirical observations and statistical hypothesis testing suggest that software reliability behavior does not follow a non-homogeneous Poisson process in general, and does not fit the Goel–Okumoto NHPP model in particular. 
+
+<results>
+	<result>
+		Although this new finding should be further tested on other software experiments, it is reasonable to cast doubt on the validity of the NHPP framework for software reliability modeling. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The importance of the work presented in this paper is not only for the new finding which is distinctly different from existing popular belief of software reliability modeling, but also for the adopted research approach which is to examine the behavior of the mean and that of the corresponding variance simultaneously on basis of controlled software experiments.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

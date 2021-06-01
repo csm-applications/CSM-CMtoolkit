@@ -1,0 +1,14 @@
+<title>A Framework for Effort Management in Software Projects</title>
+
+Objective: The objective of this paper is to provide a framework for effort management in software projects to increase effort estimation accuracy.
+
+Method: We applied a multimethodological approach employing a case study and constructive research.
+
+<results>
+	<result>
+		Based on the case study on four earlier proposed frameworks related to effort management and three popular process maturity assessment models, we constructed a framework to manage effort in a software project in a proactive manner, yet fulfilling the requirements of the assessment models.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions: A project's software engineering process involves various functions which have an effect on the success of effort estimation. Two approaches, proactive and reactive, can be taken to manage effort in a software project. In this paper, a case study is conducted regarding both approaches. Based on the case study, we provide a new framework for effort management in software projects to increase effort estimation accuracy.

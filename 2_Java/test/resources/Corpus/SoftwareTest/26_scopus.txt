@@ -1,0 +1,10 @@
+<title>Exploring knowledge filtering processes in electronic networks of practice</title>
+
+Electronic networks of practice (ENPs) have become an important mechanism for knowledge exchange among loosely connected individuals who share common knowledge interests. While prior research has explored factors that influence knowledge contribution in such networks, less is understood about the process by which individuals evaluate and ultimately adopt knowledge from ENPs. This study examines the process of knowledge filtering in online ENP forums. Drawing from dual process and information-evaluation theories, we hypothesize that performance on a knowledge-filtering task will be influenced by the constancy and directionality of search patterns employed by knowledge seekers. Hypotheses are tested in an experiment that utilized an eye tracker to record gaze data from professional software developers using an experimental ENP forum. By combining information-evaluation and dual process theory perspectives,
+
+<results> 
+	<result>
+		our results deepen the insights offered in extant information-processing literature by showing that higher filtering accuracy is associated with (a) constant evaluation of some types of information attributes (solution content) but not others (peripheral cues), and (b) increasing attribute-based processing over time. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>

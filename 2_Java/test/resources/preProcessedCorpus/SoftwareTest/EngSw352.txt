@@ -1,0 +1,6 @@
+<title>symbol faultpredict model multiobject particl swarm optim </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result interest relationship studi metric fault predict <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

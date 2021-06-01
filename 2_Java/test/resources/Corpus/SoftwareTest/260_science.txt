@@ -1,0 +1,23 @@
+<title>On the estimation of adequate test set size using fault failure rates</title>
+
+Test set size in terms of the number of test cases is an important consideration when testing software systems. Using too few test cases might result in poor fault detection and using too many might be very expensive and suffer from redundancy. We define the failure rate of a program as the fraction of test cases in an available test pool that result in execution failure on that program. This paper investigates the relationship between failure rates and the number of test cases required to detect the faults. 
+
+<results>
+	<result>
+		Our experiments based on 11 sets of C programs suggest that an accurate estimation of failure rates of potential fault(s) in a program can provide a reliable estimate of adequate test set size with respect to fault detection and should therefore be one of the factors kept in mind during test set construction. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Furthermore, the model proposed herein is fairly robust to incorrect estimations in failure rates and can still provide good predictive quality. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Experiments are also performed to observe the relationship between multiple faults present in the same program using the concept of a failure rate. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		When predicting the effectiveness against a program with multiple faults, results indicate that not knowing the number of faults in the program is not a significant concern, as the predictive quality is typically not affected adversely.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

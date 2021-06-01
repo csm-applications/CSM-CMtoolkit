@@ -1,0 +1,6 @@
+<title>Mutat test case gener path select strategi </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Strategi detail prototyp implement experiment result employ set program unit <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

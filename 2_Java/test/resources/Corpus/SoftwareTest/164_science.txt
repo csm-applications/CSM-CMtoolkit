@@ -1,0 +1,18 @@
+<title>Automated generation of test oracles using a model-driven approach</title>
+
+<context>
+Software development time has been reduced with new development tools and paradigms, testing must accompany these changes. In order to release software products in a timely manner as well as to minimise the impact of possible errors introduced during maintenance interventions, testing automation has become a central goal. Whilst research has produced significant results in test case generation and tools for test case (re)-execution, one of the most important open problems in testing is the automation of oracle generation. The oracle decides whether the program under test has or has not behaved correctly and then issues a pass/fail verdict. In most cases, writing the oracle is a time-consuming activity that, moreover, is manual in most cases.</context>
+Objective
+This article automates two important steps in the test oracle: obtention of expected output and its comparison with the actual output, using a model-driven approach.
+Method
+The oracle automation problem is resolved using a model-driven framework, based on OMG standards: UML is used as metamodel and QVT and MOF2Text as transformation languages. The automated testing framework takes the models that describe the system as input, using UML notation and derives from them the test model and then the test code, following a model-driven approach. Test oracle procedures are obtained from a UML state machine.
+
+<results>
+	<result>
+		A complete executable test case at functional test level is obtained, composed of a test procedure with parametrized input test data and expected result automation.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+The oracle automation is obtained using a model-driven approach, test cases are obtained automatically from UML models. The model-driven testing framework was applied to an industrial application and has been useful to testing automation for the main functionalities in the system.

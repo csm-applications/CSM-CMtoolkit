@@ -1,0 +1,6 @@
+<title>Evaluat Function Point MeasurementOri Model </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result variabl measur small on plain FPA literatur <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

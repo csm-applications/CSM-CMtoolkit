@@ -1,0 +1,22 @@
+<title>Systematic analyses and comparison of development performance and product quality of Incremental Process and Agile Process</title>
+
+<context>
+Although Agile software development models have been widely used as a base for the software project life-cycle since 1990s, the number of studies that follow a sound empirical method and quantitatively reveal the effect of using these models over Traditional models is scarce.</context>
+Objective
+This article explains the empirical method of and the results from systematic analyses and comparison of development performance and product quality of Incremental Process and Agile Process adapted in two projects of a middle-size, telecommunication software development company. The Incremental Process is an adaption of the Waterfall Model whereas the newly introduced Agile Process is a combination of the Unified Software Development Process, Extreme Programming, and Scrum.
+Method
+The method followed to perform the analyses and comparison is benefited from the combined use of qualitative and quantitative methods. It utilizes; GQM Approach to set measurement objectives, CMMI as the reference model to map the activities of the software development processes, and a pre-defined assessment approach to verify consistency of process executions and evaluate measure characteristics prior to quantitative analysis.
+
+<results>
+	<result>
+		The results of the comparison showed that the Agile Process had performed better than the Incremental Process in terms of productivity (79%), defect density (57%), defect resolution effort ratio (26%), Test Execution V&amp;V Effectiveness (21%), and effort prediction capability (4%). 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		These results indicate that development performance and product quality achieved by following the Agile Process was superior to those achieved by following the Incremental Process in the projects compared.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+The acts of measurement, analysis, and comparison enabled comprehensive review of the two development processes, and resulted in understanding their strengths and weaknesses. The comparison results constituted objective evidence for organization-wide deployment of the Agile Process in the company.

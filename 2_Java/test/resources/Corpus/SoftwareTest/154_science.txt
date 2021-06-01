@@ -1,0 +1,30 @@
+<header>
+    <TypeOfResult>Qualitative</TypeOfResult>
+</header>
+
+<title>On strategies for testing software product lines: A systematic literature review</title>
+
+<context>
+Testing plays an important role in the quality assurance process for software product line engineering. There are many opportunities for economies of scope and scale in the testing activities, but techniques that can take advantage of these opportunities are still needed.</context>
+Objective
+The objective of this study is to identify testing strategies that have the potential to achieve these economies, and to provide a synthesis of available research on SPL testing strategies, to be applied towards reaching higher defect detection rates and reduced quality assurance effort.
+Method
+We performed a literature review of two hundred seventy-six studies published from the year 1998 up to the 1 st semester of 2013. We used several filters to focus the review on the most relevant studies and we give detailed analyses of the core set of studies.
+
+<results>
+	<result>
+		The analysis of the reported strategies comprised two fundamental aspects for software product line testing: the selection of products for testing, and the actual test of products. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Our findings indicate that the literature offers a large number of techniques to cope with such aspects. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		However, there is a lack of reports on realistic industrial experiences, which limits the inferences that can be drawn.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+This study showed a number of leveraged strategies that can support both the selection of products, and the actual testing of products. Future research should also benefit from the problems and advantages identified in this study.

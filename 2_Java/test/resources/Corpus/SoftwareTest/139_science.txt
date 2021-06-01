@@ -1,0 +1,14 @@
+<title>Anomaly detection in concurrent Java programs using dynamic data flow analysis</title>
+
+Concurrency constructs are widely used when developing complex software such as real-time, networking and multithreaded client–server applications. Consequently, testing a program, which includes concurrency constructs is a very elaborate and complex process. In this work, we first identify the different classes of synchronization anomalies that may occur in concurrent Java programs. 
+
+<results>
+	<result>
+		We then consider testing concurrent Java programs against synchronization anomalies using dynamic data flow analysis techniques.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result> 
+	<result>
+		Moreover, we show how the data flow analysis technique can be extended to detect such anomalies.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

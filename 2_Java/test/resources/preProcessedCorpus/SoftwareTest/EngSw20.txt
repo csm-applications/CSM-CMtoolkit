@@ -1,0 +1,6 @@
+<title>More tester effect crowd size time restrict softwar test </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result show crowd five timerestrict tester number#999 total number#999 more defect singl nontimerestrict tester number#999 <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

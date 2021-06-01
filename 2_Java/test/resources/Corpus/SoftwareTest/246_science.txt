@@ -1,0 +1,13 @@
+<title>Formal modeling in a commercial setting: A case study</title> 
+
+Formal modeling, particularly of software requirements, has long been advocated by the software engineering research community. Usually, such modeling is linked with formal verification and is confined to safety-critical projects where software correctness is the pivotal goal. In contrast, the software industry seeks practical techniques that can be seamlessly integrated into the existing processes and improve productivity; very high quality is often a desirable but not crucial objective. A number of modeling languages have been designed to address this issue, and some have industrial-strength tool support that can be used effectively in commercial settings. This paper describes a case study conducted in collaboration with Nortel Networks to demonstrate the economic feasibility and effectiveness of applying formal modeling techniques to telecommunication systems. A formal specification and description language (SDL) was chosen to model a multimedia-messaging system described by an 80-page natural-language specification. Our model was used to identify errors in the software requirements document and to derive test suites, shadowing the existing development process and keeping track of a variety of productivity data. 
+
+<results> 
+	<result>
+		Our results clearly show that it is possible to use formal modeling in the commercial setting effectively: we were able to locate a number of specification errors that were missed by several manual specification inspections, and used the model to derive the test cases that, by the time we left the project, doubled the number of errors discovered by Nortel testers.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+The formalization did not lengthen the overall time to market of this product. 
+

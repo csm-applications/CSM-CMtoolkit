@@ -1,0 +1,6 @@
+<title>Random test </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>most effect should random test earli stage program test <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

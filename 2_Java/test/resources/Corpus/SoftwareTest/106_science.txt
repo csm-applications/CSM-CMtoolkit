@@ -1,0 +1,34 @@
+<title>Global software testing under deadline pressure: Vendor-side experiences</title>
+
+<context>
+In the era of globally-distributed software engineering, the practice of global software testing (GST) has witnessed increasing adoption. Although there have been ethnographic studies of the development aspects of global software engineering, there have been fewer studies of GST, which, to succeed, can require dealing with unique challenges.</context>
+Objective
+To address this limitation of existing studies, we conducted, and in this paper, report the findings of, a study of a vendor organization involved in one kind of GST practice: outsourced, offshored software testing.
+Method
+We conducted an ethnographically-informed study of three vendor-side testing teams over a period of 2 months. We used methods, such as interviews and participant observations, to collect the data and the thematic-analysis approach to analyze the data.
+
+<results>
+	<result>
+		Our findings describe how the participant test engineers perceive software testing and deadline pressures, the challenges that they encounter, and the strategies that they use for coping with the challenges. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The findings reveal several interesting insights. First, motivation and appreciation play an important role for our participants in ensuring that high-quality testing is performed. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Second, intermediate onshore teams increase the degree of pressure experienced by the participant test engineers.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Third, vendor team participants perceive productivity differently from their client teams, which results in unproductive-productivity experiences. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Lastly, participants encounter quality-dilemma situations for various reasons.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+The study findings suggest the need for (1) appreciating test engineers’ efforts, (2) investigating the team structure’s influence on pressure and the GST practice, (3) understanding culture’s influence on other aspects of GST, and (4) identifying and addressing quality-dilemma situations.

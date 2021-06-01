@@ -1,0 +1,22 @@
+<title>An automated framework for software test oracle</title>
+
+<context>
+One of the important issues of software testing is to provide an automated test oracle. Test oracles are reliable sources of how the software under test must operate. In particular, they are used to evaluate the actual results that produced by the software. However, in order to generate an automated test oracle, oracle challenges need to be addressed. These challenges are output-domain generation, input domain to output domain mapping, and a comparator to decide on the accuracy of the actual outputs.</context>
+Objective
+This paper proposes an automated test oracle framework to address all of these challenges.
+Method
+I/O Relationship Analysis is used to generate the output domain automatically and Multi-Networks Oracles based on artificial neural networks are introduced to handle the second challenge. The last challenge is addressed using an automated comparator that adjusts the oracle precision by defining the comparison tolerance. The proposed approach was evaluated using an industry strength case study, which was injected with some faults. The quality of the proposed oracle was measured by assessing its accuracy, precision, misclassification error and practicality. Mutation testing was considered to provide the evaluation framework by implementing two different versions of the case study: a Golden Version and a Mutated Version. Furthermore, a comparative study between the existing automated oracles and the proposed one is provided based on which challenges they can automate.
+
+<results>
+	<result>
+		Results indicate that the proposed approach automated the oracle generation process 97% in this experiment. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Accuracy of the proposed oracle was up to 98.26%, and the oracle detected up to 97.7% of the injected faults.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+Consequently, the results of the study highlight the practicality of the proposed oracle in addition to the automation it offers.

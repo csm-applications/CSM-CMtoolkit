@@ -1,0 +1,19 @@
+<title>A general framework for comparing automatic testing techniques of Android mobile apps </title>
+
+Abstract As an increasing number of new techniques are developed for quality assurance of Android applications (apps), there is a need to evaluate and empirically compare them. Researchers as well as practitioners will be able to use the results of such comparative studies to answer questions such as, â€œWhat technique should I use to test my app?â€? Unfortunately, there is a severe lack of rigorous empirical studies on this subject. In this paper, for the first time, we present an empirical study comparing all existing fully automatic â€œonlineâ€? testing techniques developed for the Android platform. We do so by first reformulating each technique within the context of a general framework. We recognize the commonalities between the techniques to develop the framework. We then use the salient features of each technique to develop parameters of the framework. The result is a general recasting of all existing approaches in a plug-in based formulation, allowing us to vary the parameters to create instances of each technique, and empirically evaluate them on a common set of subjects. 
+
+<results>
+	<result>
+		Our results show that (a) the proposed general framework abstracts all the common characteristics of online testing techniques proposed in the literature, 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(b) it can be exploited to design experiments aimed at performing objective comparisons among different online testing approaches and 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		(c) some parameters that we have identified influence the performance of the testing techniques.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+</results>
+

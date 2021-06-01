@@ -1,0 +1,15 @@
+<title>A feature-driven crossover operator for multi-objective and evolutionary optimization of product line architectures </title>
+
+Abstract The optimization of a Product Line Architecture (PLA) design can be modeled as a multi-objective problem, influenced by many factors, such as feature modularization, extensibility and other design principles. Due to this it has been properly solved in the Search Based Software Engineering (SBSE) field. However, previous empirical studies optimized \{PLA\} design using the multi-objective and evolutionary algorithm NSGA-II, without applying one of the most important genetic operators: the crossover. To overcome this limitation, this paper presents a feature-driven crossover operator that aims at improving feature modularization in \{PLA\} design. The proposed operator was applied in two empirical studies using NSGA-II in comparison with another version of NSGA-II that uses only mutation operators. 
+
+<results>
+	<result>
+		The results show the usefulness and applicability of the proposed operator.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The NSGA-II version that applies the feature-driven crossover found a greater diversity of solutions (potential PLA designs), with higher feature-based cohesion, and less feature scattering and tangling.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+</results>
+

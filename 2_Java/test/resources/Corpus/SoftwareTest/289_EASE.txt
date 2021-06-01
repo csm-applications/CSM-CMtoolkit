@@ -1,0 +1,26 @@
+<title>Investigating the Use of Chronological Splitting to Compare Software Cross-company and Single-company Effort Predictions</title>
+
+
+Context: Numerous studies have investigated the use of cross-company datasets to estimate effort for single-company projects; however to date only one has compared the effect of using a chronological split instead of a random split to assign projects to a training set and a validation set, finding no significant differences.
+
+Objective: The aim of this study is to extend [15] using a project-by-project chronological split, and also to investigate how this type of split affects the results when comparing within- to cross-company effort estimation.
+
+Method: Chronological splitting was compared with two forms of cross-validation. Here a more realistic form of chronological splitting than the one used in [15] is investigated, in which a validation set contains a single project, and a regression model is built from scratch using as training set the set of projects completed before the validation project’s start date. We used 228 single-company projects and 678 cross-company projects from the ISBSG Release 10 repository.
+
+<results> 
+	<result>
+		We obtained contradictory results when comparing cross- to single-company predictions for single-company
+		 projects. 
+		 <TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		First, when results were compared using absolute residuals there were no differences between cross- and single-company predictions, or between techniques. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		However, when using z values, chronological splitting favoured cross-company models, and cross-validation (both types) favoured single-company models.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions: Results were promising when using project-by-project splitting because: i) they favoured cross-company models; and ii) this type of splitting mimics an effort estimation scenario in a real environment. However, these results were obtained using z values only. Therefore we urge future studies comparing prediction models to document results obtained using both z values and absolute residuals, such that a full picture can be provided.

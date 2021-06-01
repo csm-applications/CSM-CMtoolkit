@@ -1,0 +1,6 @@
+<title>largescal evalu unit test gener EvoSuit </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>studi EvoSuit can good level branch coverag averag number#999 class practic <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

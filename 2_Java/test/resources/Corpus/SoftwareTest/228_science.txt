@@ -1,0 +1,15 @@
+<title>A Case Study of Black Box Fail-Safe Testing in Web Applications</title>
+
+External failures like network changes can affect system operation negatively. Mitigation requirements try to prevent or reduce their effects. This paper presents a black box testing approach that tests fail-safe behavior in web applications. Failure mitigation tests are built based on a functional test suite. Mitigation requirements are used to build mitigation models and mitigation tests paths through them. A genetic algorithm is used to generate failure scenarios (failure mitigation test requirements). Weaving rules describe how mitigation test paths are combined with behavioral test paths to create failure mitigation test paths. These are then transformed into an executable test suite. 
+
+<results>
+	<result>
+		The paper also evaluates the genetic algorithm used to generate test requirements with respect to efficiency and effectiveness.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		A large case study, a commercial mortgage lending system, is used to explore applicability, scalability, and effectiveness of the approach.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

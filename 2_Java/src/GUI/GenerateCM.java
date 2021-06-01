@@ -331,7 +331,7 @@ public class GenerateCM extends javax.swing.JFrame {
 
         }
         
-        
+            
             ArrayList<Abstract> abslist = FilesLoader.loadTrainingData(Paths.CORPUS_SWT);
             txtOutput.append(BasicCmExtractionApproach.generateConceptMap(abslist, toClassify).toString());
 

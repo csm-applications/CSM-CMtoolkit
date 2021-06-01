@@ -1,0 +1,6 @@
+<title>Synthes domainspecif model smart microgrid </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>approach experi model synthesi aspect MGridVM result DSVM usercentr commun domain <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

@@ -1,0 +1,22 @@
+<title>Preliminary results of a study of the completeness and clarity of structured abstracts</title>
+
+
+Context: Systematic literature reviews largely rely upon using the titles and abstracts of primary studies as the basis for determining their relevance. However, our experience indicates that the abstracts for software engineering papers are frequently of such poor quality they cannot be used to determine the relevance of papers. Both medicine and psychology recommend the use of structured abstracts to improve the quality of abstracts.
+
+Aim: This study investigates whether structured abstracts are more complete and easier to understand than non-structured abstracts for software engineering papers that describe experiments.
+
+Method: We constructed structured abstracts for a random selection of 25 papers describing software engineering experiments. The original abstract was assessed for clarity (assessed subjectively on a scale of 1 to 10) and completeness (measured with a questionnaire of 18 items) by the researcher who constructed the structured version. The structured abstract was reviewed for clarity and completeness by another member of the research team. We used a paired 't' test to compare the word length, clarity and completeness of the original and structured abstracts.
+
+<results> 
+	<result>
+		The structured abstracts were significantly longer than the original abstracts (size difference =106.4 words with 95% confidence interval 78.1 to 134.7).
+		<TypeOfResult>Quantitative</TypeOfResult> 
+	</result>
+	<result>
+		However, the structured abstracts had a higher clarity score (clarity difference= 1.47 with 95% confidence interval 0.47 to 2.41) and were more complete (completeness difference=3.39 with 95% confidence intervals 4.76 to 7.56).
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+
+</results>
+
+Conclusions: The results of this study are consistent with previous research on structured abstracts. However, in this study, the subjective estimates of completeness and clarity were made by the research team. Future work will solicit assessments of the structured and original abstracts from independent sources (students and researchers).

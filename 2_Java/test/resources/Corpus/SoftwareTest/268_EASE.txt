@@ -1,0 +1,15 @@
+<title>Predicting Short-Term Defect Inflow in Large Software Projects - An Initial Evaluation</title>
+
+
+Predicting a defect inflow is important for project planning and monitoring purposes. For project planning purposes and for quality management purposes, an important measure is the trend of defect inflow in the project - i.e. how many defects are reported in a particular stage of the project.
+
+Predicting the defect inflow provides a mechanism of early notification whether the project is going to meet the set goals or not. In this paper we present and evaluate a method for predicting defect inflow for large software projects: a method for short-term predictions for up to three weeks in advance on a weekly basis.
+
+The contribution of this paper is the fact that our model is based on the data from project planning, status monitoring, and current trends of defect inflow and produces results applicable for large projects. The method is evaluated by comparing it to existing defect inflow prediction practices (e.g. expert estimations) at one of the large projects at Ericsson.
+
+<results>
+	<result>
+		The results show that the method provides more accurate predictions (in most cases) while decreasing the time required for constructing the predictions using current practices in the company.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

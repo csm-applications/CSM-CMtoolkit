@@ -1,0 +1,15 @@
+<title>Outsourcing and Knowledge Management in Software Testing</title>
+
+
+The objective of this empirical study was to explore outsourcing in software testing and shape hypotheses that explain the association between outsourcing and knowledge management.
+
+First, a survey of testing practices was conducted and 26 organizational units (OUs) were interviewed. From this sample, five OUs were further selected for an in-depth case study.
+
+The study used qualitative grounded theory as its research method and the data was collected from 41 theme-based interviews. The analysis yielded hypotheses that included that the business orientation of an OU affects outsourcing of testing and the knowledge management strategy, outsourcing seems to be more effective when independent testing agencies have enough domain knowledge, and outsourcing verification tasks is more difficult than outsourcing validation tasks.
+
+<results>
+	<result>
+		The results of this study can be used in developing the knowledge management strategy and as guidance in making outsourcing decisions.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

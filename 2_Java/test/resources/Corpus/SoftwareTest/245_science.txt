@@ -1,0 +1,15 @@
+<title>Modelling dynamic memory management in constraint-based testing </title>
+
+Constraint-based testing (CBT) is the process of generating test cases against a testing objective by using constraint solving techniques. When programs contain dynamic memory allocation and loops, constraint reasoning becomes challenging as new variables and new constraints should be created during the test data generation process. In this paper, we address this problem by proposing a new constraint model of C programs based on operators that model dynamic memory management. These operators apply powerful deduction rules on abstract states of the memory enhancing the constraint reasoning process. This allows to automatically generate test data respecting complex coverage objectives. 
+
+<results>
+	<result>
+		We illustrate our approach on a well-known difficult example program that contains dynamic memory allocation/deallocation, structures and loops. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		We describe our implementation and provide preliminary experimental results on this example that show the highly deductive potential of the approach. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

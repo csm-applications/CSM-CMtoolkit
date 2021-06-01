@@ -1,0 +1,14 @@
+<title>Software quality assurance through prototyping and automated testing</title>
+
+Software testing is an important aspect of software quality assurance. As commonly practised software testing is often superficial and inadequate, not because the principles of testing are poorly understood, but because testing simply requires too much time and expertise. If testing is to be performed adequately, much of it must be automated. The paper explores the potential that prototypes offer for software testing and quality assurance and outlines an automated testing strategy that employs prototypes effectively. 
+
+<results>
+	<result>
+		The automated testing strategy is appealing because it allows prototyping, already widely used, to serve multiple purposes. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		To illustrate the strategy's viability, a software development effort is described in which the strategy has been successfully employed.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

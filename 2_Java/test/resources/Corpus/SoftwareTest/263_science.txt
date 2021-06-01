@@ -1,0 +1,11 @@
+<title>A software cybernetics approach to self-tuning performance of on-line transaction processing systems </title>
+
+Abstract Self-tuning performance of On-Line Transaction Processing (OLTP) Systems is a challenging and time-consuming task since multiple performance parameters are needed to be automatically configured in Database Management Systems (DBMSs). In this paper, we present a software cybernetics approach to self-tune the performance of DBMSs. A \{DBMS\} is designed with an adaptive control based on fuzzy logic such that it has the capability to control objects, i.e., the performance parameters, and update the controller itself, i.e., a set of fuzzy rules in our case. The principles and concepts in software cybernetics are applied to guide the synthesis of software controllers for monitoring and adapting system behaviors. 
+
+<results>
+	<result>
+		Experimental results for On-Line Transaction Processing using TPC-C, a benchmark of the Transaction Processing Performance Council, show that the proposed method is feasible and effective.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

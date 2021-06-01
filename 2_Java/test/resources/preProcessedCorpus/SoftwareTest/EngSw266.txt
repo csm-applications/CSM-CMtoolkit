@@ -1,0 +1,6 @@
+<title>systemat comprehens investig method fault predict model </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>regular confus matrix criteria popular not clearli problem hand name costeffect faultpron predict model verif effort softwar less fault less cost <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

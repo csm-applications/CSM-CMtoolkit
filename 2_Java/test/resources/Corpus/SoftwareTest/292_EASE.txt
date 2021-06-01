@@ -1,0 +1,20 @@
+<title>A Correlational Study on Four Measures of Requirements Volatility</title>
+
+Requirements volatility is an important risk factor for software projects. Software measures can help in quantifying and predicting this risk. In this paper, we present the results of a correlational study with the goal of predicting requirements volatility for a medium size software project. 
+
+<results>
+	<result>
+		Based on the data collected from two industrial software projects for four measures of size of requirements (number of actors, use cases, words, and lines), we have evaluated prediction models for requirements volatility. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		These models can help project managers to estimate the volatility of requirements and minimize the risks caused by volatile requirements, like schedule and cost overruns. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		In cross systems validation our best model showed a mean magnitude of relative error (MMRE) of 0.25, which can be considered reliable.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+In an earlier study, we showed that decisions solely based on developers perception of requirements volatility are, instead unreliable. Predictions models, like the ones presented here, can therefore help taking more reliable decisions.

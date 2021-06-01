@@ -1,0 +1,23 @@
+<title>On the neural network approach in software reliability modeling </title>
+
+Previous studies have shown that the neural network approach can be applied to identify defect-prone modules and predict the cumulative number of observed software failures. In this study we examine the effectiveness of the neural network approach in handling dynamic software reliability data overall and present several new findings. Specifically, we find 1. The neural network approach is more appropriate for handling datasets with `smooth' trends than for handling datasets with large fluctuations. 2. 
+
+<results>
+	<result>
+		The training results are much better than the prediction results in general.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		The empirical probability density distribution of predicting data resembles that of training data. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		A neural network can qualitatively predict what it has learned.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Due to the essential problems associated with the neural network approach and software reliability data, more often than not, the neural network approach fails to generate satisfactory quantitative results.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results> 
+

@@ -1,0 +1,6 @@
+<title>isol approach symbol executionbas verif Ada program </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>isol approach basi verif Ada program <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

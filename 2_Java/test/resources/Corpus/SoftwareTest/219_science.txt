@@ -1,0 +1,23 @@
+<title>A systematic and comprehensive investigation of methods to build and evaluate fault prediction models</title> 
+
+This paper describes a study performed in an industrial setting that attempts to build predictive models to identify parts of a Java system with a high fault probability. The system under consideration is constantly evolving as several releases a year are shipped to customers. Developers usually have limited resources for their testing and would like to devote extra resources to faulty system parts. The main research focus of this paper is to systematically assess three aspects on how to build and evaluate fault-proneness models in the context of this large Java legacy system development project: (1) compare many data mining and machine learning techniques to build fault-proneness models, (2) assess the impact of using different metric sets such as source code structural measures and change/fault history (process measures), and (3) compare several alternative ways of assessing the performance of the models, in terms of (i) confusion matrix criteria such as accuracy and precision/recall, (ii) ranking ability, using the receiver operating characteristic area (ROC), and (iii) our proposed cost-effectiveness measure (CE). 
+
+<results>
+	<result>
+		The results of the study indicate that the choice of fault-proneness modeling technique has limited impact on the resulting classification accuracy or cost-effectiveness. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		There is however large differences between the individual metric sets in terms of cost-effectiveness, and although the process measures are among the most expensive ones to collect, including them as candidate measures significantly improves the prediction models compared with models that only include structural measures and/or their deltas between releases – both in terms of \{ROC\} area and in terms of CE. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Further, we observe that what is considered the best model is highly dependent on the criteria that are used to evaluate and compare the models. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		And the regular confusion matrix criteria, although popular, are not clearly related to the problem at hand, namely the cost-effectiveness of using fault-proneness prediction models to focus verification efforts to deliver software with less faults at less cost. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

@@ -1,0 +1,35 @@
+<title>Test case design for context-aware applications: Are we there yet?</title>
+
+<context>
+Current software systems have increasingly implemented context-aware adaptations to handle the diversity of conditions of their surrounding environment. Therefore, people are becoming used to a variety of context-aware software systems (CASS). This context-awareness brings challenges to the software construction and testing because the context is unpredictable and may change at any time. Therefore, software engineers need to consider the dynamic context changes while testing CASS. Different test case design techniques (TCDT) have been proposed to support the testing of CASS. However, to the best of our knowledge, there is no analysis of these proposals on the advantages, limitations and their effective support to context variation during testing.</context>
+
+Objective
+To gather empirical evidence on TCDT concerned with CASS by identifying, evaluating and synthesizing knowledge available in the literature.
+Method
+To undertake a secondary study (quasi-Systematic Literature Review) on TCDT for CASS regarding their assessed quality characteristics, used coverage criteria, test type, and test technique.
+
+<results>
+	<result>
+		From 833 primary studies published between 2004 and 2014, just 17 studies regard the design of test cases for CASS.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Most of them focus on functional suitability. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Furthermore, some of them take into account the changes in the context by providing specific test cases for each context configuration (static perspective) during the test execution. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		These 17 studies revealed five challenges affecting the design of test cases and 20 challenges regarding the testing of CASS. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Besides, seven TCDT are not empirically evaluated.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+A few TCDT partially support the testing of CASS. However, it has not been observed evidence on any TCDT supporting the truly context-aware testing, which that can adapt the expected output based on the context variation (dynamic perspective) during the test execution. It is an open issue deserving greater attention from researchers to increase the testing coverage and ensure users confidence in CASS.

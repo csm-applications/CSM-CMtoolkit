@@ -1,0 +1,10 @@
+<title>Automated test data generation using a scatter search approach</title>
+
+The techniques for the automatic generation of test cases try to efficiently find a small set of cases that allow a given adequacy criterion to be fulfilled, thus contributing to a reduction in the cost of software testing. In this paper we present and analyze two versions of an approach based on the scatter search metaheuristic technique for the automatic generation of software test cases using a branch coverage adequacy criterion. The first test case generator, called TCSS, uses a diversity property to extend the search of test cases to all branches of the program under test in order to generate test cases that cover these. The second, called TCSS-LS, is an extension of the previous test case generator which combines the diversity property with a local search method that allows the intensification of the search for test cases that cover the difficult branches.
+
+<results> 
+	<result>
+		We present the results obtained by our generators and carry out a detailed comparison with many other generators, showing a good performance of our approach.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

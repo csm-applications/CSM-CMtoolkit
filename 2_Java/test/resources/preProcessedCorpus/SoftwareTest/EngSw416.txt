@@ -1,0 +1,6 @@
+<title>Expertbas Web Effort Estimat Model Bayesian Network </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>model date successfulli effort four Web project effort estim superior sole expert opinion <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

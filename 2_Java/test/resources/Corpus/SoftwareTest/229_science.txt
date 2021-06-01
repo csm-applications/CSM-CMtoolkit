@@ -1,0 +1,13 @@
+<title>Module size: A standard or heuristic? </title>
+
+Current and proposed national software development specifications include module size limits in the form of an upper bound per module and an average for a group of modules. This paper claims that commonly specified limits such as 200 executable source statements have little practical value for programmers, and that the limits have not been validated. 
+
+<results>
+	<result>
+		Module size guidelines based on corresponding complexity are derived for identifying extremly long modules, and are recommended for use by software quality engineers in monitoring development methodologies and by test engineers during preacceptance testing.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Finally, research to derive a lower bound guideline for module size is recommended. 
+

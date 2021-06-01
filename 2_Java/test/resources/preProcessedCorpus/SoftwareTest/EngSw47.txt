@@ -1,0 +1,6 @@
+<title>autom framework softwar test oracl </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Result approach oracl gener process number#999 experi <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

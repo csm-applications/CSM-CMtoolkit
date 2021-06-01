@@ -1,0 +1,18 @@
+
+<title>Maximizing data retention from the ISBSG repository</title>
+
+
+Background: In 1997 the International Software Benchmarking Standards Group (ISBSG) began to collect data on software projects. Since then they have provided copies of their repository to researchers and practitioners, through a sequence of releases of increasing size.
+
+Problem: Questions over the quality and completeness of the data in the repository have led some researchers to discard substantial proportions of the data in terms of observations, and to discount the use of some variables in the modelling of, among other things, software development effort. In some cases the details of the discarding of data has received little mention and minimal justification.
+
+Method: We describe the process we used in attempting to maximise the amount of data retained for modelling software development effort at the project level, based on previously completed projects that had been sized using IFPUG/NESMA function point analysis (FPA) and recorded in the repository.
+
+<results> 
+	<result>
+		Through justified formalisation of the data set and domain-informed refinement we arrive at a final usable data set comprising 2862 (of 3024) observations across thirteen variables.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion: a methodical approach to the pre-processing of data can help to ensure that as much data is retained for modelling as possible. Assuming that the data does reflect one or more underlying models, such retention should increase the likelihood of robust models being developed.

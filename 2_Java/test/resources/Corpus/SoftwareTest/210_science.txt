@@ -1,0 +1,21 @@
+<title>A systematic literature review on the industrial use of software process simulation</title> 
+
+AbstractContext Software process simulation modelling (SPSM) captures the dynamic behaviour and uncertainty in the software process. Existing literature has conflicting claims about its practical usefulness: SPSM is useful and has an industrial impact; SPSM is useful and has no industrial impact yet; SPSM is not useful and has little potential for industry. Objective To assess the conflicting standpoints on the usefulness of SPSM. Method A systematic literature review was performed to identify, assess and aggregate empirical evidence on the usefulness of SPSM. 
+
+<results>
+	<result>
+		Results In the primary studies, to date, the persistent trend is that of proof-of-concept applications of software process simulation for various purposes (e.g. estimation, training, process improvement, etc.). 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		They score poorly on the stated quality criteria.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Also only a few studies report some initial evaluation of the simulation models for the intended purposes.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+Conclusion There is a lack of conclusive evidence to substantiate the claimed usefulness of SPSM for any of the intended purposes. A few studies that report the cost of applying simulation do not support the claim that it is an inexpensive method. Furthermore, there is a paramount need for improvement in conducting and reporting simulation studies with an emphasis on evaluation against the intended purpose. 
+

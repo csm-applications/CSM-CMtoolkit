@@ -1,0 +1,21 @@
+<title>A Preliminary Study of Sequence Effects in Judgment-based Software Development Work-Effort Estimation</title>
+
+
+Context: Software development effort estimates are often inaccurate, and this inaccuracy cause problems for the clients as well as the providers. Consequently, we need more knowledge about the estimation processes, so that we can improve them.
+
+Objective: This study investigates how initial judgment-based estimation of work effort in software development affects subsequent, unrelated estimation work.
+
+Method: Fifty-six software professionals from the same company were allocated randomly to two groups. One group estimated the most likely effort required to complete a small software development task, while the other group estimated the effort required to complete a large task. After that, all the subjects estimated the effort required to complete the same medium-sized task. We replicated the experiment in another company (with 17 software professionals).
+
+<results> 
+	<result>
+		We found that sequence effects may have a strong impact on judgment-based effort estimates. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Both in the first experiment and in the replication, the subsequent estimates were assimilated towards the subjects’ initial estimate, i.e., the group that began with a small task supplied, on average, lower estimates of the medium-sized task than the group that began with the large task.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+</results>
+
+Conclusion: The results of this study suggest that knowledge about sequence effects may be important in order to improve estimation processes. However, currently we have a quite incomplete understanding of how, when and how much sequence effects affect effort estimation. Consequently, further research is needed.

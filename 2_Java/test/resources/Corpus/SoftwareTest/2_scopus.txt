@@ -1,0 +1,10 @@
+<title>Conceptualizing organizational innovation: The case of the Brazilian software industry</title>
+
+
+This paper presents and tests a conceptual model that explains the innovation practices and innovation outcomes in Brazilian software firms. <results>In terms of internal and external innovation capabilities, the ability to manage the relationship between people and their organizational contexts plays an important role in organizational innovation.
+<results> 
+	<result> 
+		Based on these results, we propose that the disparities between software firms in building organizational innovation can be attributed, in part, to differences in their internal capabilities.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> The paper aims at encouraging and supporting managers to develop internal capabilities as a means of effectively leveraging the internally and externally distributed knowledge essential to innovation development.

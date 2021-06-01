@@ -1,0 +1,35 @@
+<title>How are software defects found? The role of implicit defect detection</title>
+
+<context>
+Prior research has focused heavily on explicit defect detection, such as formal testing and reviews. However, in reality, humans find software defects in various activities. Implicit defect detection activities, such as preparing a product demonstration or updating a user manual, are not designed for defect detection, yet through such activities defects are discovered. In addition, the type of documentation, and knowledge used, in defect detection is diverse.</context>
+Objective
+To understand how defect detection is affected by the perspectives of responsibility, activity, knowledge, and document use. To provide illustrative numbers concerning the multidimensionality of defect detection in an industrial context.
+Method
+The data were collected with a survey on four software development organizations in three different companies. We designed the survey based on our prior extensive work with these companies.
+
+<results>
+	<result>
+		We found that among our subjects (n = 105), implicit defect detection made a higher contribution than explicit defect detection in terms of found defects, 62% vs. 38%. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		We show that defect detection was performed by subjects in various roles supporting the earlier reports of testing being a cross-cutting activity in software development organizations. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		We found a low use of test cases (18%), but a high use of other documents in software defect detection, and furthermore, we found that personal knowledge was applied as an oracle in defect detection much more often than documented oracles.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Finally, we recognize that contextual factors largely affect the transferability of our results, and we provide elaborate discussion about the most important contextual factors. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Furthermore, we must be cautious as the results were obtained with a survey, and come from a small number of organizations.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions
+In this paper, we show the large impact of implicit defect detection activities in four case organizations. Implicit defect detection has a large contribution to defect detection in practice, and can be viewed as an extremely low-cost way of detecting defects. Thus, harnessing and supporting it better may increase quality without increasing costs. For example, if an employee can update the user manual, and simultaneously detect defects from the software, then the defect detection part of this activity can be seen as cost-free. Additionally, further research is needed on how diverse types of useful documentation and knowledge can be utilized in defect detection.
+Keywords: Software testing; Defect detection; Activities; Documents; Human factors; Industrial questionnaire study

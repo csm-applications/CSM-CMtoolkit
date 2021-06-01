@@ -1,0 +1,6 @@
+<title>logist regress model softwar project outcom </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>predict accuraci model more balanc when cutoff ratio success failur dataset model <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

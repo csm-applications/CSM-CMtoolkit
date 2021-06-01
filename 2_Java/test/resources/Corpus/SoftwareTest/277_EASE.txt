@@ -1,0 +1,24 @@
+<header>
+    <TypeOfResult>Quantitative</TypeOfResult>
+</header>
+
+
+<title>An Evaluation of Function Point Counting Based on Measurement-Oriented Models</title>
+
+Objective: It is well known that Function Point Analysis suffers from several problems. In particular, the measurement criteria and procedure are not defined precisely. Even the object of the measurement is not defined precisely: it is given by whatever set of documents and information representing the user requirements. As a consequence, measurement needs to be performed by an "expert", who can compensate the lack of precision of the method with the knowledge of common practices and interpretations. The paper aims at evaluating a methodology for function point measurement based on the representation of the system through UML models: this methodology aims at providing a precise definition of the object of the measurement, as well as the measurement procedure and rules.
+
+Methods: An experimental application of the methodology is presented. A set of analysts (having different degrees of experience) were trained in the methodology and were then given the same requirements to model. The resulting models were measured by a few measurers, also trained in UML model-based counting.
+
+<results> 
+	<result>
+		The results show that the variability of the FP measure is small compared to the one obtained after applying "plain" FPA, as described in the literature.
+		<TypeOfResult>Quantitative</TypeOfResult> 
+	</result>
+	<result>
+		More precisely, whereas the influence of the modeller on the result appears to be negligible (i.e., a counter gets the same results from different models of the same application), the variability due to the measurer is more significant (i.e., different counters get different results from the same model), but still small when compared to the results reported in the literature on FPA.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+
+</results>
+
+Conclusions: The number of data points that we were able to collect was not big enough to allow reliable conclusions from a rigorous statistical viewpoint. Nevertheless, the results of the experiment tend to confirm that the considered technique decreases noticeably the variability of FP measures.

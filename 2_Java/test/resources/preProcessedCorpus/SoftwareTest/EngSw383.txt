@@ -1,0 +1,6 @@
+<title>Evaluat Function Point MeasurementOri Model </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>More precis influenc model result neglig ie counter same result differ model same applic variabl due measur more signific ie differ counter differ result same model still small when result literatur FPA <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

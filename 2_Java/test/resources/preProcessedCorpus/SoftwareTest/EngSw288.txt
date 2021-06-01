@@ -1,0 +1,6 @@
+<title>Softwar metric program train tool </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result studi gener outlin softwar complex concept should program cours <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

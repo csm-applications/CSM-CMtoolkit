@@ -1,0 +1,15 @@
+<title>Cost optimization approaches for scientific workflow scheduling in cloud and grid computing: A review, classifications, and open issues</title> 
+
+Abstract Workflow scheduling in scientific computing systems is one of the most challenging problems that focuses on satisfying user-defined quality of service requirements while minimizing the workflow execution cost. Several cost optimization approaches have been proposed to improve the economic aspect of Scientific Workflow Scheduling (SWFS) in cloud and grid computing. To date, the literature has not yet seen a comprehensive review that focuses on approaches for supporting cost optimization in the context of \{SWFS\} in cloud and grid computing. Furthermore, providing valuable guidelines and analysis to understand the cost optimization of \{SWFS\} approaches is not well-explored in the current literature. This paper aims to analyze the problem of cost optimization in \{SWFS\} by extensively surveying existing \{SWFS\} approaches in cloud and grid computing and provide a classification of cost optimization aspects and parameters of SWFS. Moreover, it provides a classification of cost based metrics that are categorized into monetary and temporal cost parameters based on various scheduling stages. 
+
+<results>
+	<result>	
+		We believe that our findings would help researchers and practitioners in selecting the most appropriate cost optimization approach considering identified aspects and parameters.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		In addition, we highlight potential future research directions in this on-going area of research. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

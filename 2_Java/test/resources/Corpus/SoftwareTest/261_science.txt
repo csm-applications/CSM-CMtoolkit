@@ -1,0 +1,15 @@
+<title>A symbolic fault-prediction model based on multiobjective particle swarm optimization</title>
+
+In the literature the fault-proneness of classes or methods has been used to devise strategies for reducing testing costs and efforts. In general, fault-proneness is predicted through a set of design metrics and, most recently, by using Machine Learning (ML) techniques. However, some \{ML\} techniques cannot deal with unbalanced data, characteristic very common of the fault datasets and, their produced results are not easily interpreted by most programmers and testers. Considering these facts, this paper introduces a novel fault-prediction approach based on Multiobjective Particle Swarm Optimization (MOPSO). Exploring Pareto dominance concepts, the approach generates a model composed by rules with specific properties. These rules can be used as an unordered classifier, and because of this, they are more intuitive and comprehensible. Two experiments were accomplished, considering, respectively, fault-proneness of classes and methods. 
+
+<results>
+	<result>
+		The results show interesting relationships between the studied metrics and fault prediction. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		In addition to this, the performance of the introduced \{MOPSO\} approach is compared with other \{ML\} algorithms by using several measures including the area under the \{ROC\} curve, which is a relevant criterion to deal with unbalanced data. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+

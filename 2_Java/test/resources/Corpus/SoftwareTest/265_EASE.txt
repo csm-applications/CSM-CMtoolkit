@@ -1,0 +1,15 @@
+<title>Assessment of a Framework for Comparing Software Architecture Analysis Methods</title>
+
+
+We have developed a framework, FOCSAAM, for comparing software architecture analysis methods. FOCSAAM can help architects and managers to choose a specific method to support architecture analysis process.
+
+We have been assessing the suitability of the framework’s elements in different ways. During the development of FOCSAAM, a theoretical assessment was performed by relating each of its elements to the published literature on quality assurance, process improvement, and software development approaches. Moreover, we have also found that most of the elements of FOCSAAM can also be mapped onto the elements of a well-known framework for comparing information systems development methods, NIMSAD framework.
+
+Our goal of this study was to further assess the suitability of different elements of FOCSAAM by using the expert opinion approach. We asked 17 practicing architects with extensive experience to assess the suitability of the elements of FOCSAAM for selecting a particular method to support the software architecture analysis process. 
+
+<results>
+	<result>
+		The findings of this study provide support for each element of FOCSAAM to be included in forming criteria for comparing software architecture analysis methods.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

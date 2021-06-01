@@ -1,0 +1,41 @@
+<title>A follow-up empirical evaluation of evidence based software engineering by undergraduate students</title>
+
+
+Context: Evidence Based Software Engineering (EBSE) has recently been proposed as a methodology to help practitioners improve their technology adoption decisions given their particular circumstances. Formally, Systematic Literature Reviews (SLRs) are a part of EBSE. There has been a noticeable take up of SLRs by researchers, but little has been published on whether, and then how, the EBSE methodology has been applied in full.
+
+Objectives: To empirically evaluate the use of EBSE by undergraduate students. To consider how insights into the students' performance with EBSE can be applied to software practitioners' expected performance with EBSE. To gain insights into the use of Supplementary EBSE Guidelines and associated Assessment Schemes.
+
+Method: 37 final-year undergraduate students completed a coursework assessment that required them to use EBSE to evaluate one or more of four Requirements Management Tools (RMTs): Telelogic DOORs®, Borland's Caliber® Analyst, Compuware Optimal Trace™, and GODA ARTS. Students were provided with a range of EBSE resources, including a set of Supplementary EBSE Guidelines, to assist them with their EBSE evaluation. An Assessment Scheme was development to assess the degree to which students followed the Supplementary Guidelines. A feedback questionnaire, completed by 12 of the 37 students, complemented the Assessment Scheme.
+
+<results> 
+	<result>
+		78% of students chose to evaluate a RMT that is currently a market leader. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		62% of students subsequently recommended the adoption of their chosen RTM. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Some students made a recommendation because the Guidelines indicated they should, rather than making a recommendation because the evidence 'entailed' that recommendation. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Only 8% of students intentionally made no recommendation, and this seems to be on the basis of the poor quality of evidence available on the chosen RMT(s). 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		All 12 students who completed the feedback questionnaire reported that this was the hardest or nearly the hardest assessment that the student had ever done! 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		67% of these 12 students reported that they had not given themselves sufficient time to complete the evaluation, and 83% reported that they had to balance their time on this evaluation with other commitments. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		The 12 students found EBSE steps 1 and 4 to be the easiest and EBSE steps 2 and 3 to be the hardest, and they generally reported that they had received sufficient support from the EBSE resources made available to them
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion: This study presents independent, empirical evidence of the full use of EBSE, to complement the growing body of published SLRs. We believe that the findings on students' use of EBSE are relevant to understanding professional practitioners' prospective use of EBSE. Both students and professionals would: find EBSE very challenging, in particular the SLRs; be subject to constraints and trade-offs; may not be able to find relevant and rigorous evidence; and may make errors in their critical thinking whilst conducting the evaluation. Our findings should benefit researchers, practitioners and educators.

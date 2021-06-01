@@ -1,0 +1,13 @@
+<title>Combining mutation and fault localization for automated program debugging </title>
+
+Abstract This paper proposes a strategy for automatically fixing faults in a program by combining the ideas of mutation and fault localization. Statements ranked in order of their likelihood of containing faults are mutated in the same order to produce potential fixes for the faulty program. The proposed strategy is evaluated using 8 mutant operators against 19 programs each with multiple faulty versions. 
+
+<results>
+	<result>
+		Our results indicate that 20.70% of the faults are fixed using selected mutant operators, suggesting that the strategy holds merit for automatically fixing faults.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result> 
+</results>
+
+The impact of fault localization on efficiency of the overall fault-fixing process is investigated by experimenting with two different techniques, Tarantula and Ochiai, the latter of which has been reported to be better at fault localization than Tarantula, and also proves to be better in the context of fault-fixing using our proposed strategy. Further experiments are also presented to evaluate stopping criteria with respect to the mutant examination process and reveal that a significant fraction of the (fixable) faults can be fixed by examining a small percentage of the program code. We also report on the relative fault-fixing capabilities of mutant operators used and present discussions on future work. 
+

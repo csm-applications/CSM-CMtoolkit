@@ -1,0 +1,34 @@
+<title>Testing in Service Oriented Architectures with dynamic binding: A mapping study</title>
+
+<context>
+Service Oriented Architectures (SOA) have emerged as a new paradigm to develop interoperable and highly dynamic applications.</context>
+Objective
+This paper aims to identify the state of the art in the research on testing in Service Oriented Architectures with dynamic binding.
+Method
+A mapping study has been performed employing both manual and automatic search in journals, conference/workshop proceedings and electronic databases.
+
+<results>
+	<result>
+		A total of 33 studies have been reviewed in order to extract relevant information regarding a previously defined set of research questions.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		The detection of faults and the decision making based on the information gathered from the tests have been identified as the main objectives of these studies.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		To achieve these goals, monitoring and test case generation are the most proposed techniques testing both functional and non-functional properties.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Furthermore, different stakeholders have been identified as participants in the tests, which are performed in specific points in time during the life cycle of the services.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		Finally, it has been observed that a relevant group of studies have not validated their approach yet.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions
+Although we have only found 33 studies that address the testing of SOA where the discovery and binding of the services are performed at runtime, this number can be considered significant due to the specific nature of the reviewed topic. The results of this study have contributed to provide a body of knowledge that allows identifying current gaps in improving the quality of the dynamic binding in SOA using testing approaches.

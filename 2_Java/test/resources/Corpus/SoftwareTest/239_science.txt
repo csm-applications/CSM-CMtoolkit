@@ -1,0 +1,15 @@
+<title>Towards semi-automated assignment of software change requests </title>
+
+Abstract Change Requests (CRs) are key elements to software maintenance and evolution. Finding the appropriate developer to a \{CR\} is crucial for obtaining the lowest, economically feasible, fixing time. Nevertheless, assigning \{CRs\} is a labor-intensive and time consuming task. In this paper, we report on a questionnaire-based survey with practitioners to understand the characteristics of \{CR\} assignment, and on a semi-automated approach for \{CR\} assignment which combines rule-based and machine learning techniques. In accordance with the results of the survey, the proposed approach emphasizes the use of contextual information, essential to effective assignments, and puts the development team in control of the assignment rules, toward making its adoption easier. The assignment rules can be either extracted from the assignment history or created from scratch. An empirical validation was performed through an offline experiment with CRs from a large software project. 
+
+<results>
+	<result>
+		The results pointed out that the approach is up to 46.5% more accurate than other approaches which relying solely on machine learning techniques.
+		<TypeOfResult>Quantitative</TypeOfResult> 
+	</result>
+	<result>
+		This indicates that a rule-based approach is a viable and simple method to leverage CR assignments.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

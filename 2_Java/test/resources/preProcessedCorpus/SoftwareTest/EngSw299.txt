@@ -1,0 +1,6 @@
+<title>Methodlevel program depend abstract applic impact analysi </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>same purpos safe more effici TSD model MDG can higher precis SEA better effici significantli <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

@@ -1,0 +1,8 @@
+<title>The SAVE approach to component-based development of vehicular systems</title>
+
+The component-based strategy aims at managing complexity, shortening time-to-market, and reducing maintenance requirements by building systems with existing components. The full potential of this strategy has not yet been demonstrated for embedded software, mainly because of specific requirements in the domain, e.g., those related to timing, dependability, and resource consumption. We present SaveCCT – a component technology intended for vehicular systems, show the applicability of SaveCCT in the engineering process, and demonstrate its suitability for vehicular systems in an industrial case-study. 
+<results>
+	Our experiments indicate that SaveCCT provides appropriate expressiveness, resource efficiency, analysis and verification support for component-based development of vehicular software.
+	<TypeOfResult>Qualitative</TypeOfResult>
+</results> 
+

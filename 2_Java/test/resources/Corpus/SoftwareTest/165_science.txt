@@ -1,0 +1,18 @@
+<title>Reducing test effort: A systematic mapping study on existing approaches</title>
+
+<context>
+Quality assurance effort, especially testing effort, is often a major cost factor during software development, which sometimes consumes more than 50% of the overall development effort. Consequently, one major goal is often to reduce testing effort.</context>
+Objective
+The main goal of the systematic mapping study is the identification of existing approaches that are able to reduce testing effort. Therefore, an overview should be presented both for researchers and practitioners in order to identify, on the one hand, future research directions and, on the other hand, potential for improvements in practical environments.
+Method
+Two researchers performed a systematic mapping study, focusing on four databases with an initial result set of 4020 articles. In total, we selected and categorized 144 articles.
+
+<results>
+	<result>
+		Five different areas were identified that exploit different ways to reduce testing effort: approaches that predict defect-prone parts or defect content, automation, test input reduction approaches, quality assurance techniques applied before testing, and test strategy approaches.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+The results reflect an increased interest in this topic in recent years. A lot of different approaches have been developed, refined, and evaluated in different environments. The highest attention was found with respect to automation and prediction approaches. In addition, some input reduction approaches were found. However, in terms of combining early quality assurance activities with testing to reduce test effort, only a small number of approaches were found. Due to the continuous challenge of reducing test effort, future research in this area is expected.

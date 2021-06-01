@@ -1,0 +1,14 @@
+<title>Predicting weekly defect inflow in large software projects based on project planning and test status</title>
+
+Defects discovered during the testing phase in software projects need to be removed before the software is shipped to the customers. The removal of defects can constitute a significant amount of effort in a project and project managers are faced with a decision whether to continue development or shift some resources to cope with defect removal. The goal of this research is to improve the practice of project management by providing a method for predicting the number of defects reported into the defect database in the project. In this paper we present a method for predicting the number of defects reported into the defect database in a large software project on a weekly basis. The method is based on using project progress data, in particular the information about the test progress, to predict defect inflow in the next three coming weeks. 
+
+<results>
+	<result>
+		The results show that the prediction accuracy of our models is up to 72% (mean magnitude of relative error for predictions of 1 week in advance is 28%) when used in ongoing large software projects. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		The method is intended to support project managers in more accurate adjusting resources in the project, since they are notified in advance about the potentially large effort needed to correct defects.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

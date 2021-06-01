@@ -1,0 +1,16 @@
+<title>Mutation-oriented test data augmentation for GUI software fault localization</title>
+
+<context>
+Fault localization lies at the heart of program debugging and often proceeds by contrasting the statistics of program constructs executed by passing and failing test cases. A vital issue here is how to obtain these “suitable” test cases. Techniques presented in the literature mostly assume the existence of a large test suite a priori. However, developers often encounter situations where a failure occurs, but where no or no appropriate test suite is available for use to localize the fault.</context>
+Objective
+This paper aims to alleviate this key limitation of traditional fault localization techniques for GUI software particularly, namely, it aims at enabling cost-effective fault localization process for GUI software in the described scenario.
+Method
+To address this scenario, we propose a mutation-oriented test data augmentation technique, which actually is directed by the “similarity” criterion in GUI software’s test case context towards the generation of test suite with excellent fault localization capabilities. More specifically, the technique mainly uses four proposed novel mutation operators to iteratively mutate some failing GUI test cases’ event sequences to derive new test cases potentially useful to localize the specific encountered fault. We then compare the fault localization performance of the test suite generated using this technique with that of an original provided large event-pair adequate test suite on some GUI applications.
+
+<results>
+	The results indicate that the proposed technique is capable of generating a test suite that has comparable, if not better, fault localization effectiveness to the event-pair adequate test suite, but it is much smaller and it is generated immediately once a failure is encountered by developers.
+	<TypeOfResult>Qualitative</TypeOfResult>
+</results>
+
+Conclusion
+It is concluded that the proposed technique can truly enable quick-start cost-effective fault localization process under the investigated all-too-common scenario, greatly alleviating one key limitation of traditional fault localization techniques and prompting the test–diagnose–repair cycle.

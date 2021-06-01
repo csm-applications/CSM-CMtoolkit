@@ -1,0 +1,6 @@
+<title>Evaluat autom softwar test product </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>differ approach manag lesson softwar test engin everydai experi two basic goal us applic <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

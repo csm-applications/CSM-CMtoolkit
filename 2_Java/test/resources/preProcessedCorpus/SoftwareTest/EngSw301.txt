@@ -1,0 +1,6 @@
+<title>softwar test fixedmemori feedback </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>comprehens case studi Space program new adapt test strategi can realli practic mai notic purelyrandom test strategi randompartit test strategi collect random test strategi term number test number defect singl process softwar test correspond standard deviat <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

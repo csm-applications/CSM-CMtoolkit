@@ -1,0 +1,22 @@
+<title>Analyzing the relationships between inspections and testing to provide a software testing focus</title>
+
+<context>
+Quality assurance effort, especially testing effort, is frequently a major cost factor during software development. Consequently, one major goal is often to reduce testing effort. One promising way to improve the effectiveness and efficiency of software quality assurance is the use of data from early defect detection activities to provide a software testing focus. Studies indicate that using a combination of early defect data and other product data to focus testing activities outperforms the use of other product data only. One of the key challenges is that the use of data from early defect detection activities (such as inspections) to focus testing requires a thorough understanding of the relationships between these early defect detection activities and testing. An aggravating factor is that these relationships are highly context-specific and need to be evaluated for concrete environments.</context>
+Objective
+The underlying goal of this paper is to help companies get a better understanding of these relationships for their own environment, and to provide them with a methodology for finding relationships in their own environments.
+Method
+This article compares three different strategies for evaluating assumed relationships between inspections and testing. We compare a confidence counter, different quality classes, and the F-measure including precision and recall.
+
+<results>
+	<result>
+		One result of this case-study-based comparison is that evaluations based on the aggregated F-measures are more suitable for industry environments than evaluations based on a confidence counter. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Moreover, they provide more detailed insights about the validity of the relationships.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+We have confirmed that inspection results are suitable data for controlling testing activities. Evaluated knowledge about relationships between inspections and testing can be used in the integrated inspection and testing approach In2Test to focus testing activities. Product data can be used in addition. However, the assumptions have to be evaluated in each new context.

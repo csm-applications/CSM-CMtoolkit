@@ -1,0 +1,11 @@
+<title>Object-oriented design patterns recovery</title> 
+
+Object-Oriented (OO) design patterns are an emergent technology: they are reusable micro-architectures, high-level building blocks. A system which has been designed using well-known, documented and accepted design patterns is also likely to exhibit good properties such as modularity, separation of concerns and maintainability. While for forward engineering the benefits of using design patterns are clear, using reverse engineering technologies to discover instances of patterns in a software artifact (e.g., design or code) may help in several key areas, among which are program understanding, design-to-code traceability and quality assessment. This paper describes a conservative approach and experimental results, based on a multi-stage reduction strategy using \{OO\} software metrics and structural properties to extract structural design patterns from \{OO\} design or C++ code. To assess the effectiveness of the pattern recovery approach, a process and a portable tool suite written in Java, remotely accessible by means of any \{WEB\} browser, has been developed. 
+
+<results>
+	<result>
+		The developed system and experimental results on 8 industrial software (design and code) and 200,000 lines of public domain C++ code are presented. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+

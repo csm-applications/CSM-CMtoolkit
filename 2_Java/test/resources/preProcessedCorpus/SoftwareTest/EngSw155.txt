@@ -1,0 +1,6 @@
+<title>suit reduct method decreas regress test irreplac test </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>empir result present algorithm repres set normal low cost high level test coverag <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

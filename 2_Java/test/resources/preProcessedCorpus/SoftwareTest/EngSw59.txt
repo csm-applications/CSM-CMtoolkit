@@ -1,0 +1,6 @@
+<title>case studi number#999 test script clone analysi industri telecommun set </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>differ distribut clone test script distribut clone applic statist signific <TypeOfResult>Quantitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

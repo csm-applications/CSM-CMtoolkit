@@ -1,0 +1,21 @@
+<title>Analogy-based software effort estimation using Fuzzy numbers</title> 
+
+Background Early stage software effort estimation is a crucial task for project bedding and feasibility studies. Since collected data during the early stages of a software development lifecycle is always imprecise and uncertain, it is very hard to deliver accurate estimates. Analogy-based estimation, which is one of the popular estimation methods, is rarely used during the early stage of a project because of uncertainty associated with attribute measurement and data availability. Aims We have integrated analogy-based estimation with Fuzzy numbers in order to improve the performance of software project effort estimation during the early stages of a software development lifecycle, using all available early data. Particularly, this paper proposes a new software project similarity measure and a new adaptation technique based on Fuzzy numbers. Method Empirical evaluations with Jack-knifing procedure have been carried out using five benchmark data sets of software projects, namely, ISBSG, Desharnais, Kemerer, Albrecht and COCOMO, and results are reported.
+
+<results> 
+	<result>
+		The results are compared to those obtained by methods employed in the literature using case-based reasoning and stepwise regression.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result> 
+	<result>
+		Results In all data sets the empirical evaluations have shown that the proposed similarity measure and adaptation techniques method were able to significantly improve the performance of analogy-based estimation during the early stages of software development. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The results have also shown that the proposed method outperforms some well know estimation techniques such as case-based reasoning and stepwise regression.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+Conclusions It is concluded that the proposed estimation model could form a useful approach for early stage estimation especially when data is almost uncertain. 
+

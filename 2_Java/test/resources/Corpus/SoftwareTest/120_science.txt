@@ -1,0 +1,22 @@
+<title>New bounds for mixed covering arrays in t-way testing with uniform strength</title>
+
+<context>
+Combinatorial testing (CT) can increase the effectiveness of software testing by ensuring that all t-way input combinations are covered in a test suite. When software components have different input cardinalities, CT uses a mixed covering array (MCA) to represent the test suite. This study proposes a new methodology for constructing MCAs of t ∈ { 2 - 6 } by using Mixed-Tabu Search (MiTS) as the construction strategy.</context>
+Objective
+The objective of this study is to significantly improve the best bounds of MCAs of t ∈ { 2 - 6 } with uniform strength.
+Method
+The proposed solution incorporates a new procedure for efficient parameter tuning where statistical testing is used to identify the setting values that significantly affect the performance of MiTS. For validation purposes, we used a robust benchmark that comprised a set of 35 instances of real cases and a set of 95 academic instances, which represented the best bounds reported previously.
+
+<results>
+	<result>
+		The experimental results showed that our MiTS-based methodology improved 93 bounds and matched 36 of them.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		The Wilcoxon signed-rank test demonstrated that our MiTS-based methodology significantly enhanced the best bounds of MCAs compared with those reported previously with 95% confidence.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+MCAs for t-way testing with a good solution quality (in terms of test size), which involves artificial intelligence-based strategies, may be obtained by following a well-established methodology during the construction process.

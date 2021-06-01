@@ -1,0 +1,19 @@
+<title>Mutation based test case generation via a path selection strategy</title>
+
+
+<context>
+Generally, mutation analysis has been identified as a powerful testing method. Researchers have shown that its use as a testing criterion exercises quite thoroughly the system under test while it achieves to reveal more faults than standard structural testing criteria. Despite its potential, mutation fails to be adopted in a widespread practical use and its popularity falls significantly short when compared with other structural methods. This can be attributed to the lack of thorough studies dealing with the practical problems introduced by mutation and the assessment of the effort needed when applying it. Such an incident, masks the real cost involved preventing the development of easy and effective to use strategies to circumvent this problem.</context>
+Objective
+In this paper, a path selection strategy for selecting test cases able to effectively kill mutants when performing weak mutation testing is presented and analysed.
+Method
+The testing effort is highly correlated with the number of attempts the tester makes in order to generate adequate test cases. Therefore, a significant influence on the efficiency associated with a test case generation strategy greatly depends on the number of candidate paths selected in order to achieve a predefined coverage goal. The effort can thus be related to the number of infeasible paths encountered during the test case generation process. An experiment, investigating well over 55 million of program paths is conducted based on a strategy that alleviates the effects of infeasible paths.
+
+<results>
+	<result>
+		Strategy details, along with a prototype implementation are reported and analysed through the experimental results obtained by its employment to a set of program units.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+The results obtained suggest that the strategy used can play an important role in making the mutation testing method more appealing and practical.

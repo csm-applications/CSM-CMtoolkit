@@ -1,0 +1,22 @@
+<title>RGA: A lightweight and effective regeneration genetic algorithm for coverage-oriented software test data generation</title>
+
+<context>
+Genetic algorithm (GA) is an important intelligent method in the area of automatic software test data generation. However, existing GAs tend to get trapped in the local optimal solution, leading to population aging, which can significantly reduce the benefits of GA-based software testing and increase cost and effort. Although much attention has been focused on solving this problem by improving chromosome population, genetic operations, and genetic parameters adjustment, the applicability of most of the algorithms proposed is often narrow because of the complex operations involved and nondeterminism inherited from traditional GAs.</context>
+Objectives
+This paper proposes a new algorithm called the regenerate genetic algorithm (RGA), which is based on a new simple, stable, and easy-to-implement regeneration strategy that involves judging the population aging process.
+Methods
+We propose a new regeneration strategy—called Regenerate Genetic Algorithm (RGA)—that solves these problems easily and effectively. The proposed strategy defines population aging factors and process in order to determine the degree of population aging. Subsequently, when population aging has reached a certain limit, a population regeneration operation is triggered. In contrast to other improved methods, the proposed regeneration strategy for population aging easily achieves a stronger ability to jump out of the local optimal solution, thereby preventing population aging and effectively improving test coverage, without modifying any parameter of the original GA.
+
+<results>
+	<result>
+		The proposed algorithm is experimentally evaluated by comparing it to the basic GA, Random Testing (RT) and several other methods in terms of both efficiency and effectiveness on the Siemens Suite of test programs and a more complex real program. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The results obtained indicate that the proposed algorithm can effectively increase search efficiency, restrain population aging, increase test coverage, and reduce the number of test cases.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion
+RGA has better optimization ability than the conventional algorithms, especially for large-scale and highly complex programs.

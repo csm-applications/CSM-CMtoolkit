@@ -1,0 +1,15 @@
+<title>Adaptive software testing with fixed-memory feedback </title>
+
+Adaptive software testing is the counterpart of adaptive control in software testing. It means that software testing strategy should be adjusted on-line by using the testing data collected during software testing as our understanding of the software under test is improved. In this paper we propose a new strategy of adaptive software testing in the context of software cybernetics. This new strategy employs fixed-memory feedback for on-line parameter estimations and is intended to circumvent the drawbacks of the assumption that all remaining defects are equally detectable at constant rate and to reduce the underlying computational complexity of on-line parameter estimations. 
+
+<results>
+	<result>
+		A comprehensive case study with the Space program demonstrates that the new adaptive testing strategy can really work in practice and may noticeably outperform the purely-random testing strategy and the random-partition testing strategy (or collectively, the random testing strategies) in terms of the number of tests used to detect and remove a given number of defects in a single process of software testing and the corresponding standard deviation.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+	<result>
+		In addition, the case study shows that the input domain of the software under test should be partitioned non-evenly for the adaptive testing strategy.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

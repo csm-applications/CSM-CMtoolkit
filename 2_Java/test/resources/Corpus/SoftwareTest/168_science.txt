@@ -1,0 +1,23 @@
+<title>Fault-based test suite prioritization for specification-based testing</title>
+
+<context>
+Existing test suite prioritization techniques usually rely on code coverage information or historical execution data that serve as indicators for estimating the fault-detecting ability of test cases. Such indicators are primarily empirical in nature and not theoretically driven; hence, they do not necessarily provide sound estimates. Also, these techniques are not applicable when the source code is not available or when the software is tested for the first time.</context>
+Objective
+We propose and develop the novel notion of fault-based prioritization of test cases which directly utilizes the theoretical knowledge of their fault-detecting ability and the relationships among the test cases and the faults in the prescribed fault model, based on which the test cases are generated.
+Method
+We demonstrate our approach of fault-based prioritization by applying it to the testing of the implementation of logical expressions against their specifications. We then validate our proposal by an empirical study that evaluates the effectiveness of prioritization techniques using two different metrics.
+
+<results>
+	<result>
+		A theoretically guided fault-based prioritization technique generally outperforms other techniques under study, as assessed by two different metrics. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		Our empirical results also show that the technique helps to reveal all target faults by executing only about 72% of the prioritized test suite, thereby reducing the effort required in testing.
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusions
+The fault-based prioritization approach is not only applicable to the instance empirically validated in this paper, but should also be adaptable to other fault-based testing strategies. We also envisage new research directions to be opened up by our work.
+Keywords: Fault-based prioritization; Fault-based testing; Fault class hierarchy; Software testing; Specification-based testing; Test suite prioritization

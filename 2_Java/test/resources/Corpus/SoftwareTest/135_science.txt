@@ -1,0 +1,20 @@
+<title>Is business domain language support beneficial for creating test case specifications: A controlled experiment</title>
+
+<context> Behavior Driven Development (BDD), widely used in modern software development, enables easy creation of acceptance test case specifications and serves as a communication basis between business- and technical-oriented stakeholders. BDD is largely facilitated through simple domain specific languages (DSL) and usually restricted to technical test domain concepts. Integrating business domain concepts to implement a ubiquitous language for all members of the development team is an appealing test language improvement issue. But the integration of business domain concepts into BDD toolkits has so far not been investigated.</context>
+
+Objective: The objective of the study presented in this paper is to examine whether supporting the ubiquitous language features inside a DSL, by extending a DSL with business domain concepts, is beneficial over using a DSL without those concepts. In the context of the study, benefit is measured in terms of perceived quality, creation time and length of the created test case specifications. In addition, we analyze if participants feel supported when using predefined business domain concepts.
+
+Method: We investigate the creation of test case specifications, similar to BDD, in a controlled student experiment performed with graduate students based on a novel platform for DSL experimentation. The experiment was carried out by two groups, each solving a similar comparable test case, one with the simple DSL, the other one with the DSL that includes business domain concepts. A crossover design was chosen for evaluating the perceived quality of the resulting specifications.
+
+<results> 
+	<result>
+		Our experiment indicates that a business domain aware language allows significant faster creation of documents without lowering the perceived quality. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		Subjects felt better supported by the DSL with business concepts.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
+
+Conclusion: Based on our findings we propose that existing BDD toolkits could be further improved by integrating business domain concepts.

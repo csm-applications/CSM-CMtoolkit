@@ -1,0 +1,10 @@
+<title>A software up-gradation model with testing effort and two types of imperfect debugging</title>
+
+Recent advances in the software world have seen the rise of various Software Reliability Growth Models (SRGMs). These SRGMs take into account various factors and associate them to reliability to come out with a new approach. Some of them consider calendar time as the governing factor while others argued that effort based modeling is more towards reality. In the real industrial scenario, due to the ever growing demands of the customer and stiff contention in the market, developers generally prefer to release the software with multiple versions instead of rolling out all the functionalities at one go. Consequently the customary approach towards software development process as observed in practice is iterative in nature. Moreover, the debugging process is not a perfect event. It has bottlenecks owing to the increasing complexity of software due to up gradations which transcends the limited knowledge of testing team. Thus, it is not a practical approach to go with the assumption of fault removal with certainty after the failure is observed. In a real scenario, it may happen that initially the testing team may not be skilled enough to detect all the faults leading to imperfect debugging, also during debugging it may happen that some faults are added fault causing error generation. Some models successfully capture the influence of imperfect debugging on multiple releases of software. In this present paper, we present a two stage detection/correction based software reliability growth model with testing effort, integrating the concept of two types of imperfect debugging in multiple up gradations of a software. We have taken Exponential and logistic distribution functions for detection and correction process in this paper. 
+
+<results>
+<result>
+The proposed model is successfully tested on a real life software data set.
+<TypeOfResult>Qualitative</TypeOfResult>
+</result>
+</results>

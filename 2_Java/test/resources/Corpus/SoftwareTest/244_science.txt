@@ -1,0 +1,17 @@
+<title>A cybernetics Social Cloud </title>
+
+Abstract This paper proposes a Social Cloud, which presents the system design, development and analysis. The technology is based on the \{BOINC\} open source software, our hybrid Cloud, Facebook Graph \{API\} and our development in a new Facebook API, SocialMedia. The creation of SocialMedia \{API\} with its four functions can ensure a smooth delivery of Big Data processing in the Social Cloud, with four selected examples provided. The proposed solution is focused on processing the contacts who click like or comment on the author's posts. Outputs result in visualization with their core syntax being demonstrated. Four functions in the SocialMedia \{API\} have evaluation test and each client-server \{API\} processing can be completed efficiently and effectively within 1.36 s. We demonstrate large scale simulations involved with 50,000 simulations and all the execution time can be completed within 70,000 s. Cybernetics functions are created to ensure that 100% job completion rate for Big Data processing.
+
+<results> 
+	<result>
+		Results support our case for Big Data processing on Social Cloud with no costs involved. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		All the steps involved have closely followed system design, implementation, experiments and validation for Cybernetics to ensure a high quality of outputs and services at all times.
+		<TypeOfResult>Qualitative</TypeOfResult> 
+	</result>
+</results>
+
+This offers a unique contribution for Cybernetics to meet Big Data research challenges. 
+

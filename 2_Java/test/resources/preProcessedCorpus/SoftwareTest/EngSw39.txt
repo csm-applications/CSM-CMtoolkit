@@ -1,0 +1,6 @@
+<title>motiv commun gener gener babi boomer </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>result questionnair survei intergener commun <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

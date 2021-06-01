@@ -1,0 +1,11 @@
+<title>Adaptive random testing based on distribution metrics</title>
+
+Random testing (RT) is a fundamental software testing technique. Adaptive random testing (ART), an enhancement of RT, generally uses fewer test cases than \{RT\} to detect the first failure. ART generates test cases in a random manner, together with additional test case selection criteria to enforce that the executed test cases are evenly spread over the input domain. Some studies have been conducted to measure how evenly an ART algorithm can spread its test cases with respect to some distribution metrics. These studies observed that there exists a correlation between the failure detection capability and the evenness of test case distribution. Inspired by this observation, we aim to study whether failure detection capability of ART can be enhanced by using distribution metrics as criteria for the test case selection process. 
+
+<results>
+	<result>
+		Our simulations and empirical results show that the newly proposed algorithms not only improve the evenness of test case distribution, but also enhance the failure detection capability of ART.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+

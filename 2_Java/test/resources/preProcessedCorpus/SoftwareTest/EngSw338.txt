@@ -1,0 +1,6 @@
+<title>featuredriven crossov oper multiobject evolutionari optim product line architectur </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>NSGAII version featuredriven crossov greater divers solut potenti PLA design higher featurebas cohes less featur <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

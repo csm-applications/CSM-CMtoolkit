@@ -1,0 +1,10 @@
+<title>An experimental study of four typical test suite reduction techniques</title>
+
+In software development, developers often rely on testing to reveal bugs. Typically, a test suite should be prepared before initial testing, and new test cases may be added to the test suite during the whole testing process. This may usually cause the test suite to contain more or less redundancy. In other words, a subset of the test suite (called the representative set) may still satisfy all the test objectives. As the redundancy can increase the cost of executing the test suite, quite a few test suite reduction techniques have been brought out in spite of the NP-completeness of the general problem of finding the optimal representative set of a test suite. In the literature, there have been some experimental studies of test suite reduction techniques, but the limitations of the these experimental studies are quite obvious. Recently proposed techniques are not experimentally compared against each other, and reported experiments are mainly based on small programs or even simulation data. This paper presents a new experimental study of the four typical test suite reduction techniques, including Harrold et al.’s heuristic, and three other recently proposed techniques such as Chen and Lau’s GRE heuristic, Mansour and El-Fakin’s genetic algorithm-based approach, and Black et al.’s ILP-based approach. 
+
+<results> 
+	<result>
+		Based on the results of this experimental study, we also provide a guideline for choosing the appropriate test suite reduction technique and some insights into why the techniques vary in effectiveness and efficiency.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>

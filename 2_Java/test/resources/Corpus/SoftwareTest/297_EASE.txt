@@ -1,0 +1,14 @@
+<title>Building an Expert-based Web Effort Estimation Model using Bayesian Networks</title>
+
+Objective - The objective of this paper is to describe a case study where Bayesian Networks (BNs) were used to construct an expert-based Web effort model.
+
+Method - We built a single-company BN model solely elicited from expert knowledge, where the domain expert was an experienced Web project manager from a small Web company in Auckland, New Zealand. This model was validated using data from eight past finished Web projects.
+
+<results>
+	<result>
+		The BN model has to date been successfully used to estimate effort for four Web projects, providing effort estimates superior to those based solely on expert opinion. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>	
+</results>
+
+Conclusions - Our results suggest that, at least for the Web Company that participated in this case study, the use of a model that allows the representation of uncertainty, inherent in effort estimation, can outperform expert-based estimates. Another five companies have also benefited from using Bayesian Networks, with very promising results.

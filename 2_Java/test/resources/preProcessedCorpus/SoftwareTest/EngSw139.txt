@@ -1,0 +1,6 @@
+<title>softwar reliabl estim adapt </title>
+<context>null</context>
+<objectives>null</objectives>
+<methods>:null</methods>
+<results><result>Data show reliabl estim MAT closer true reliabl random test <TypeOfResult>Qualitative</TypeOfResult></result></results>
+<conclusions>null</conclusions>

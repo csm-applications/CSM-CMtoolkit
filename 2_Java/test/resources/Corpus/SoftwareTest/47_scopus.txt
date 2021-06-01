@@ -1,0 +1,20 @@
+<title>The effect of onsite-offshore work division on project cost, schedule, and quality for re-engineering projects in Indian outsourcing software industry</title>
+
+Purpose – The aim of this paper is to make an attempt to find good values of onsite– offshore team strength; number of hours of communication between business users and onsite team and between onsite and offshore team to reduce cost and improve schedule for re-engineering projects in global software development environment. Design/methodology/approach – The system dynamics technique is used for simulation model construction and policy run experimentation. The experts from Indian software outsourcing industry were consulted for model construction, validation and analysis of policy run results in both co-located and distributed software development environment. 
+
+<results> 
+	<result>
+		Findings – The study results show that there is a drop in the overall team productivity in outsourcing environment by considering the offshore options. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		But the project cost can be reduced by employing the offshore team for coding and testing work only with minimal training for imparting business knowledge. 
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+	<result>
+		The research results show that there is a potential to save project cost by being flexible in project schedule.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results> 
+
+Research limitations/implications – The study found that there could be substantial cost saving for re-engineering projects with a loss of project schedule when an appropriate onsite– offshore combination is used. The quality and productivity drop, however, were rather small for such combinations. The cost savings are high when re-engineering work is sent to offshore location entirely after completion of requirement analysis work at onsite location and providing training to offshore team in business knowledge The research findings show that there is potential to make large cost savings by being flexible in project schedule for re-engineering projects. Practical implications – The software project manager can use the model results to divide the software team between onsite and offshore location during various phases of software development in distributed environment. Originality/value – The study is novel as there is little attempt at finding the team distribution between onsite and offshore location in global software development environment.

@@ -1,0 +1,14 @@
+<title>Impact of knowledge network structure on group performance of knowledge workers in a product software company</title>
+
+It is a generally accepted idea today that knowledge networks play a crucial role in organizations. Knowledge networks refer to knowledge sharing and learning as a result of social interactions between employees in an organization. Being aware of the importance of these knowledge networks, it is of interest to any organization to understand how the performance of these networks is influenced by their design. Based on literature we defined 7 hypotheses concerning how the structure of knowledge networks contributes to the performance of these networks. For testing our hypotheses we collected network data from 18 knowledge networks within the product line of an international product software company developing ERP software. Data was collected by asking employees about their learning relations and the frequency of knowledge transfer (independent variable). Furthermore, we asked all respondents about the extent to which they feel that the knowledge they receive influences their perceived job performance, which we converted into a group performance measure to measure the performance on network level (dependent variable). To test our hypotheses we applied correlation analysis, which showed that only part of our hypotheses is supported by the data.
+
+<results>
+	<result>
+		We found support for a statistically significant relation with group performance for efficiency and transitivity, and marginal support for density and connectedness. 
+		<TypeOfResult>Quantitative</TypeOfResult>
+	</result>
+	<result>
+		From this we derived preliminary guidelines for managers to help them get results from their knowledge networks.
+		<TypeOfResult>Qualitative</TypeOfResult>
+	</result>
+</results>
