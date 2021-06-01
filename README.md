@@ -64,6 +64,11 @@ These paths reference the files that contains stopwords, symbols to remove. In a
 
 I recommend to use the graphical interface to build Conceptual Maps. You can easily find it in source package > GUI > main.java. In this interface you will find an windows to place your abstract divided in five different classifications (context, objective, methods, results, conclusion). After placing your abstract, click on "Generate" and wait for the program output your concept maps.
 
+The graphic interface looks like this after concept map generation:
+
+![alt text](https://github.com/csm-applications/CSM-CMtoolkit/blob/master/1_Documentation/CMGeneratorScreenshot.JPG)
+
+
 In your netbeans console you can observe generation progress and some details about classifier training and Open IE extractions. In the current version the classifier achieved this performance:
 
 
