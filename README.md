@@ -68,32 +68,6 @@ The graphic interface looks like this after concept map generation:
 
 ![alt text](https://github.com/csm-applications/CSM-CMtoolkit/blob/master/1_Documentation/CMGeneratorScreenshot.JPG)
 
-
-In your netbeans console you can observe generation progress and some details about classifier training and Open IE extractions. In the current version the classifier achieved this performance:
-
-```plaintext
-------------------Classifier statistics------------------
-
-
-Correctly Classified Instances           103219               83.4073 %
-Incorrectly Classified Instances          20534               16.5927 %
-Kappa statistic                          0.6016
-Mean absolute error                      0.1672
-Root mean squared error                  0.4074
-Relative absolute error                 40.0142 %
-Root relative squared error             89.1071 %
-Total Number of Instances                123753     
-
-=== Detailed Accuracy By Class ===
-
-                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
-                 0,716    0,116    0,723      0,716    0,719      0,602    0,766     0,560     Quantitative
-                 0,884    0,284    0,880      0,884    0,882      0,602    0,766     0,842     Qualitative
-Weighted Avg.    0,834    0,234    0,834      0,834    0,834      0,602    0,766     0,758     
-----------------------------End--------------------------
-```
-
-
 After concept map generation, the window will display the following informations:
 ```plaintext
 
@@ -139,6 +113,31 @@ After concept map generation, the window will display the following informations
 which can be summarized visually in:
 
 ![alt text](https://github.com/csm-applications/CSM-CMtoolkit/blob/master/1_Documentation/GeneratedCMExample.jpg)
+
+
+Regarding the classifier efficiency, in netbeans console you can observe generation progress and some details about classifier training and Open IE extractions. In the current version the classifier achieved this performance:
+
+```plaintext
+------------------Classifier statistics------------------
+
+
+Correctly Classified Instances           103219               83.4073 %
+Incorrectly Classified Instances          20534               16.5927 %
+Kappa statistic                          0.6016
+Mean absolute error                      0.1672
+Root mean squared error                  0.4074
+Relative absolute error                 40.0142 %
+Root relative squared error             89.1071 %
+Total Number of Instances                123753     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,716    0,116    0,723      0,716    0,719      0,602    0,766     0,560     Quantitative
+                 0,884    0,284    0,880      0,884    0,882      0,602    0,766     0,842     Qualitative
+Weighted Avg.    0,834    0,234    0,834      0,834    0,834      0,602    0,766     0,758     
+----------------------------End--------------------------
+```
 
 
 # License
