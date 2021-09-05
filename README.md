@@ -115,7 +115,9 @@ which can be summarized visually in:
 ![alt text](https://github.com/csm-applications/CSM-CMtoolkit/blob/master/1_Documentation/GeneratedCMExample.jpg)
 
 
-Regarding the classifier efficiency, in netbeans console you can observe generation progress and some details about classifier training and Open IE extractions. In the current version the classifier achieved this performance:
+Regarding the classifier efficiency, in netbeans console you can observe generation progress and some details about classifier training and Open IE extractions. 
+
+In the current version the classifier achieved this performance:
 
 ```plaintext
 ------------------Classifier statistics------------------
@@ -139,6 +141,9 @@ Weighted Avg.    0,834    0,234    0,834      0,834    0,834      0,602    0,766
 ----------------------------End--------------------------
 ```
 
+We tested other classification algorithms using Weka and documented the results in a separate repository created exclusively to document the validation of our approach. 
+
+(Click here)[https://github.com/CSM-Research/04-EXP-CMAutoGeneration] to check out a detailed list of possible algorithms.
 
 # License
 
