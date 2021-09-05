@@ -143,7 +143,7 @@ Weighted Avg.    0,834    0,234    0,834      0,834    0,834      0,602    0,766
 
 We tested other classification algorithms using Weka and documented the results in a separate repository created exclusively to document the validation of our approach. 
 
-(Click here)[https://github.com/CSM-Research/04-EXP-CMAutoGeneration] to check out a detailed list of possible algorithms.
+[Click here](https://github.com/CSM-Research/04-EXP-CMAutoGeneration) to check out a detailed list of possible algorithms.
 
 # License
 
