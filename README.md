@@ -66,7 +66,7 @@ I recommend to use the graphical interface to build Conceptual Maps. You can eas
 
 The graphic interface looks like this after concept map generation:
 
-![alt text](https://github.com/csm-applications/CSM-CMtoolkit/blob/master/1_Documentation/CMGeneratorScreenshot.JPG)
+![alt text](https://github.com/csm-applications/CSM-CMtoolkit/blob/master/Documentation/CMGeneratorScreenshot.JPG)
 
 After concept map generation, the window will display the following informations:
 ```plaintext
@@ -112,7 +112,7 @@ After concept map generation, the window will display the following informations
 
 which can be summarized visually in:
 
-![alt text](https://github.com/csm-applications/CSM-CMtoolkit/blob/master/1_Documentation/GeneratedCMExample.jpg)
+![alt text](https://github.com/csm-applications/CSM-CMtoolkit/blob/master/Documentation/GeneratedCMExample.jpg)
 
 
 Regarding the classifier efficiency, in netbeans console you can observe generation progress and some details about classifier training and Open IE extractions. 
